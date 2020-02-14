@@ -1,0 +1,28 @@
+{% for post in paginator.posts %}
+<div class="list-item">
+    <h2 class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <div class="list-post-date">
+        <time>{{ post.date | date_to_string }}</time>
+    </div>
+</div>
+{% endfor %}
+<div class="list-pagination">
+    <span class="list-pagination-previous">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
+        &#60; previous
+        </a>
+    {% else %}
+    {% endif %}
+    </span>
+    <span class="list-pagination-next">
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+        next &#62;
+        </a>
+    {% else %}
+    {% endif %}
+    </span>
+</div>

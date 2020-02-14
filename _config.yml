@@ -1,0 +1,60 @@
+# # # # # # # # # # #
+#   Fat Tea House   #
+# # # # # # # # # # #
+
+# Basic
+name:               "Melody of Oblivion"
+author:             "monSteRhhe"
+url:                "https://melody-of-oblivion.github.io"
+
+copyright:
+  year:             2020
+  name:             Fat Tea House
+
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          /:year-:month-:day/:title/
+
+# Pagination
+paginate:           11
+paginate_path:      /page:num/
+
+# Markdown
+markdown:           kramdown
+kramdown:
+  input:            GFM
+
+# Navigation
+nav:
+  - name:           "About"
+    remote:         false
+    localpath:      "about"
+  - name:           "Download"
+    remote:         false
+    localpath:      "download"
+
+# Sass
+sass:
+  sass_dir:         /assets/css
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+# jekyll-seo-tag, see: https://github.com/jekyll/jekyll-seo-tag
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag

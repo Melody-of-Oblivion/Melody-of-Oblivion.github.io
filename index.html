@@ -1,0 +1,27 @@
+---
+layout: default
+paginate: true
+---
+
+<header class="masthead">
+  <h1 class="masthead-title">
+    <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s Land</span></a>
+  </h1>
+  <nav class="masthead-nav">
+    {% for nav in site.nav %}
+      {% if nav.remote %}
+      <a href="{{ nav.href }}">{{ nav.name }}</a>
+      {% else %}
+      <a href="{{ site.baseurl }}/{{ nav.localpath }}">{{ nav.name }}</a>
+      {% endif %}
+    {% endfor %}
+  </nav>
+</header>
+
+<div class="content list">
+  {% if site.posts.size == 0 %}
+    <h2>没有发现文章，什么情况Σ(ﾟдﾟ;)</h2>
+  {% else %}
+  {% include pagination.html %}
+  {% endif %}
+</div>
