@@ -1,6 +1,7 @@
-# # # # # # # # # # #
-#   Fat Tea House   #
-# # # # # # # # # # #
+# # # # # # # # # # # # #
+#     Fat-Tea-House     #
+#   Melody of Oblivion  #
+# # # # # # # # # # # # #
 
 # Basic
 name:               "Melody of Oblivion"
@@ -56,5 +57,5 @@ defaults:
 
 # jekyll-seo-tag, see: https://github.com/jekyll/jekyll-seo-tag
 gems:
-  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-paginate

@@ -268,7 +268,7 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 
   @media (min-width: 38rem){
-    padding: 5rem 2rem;
+    padding: 5rem 2.3rem;
   }
 }
 
@@ -297,15 +297,10 @@ tbody tr:nth-child(odd) th {
     padding-top: 1.5rem;
     font-size: 22px;
     font-weight: 600;
-
-    &-previous {
+  }
+  &-pagination-previous {
       float: left;
-    }
-    &-next {
-      float: right;
-    }
-
-    a {
+      a {
         color: #495057;
         &:hover,
         &:focus {
@@ -313,6 +308,22 @@ tbody tr:nth-child(odd) th {
             text-decoration: none;
         }
     }
+  }
+  &-pagination-next {
+      float: right;
+      a {
+        color: #495057;
+        &:hover,
+        &:focus {
+            color: #868e96;
+            text-decoration: none;
+        }
+    }
+  }
+  &-pagination-pagenum {
+    position: absolute;
+    float: left;
+    left: 50%;
   }
 }
 
@@ -403,7 +414,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .cssmenu {
-    background-image: url(../images/t1.png);
+    background-image: url(../img/t1.png);
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -422,7 +433,7 @@ tbody tr:nth-child(odd) th {
     top: 45px;
 
     &-btn1 {
-        background-image: url(../images/s1.png);
+        background-image: url(../img/s1.png);
         background-position: center;
         background-repeat: no-repeat;
         width: 5rem;
@@ -432,7 +443,7 @@ tbody tr:nth-child(odd) th {
         border: 1px solid #ccc;
     }
     &-btn2 {
-        background-image: url(../images/s2.png);
+        background-image: url(../img/s2.png);
         background-position: center;
         background-repeat: no-repeat;
         width: 5rem;

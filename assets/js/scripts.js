@@ -4,11 +4,6 @@ $(document).ready(function(){
     if (stylechoice==1) styleToggle(1);
     if (stylechoice==2) styleToggle(2);
 });
-function cookiecheck() {
-    var stylechoice = $.cookie('styles');
-    if (stylechoice==1) styleToggle(1);
-    if (stylechoice==2) styleToggle(2);
-}
 function btn1() {
     $.cookie('styles', '1', { expires: 7, path: '/' });
     cookiecheck();
@@ -16,6 +11,11 @@ function btn1() {
 function btn2() {
     $.cookie('styles', '2', { expires: 7, path: '/' });
     cookiecheck();
+}
+function cookiecheck() {
+    var stylechoice = $.cookie('styles');
+    if (stylechoice==1) styleToggle(1);
+    if (stylechoice==2) styleToggle(2);
 }
 function styleToggle(sort) {
     var css=document.getElementById("style");
@@ -41,4 +41,14 @@ $(document).ready(function() {
         return false;
     });
   });
+});
+
+// page height
+$(document).ready(function(){
+    var a = ($(window).height());
+    var b = ($(document.body).height());
+    if (a > b) {
+        var height=document.getElementById("window");
+        height.setAttribute("href","/assets/css/window.css");
+    }
 });

@@ -32,14 +32,6 @@ permalink: /about/
 
 ---
 
-### ▌Run in Local
-
-1. clone or download this repository to your computer.
-2. Run it  -- `Jekyll serve`
-3. Go to  [127.0.0.1:4000](http://127.0.0.1:4000/)
-
----
-
 ### ▌More Info
 
 >Github Pages Help	[→](https://help.github.com/en/github/working-with-github-pages)
@@ -48,5 +40,4 @@ permalink: /about/
 >
 >Github Desktop Download	[→](https://desktop.github.com/)
 >
->github-pages-gem	[→](https://github.com/github/pages-gem)
 
