@@ -10,5 +10,9 @@ html, body {
 }
 
 .content.list {
-    height: 78%;
+    height: 68%;
+
+    @media (min-width: 38em) {
+        height: 78%;
+    }
 }
