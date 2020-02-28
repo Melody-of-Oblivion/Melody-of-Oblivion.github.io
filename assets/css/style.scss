@@ -198,6 +198,11 @@ pre code {
   background-color: transparent;
 }
 
+rt,
+rp {
+  font-size: 15px;
+}
+
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
@@ -263,12 +268,12 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 44rem;
-  padding: 2.5rem 1.5rem;
+  padding: 3.5rem 1.3rem 2.5rem;
   margin-left:  auto;
   margin-right: auto;
 
   @media (min-width: 38rem){
-    padding: 5rem 2.3rem;
+    padding: 7rem 2.3rem 5rem;
   }
 }
 
@@ -405,12 +410,13 @@ tbody tr:nth-child(odd) th {
 }
 
 .toptb {
-    z-index: 1;
-    position: absolute;
-    border: 0;
-    width: 100%;
-    height: 47px;
-    zoom: 1;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  z-index: 1;
+  position: absolute;
+  width: 100%;
+  height: 47px;
+  zoom: 1;
 }
 
 .cssmenu {
@@ -420,17 +426,16 @@ tbody tr:nth-child(odd) th {
     position: absolute;
     width: 5rem;
     height: 45px;
-    right: 20px;
-    float: right;
-    border: 1px solid #ccc;
+    right: 0px;
+    border-left: 1px solid #ccc;
 }
 
 .csstoggle {
     width: 5rem;
     height: 90px;
-    position: absolute;
-    right: 20px;
     top: 45px;
+    right: 0px;
+    position: absolute;
 
     &-btn1 {
         background-image: url(../img/s1.png);
