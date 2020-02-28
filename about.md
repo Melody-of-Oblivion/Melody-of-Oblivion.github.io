@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于本站
 permalink: /about/
 ---
 
@@ -23,12 +23,6 @@ permalink: /about/
 - SEO supported
 - Pagination supported
 - ? ? ?
-
----
-
-### ▌To-Do List
-
-》The next major update time is random.
 
 ---
 

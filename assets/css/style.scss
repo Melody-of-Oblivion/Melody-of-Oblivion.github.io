@@ -1,7 +1,6 @@
 ---
 sitemap: false
 ---
-
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -268,7 +267,7 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 44rem;
-  padding: 3.5rem 1.3rem 2.5rem;
+  padding: 4rem 1.3rem 2.5rem;
   margin-left:  auto;
   margin-right: auto;
 
@@ -419,8 +418,24 @@ tbody tr:nth-child(odd) th {
   zoom: 1;
 }
 
+.tomain {
+  left: 0px;
+  top: 0px;
+  height: 45px;
+  width: 100px;
+  background-image: url(../img/mainbt-s.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  border-right: 1px solid #ccc;
+
+  @media (min-width: 38rem){
+    background-image: url(../img/mainbt-l.png);
+    width: 230px;
+  }
+}
+
 .cssmenu {
-    background-image: url(../img/t1.png);
+    background-image: url(../img/to.png);
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -438,7 +453,7 @@ tbody tr:nth-child(odd) th {
     position: absolute;
 
     &-btn1 {
-        background-image: url(../img/s1.png);
+        background-image: url(../img/select1.png);
         background-position: center;
         background-repeat: no-repeat;
         width: 5rem;
@@ -448,7 +463,7 @@ tbody tr:nth-child(odd) th {
         border: 1px solid #ccc;
     }
     &-btn2 {
-        background-image: url(../img/s2.png);
+        background-image: url(../img/select2.png);
         background-position: center;
         background-repeat: no-repeat;
         width: 5rem;
@@ -560,4 +575,3 @@ div {
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
-

@@ -18,7 +18,7 @@ baseurl:            ""
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           11
+paginate:           12
 paginate_path:      /page:num/
 
 # Markdown
@@ -31,9 +31,9 @@ nav:
   - name:           "About"
     remote:         false
     localpath:      "about"
-  - name:           "Download"
+  - name:           "Resources"
     remote:         false
-    localpath:      "download"
+    localpath:      "resources"
 
 # Sass
 sass:
