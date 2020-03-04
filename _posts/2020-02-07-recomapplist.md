@@ -1,6 +1,6 @@
 ---
 title: "推荐应用整合"
-date: "2020-02-18"
+date: "2020-03-14"
 ---
 
 ---
@@ -13,7 +13,7 @@ date: "2020-02-18"
  \>  <a href="#1">电脑软件</a>  
  \>  <a href="#2">手机应用</a>  
  \>  <a href="#3">实用网页</a> 
- 
+
 ---
 
 ### ▌<span id="1">电脑软件</span>
@@ -107,6 +107,8 @@ date: "2020-02-18"
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
 
 ​	密码管理软件：[Keepass](https://keepass.info/)
+
+​	磁链搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
 
 #### 7. 美化系列
 

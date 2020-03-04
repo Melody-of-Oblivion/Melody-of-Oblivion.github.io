@@ -34,3 +34,9 @@
 [MIT](LICENSE) LICENSE
 
 Copyright © 2020 Fat Tea House
+
+---
+
+### 声明
+
+部分代码来自[Kiko](https://github.com/gfjaru/Kiko)和[Kiko-plus](https://github.com/aweekj/Kiko-plus)

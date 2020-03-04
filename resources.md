@@ -9,7 +9,7 @@ permalink: /resources/
 
 资源将会陆陆续续放到这边。欢迎测试资源是否可以下载。
 
-分类未完全。
+未完全分类。
 
 有什么需要的也可以告诉我哦 ( 比如音乐资源啦，什么游戏的资源啦什么的，找到了就会再这里放出)
 
@@ -65,11 +65,11 @@ permalink: /resources/
 
 ​	Hollow Knight ( 空洞骑士 )： [链接](http://dl19.cudown.com/3DMGAME_Hollow_Knight.V1.3.1.5.CHS.Green.rar) / [度盘](https://pan.baidu.com/s/1EtaZZoUWdy2uXwY8OSzVqg)
 
- 	Jump King ( 跳王 )：[magnet](magnet:?xt=urn:btih:4564E899C10E929B61B287281839042FDF377624)
+​	Jump King ( 跳王 )：[magnet](magnet:?xt=urn:btih:4564E899C10E929B61B287281839042FDF377624)
 
- 	Getting Over It with Bennett Foddy ( 和班尼特福迪一起攻克难关 )：[度盘](https://pan.baidu.com/s/1vTyd9X417VpfAusLaMo75Q)
+​	Getting Over It with Bennett Foddy ( 和班尼特福迪一起攻克难关 )：[度盘](https://pan.baidu.com/s/1vTyd9X417VpfAusLaMo75Q)
 
- 	Undertale ( 传说之下 )：[magnet](magnet:?xt=urn:btih:A820B122CECE91145B134A5F76C03F163678A49F)
+​	Undertale ( 传说之下 )：[magnet](magnet:?xt=urn:btih:A358D1ED93374FAD645EF98CA635356A02F33A38)
 
 ​	Iris Fall ( 彩虹坠入 )：[度盘](https://pan.baidu.com/s/1RbGVW8UJ0zzpoidGO3AhoQ)
 
