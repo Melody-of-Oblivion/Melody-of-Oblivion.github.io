@@ -1,5 +1,4 @@
 ---
-sitemap: false
 ---
 * {
   -webkit-box-sizing: border-box;
@@ -266,13 +265,13 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 44rem;
+  max-width: 42rem;
   padding: 4rem 1.3rem 2.5rem;
   margin-left:  auto;
   margin-right: auto;
 
   @media (min-width: 38rem){
-    padding: 7rem 2.3rem 5rem;
+    padding: 6rem 2rem 5rem;
   }
 }
 
@@ -396,108 +395,102 @@ tbody tr:nth-child(odd) th {
 
 .toptb {
   background-color: #fff;
-  border: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
   z-index: 1;
   position: fixed;
   width: 100%;
-  height: 47px;
+  height: 46px;
   zoom: 1;
 }
 
 .tomain {
-  left: 0px;
   top: 0px;
+  left: 0px;
   height: 45px;
-  width: 100px;
-  background-image: url(../img/mainbt-s.png);
-  background-repeat: no-repeat;
+  width: 5rem;
   position: absolute;
+  border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
-
-  @media (min-width: 38rem){
-    background-image: url(../img/mainbt-l.png);
-    width: 230px;
-  }
 }
 
 .cssmenu {
-    background-image: url(../img/to.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    position: absolute;
-    width: 5rem;
-    height: 45px;
-    right: 0px;
-    border-left: 1px solid #ccc;
+  background-image: url(../img/to.png);
+  background-position: center;
+  position: absolute;
+  width: 5rem;
+  height: 45px;
+  top: 0px;
+  right: 0px;
+  border-left: 1px solid #ccc;
 }
 
 .csstoggle {
-    width: 5rem;
-    height: 90px;
-    top: 45px;
-    right: 0px;
-    position: absolute;
+  width: 5rem;
+  height: 90px;
+  top: 45px;
+  right: 0px;
+  position: fixed;
 
-    &-btn1 {
-        background-image: url(../img/select1.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 5rem;
-        height: 45px;
-        cursor: pointer;
-        display: block;
-        border: 1px solid #ccc;
-    }
-    &-btn2 {
-        background-image: url(../img/select2.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 5rem;
-        height: 45px;
-        cursor: pointer;
-        display: block;
-        border: 1px solid #ccc;
-    }
+  &-btn1 {
+    background-image: url("../img/btn1.png");
+    width: 5rem;
+    height: 45px;
+    cursor: pointer;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
+  &-btn2 {
+    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+    width: 5rem;
+    height: 45px;
+    cursor: pointer;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
 }
 
 .to-top.on {
-    cursor: pointer;
-    opacity: 0.5;
-    transform: translateY(0);
+  cursor: pointer;
+  opacity: 0.5;
+  transform: translateY(0);
 }
 
 .to-top {
-    position: fixed;
-    background-image: url(https://i.loli.net/2020/01/18/poGIzKEZb78HdWc.png);
-    background-position: 5px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #e5e9f0;
-    background-color: #3d3d3d;
-    border-radius: 4px;
-    right: 20px;
-    bottom: 50px;
-    transition: background-color .2s,border .2s,opacity .2s,transform .2s;
-    opacity: 0;
-    transform: translateY(25px);
+  position: fixed;
+  background-image: url(https://i.loli.net/2020/01/18/poGIzKEZb78HdWc.png);
+  background-position: 5px;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #e5e9f0;
+  background-color: #3d3d3d;
+  border-radius: 4px;
+  right: 20px;
+  bottom: 50px;
+  transition: background-color .2s,border .2s,opacity .2s,transform .2s;
+  opacity: 0;
+  transform: translateY(25px);
 }
 
 div {
-    display: block;
-    margin: 0;
-    padding: 0;
+  display: block;
+  margin: 0;
+  padding: 0;
 }
 
 .footer {
-    border-top: 2rem;
-    text-align: center;
-    font-size: .95rem;
-    
-    hr {
-        margin-top: 1rem;
-        margin-bottom: 2rem;
-        max-width: 44rem;
-    }
+  border-top: 2rem;
+  text-align: center;
+  font-size: .95rem;
+
+  hr {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    max-width: 44rem;
+  }
 }
 
 .highlight .hll { background-color: #ffffcc }
