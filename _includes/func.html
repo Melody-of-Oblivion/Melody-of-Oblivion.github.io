@@ -1,11 +1,15 @@
 <div class="toptb" >
-    <a class="cssmenu" onmouseover=$(".csstoggle").fadeIn(200); onmouseout=$(".csstoggle").fadeOut(50);></a>
+    <a class="cssmenu" onmouseover=$(".csstoggle").fadeIn(200); onmouseout=$(".csstoggle").fadeOut(50);>
+        <img src="/assets/img/stmenu.png" alt>
+    </a>
     <a class="tomain" href="/">
-        <img src="{{ site.baseurl }}/assets/img/mainbtn.png" alt>
+        <img src="/assets/img/mainbtn.png" alt>
     </a>
 </div>
 <div class="csstoggle" style="display: none" onmouseover=$(".csstoggle").fadeIn(50); onmouseout=$(".csstoggle").fadeOut(200);>
-    <div class="csstoggle-btn1" onclick="btn1();" title="点击切换到样式1"></div>
-    <div class="csstoggle-btn2" onclick="btn2();" title="点击切换到样式2"></div>
+    <div class="csstoggle-btn" onclick="btn1();">
+        <img src="/assets/img/btn1.png" alt>
+    </div>
+    <div style="background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);" class="csstoggle-btn" onclick="btn2();"></div>
 </div>
 <div class="to-top"></div>

@@ -40,7 +40,7 @@ a {
   text-decoration: none;
   &:hover,
   &:focus {
-        text-decoration: underline;
+    text-decoration: underline;
   }
 }
 
@@ -303,25 +303,25 @@ tbody tr:nth-child(odd) th {
     font-weight: 600;
   }
   &-pagination-previous {
-      float: left;
-      a {
-        color: #495057;
-        &:hover,
-        &:focus {
-            color: #868e96;
-            text-decoration: none;
-        }
+    float: left;
+    a {
+      color: #495057;
+      &:hover,
+      &:focus {
+        color: #868e96;
+        text-decoration: none;
+      }
     }
   }
   &-pagination-next {
-      float: right;
-      a {
-        color: #495057;
-        &:hover,
-        &:focus {
-            color: #868e96;
-            text-decoration: none;
-        }
+    float: right;
+    a {
+      color: #495057;
+      &:hover,
+      &:focus {
+        color: #868e96;
+        text-decoration: none;
+      }
     }
   }
   &-pagination-pagenum {
@@ -397,7 +397,7 @@ tbody tr:nth-child(odd) th {
 .toptb {
   z-index: 1;
   width: 100%;
-  height: 46px;
+  height: 47px;
   background-color: #fff;
   border-bottom: 1px solid #ccc;
   border-top: 1px solid #ccc;
@@ -415,13 +415,11 @@ tbody tr:nth-child(odd) th {
 }
 
 .cssmenu {
-  background-image: url(../img/to.png);
-  background-position: center;
-  position: absolute;
   width: 5rem;
   height: 45px;
   top: 0px;
   right: 0px;
+  position: absolute;
   border-left: 1px solid #ccc;
 }
 
@@ -432,8 +430,7 @@ tbody tr:nth-child(odd) th {
   right: 0px;
   position: fixed;
 
-  &-btn1 {
-    background-image: url("../img/btn1.png");
+  &-btn {
     width: 5rem;
     height: 45px;
     cursor: pointer;
@@ -442,22 +439,6 @@ tbody tr:nth-child(odd) th {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
   }
-  &-btn2 {
-    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
-    width: 5rem;
-    height: 45px;
-    cursor: pointer;
-    display: block;
-    border-bottom: 1px solid #ccc;
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
-  }
-}
-
-.to-top.on {
-  cursor: pointer;
-  opacity: 0.5;
-  transform: translateY(0);
 }
 
 .to-top {
@@ -474,6 +455,12 @@ tbody tr:nth-child(odd) th {
   transition: background-color .2s,border .2s,opacity .2s,transform .2s;
   opacity: 0;
   transform: translateY(25px);
+}
+
+.to-top.on {
+  cursor: pointer;
+  opacity: 0.5;
+  transform: translateY(0);
 }
 
 div {

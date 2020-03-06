@@ -1,21 +1,16 @@
 // styles toggle
 $(document).ready(function(){
-    var stylechoice = $.cookie('styles');
+    var stylechoice = $.cookie('stylecheck');
     if (stylechoice==1) styleToggle(1);
     if (stylechoice==2) styleToggle(2);
 });
 function btn1() {
-    $.cookie('styles', '1', { expires: 7, path: '/' });
-    cookiecheck();
+    $.cookie('stylecheck', '1', { expires: 7, path: '/' });
+    styleToggle(1);
 }
 function btn2() {
-    $.cookie('styles', '2', { expires: 7, path: '/' });
-    cookiecheck();
-}
-function cookiecheck() {
-    var stylechoice = $.cookie('styles');
-    if (stylechoice==1) styleToggle(1);
-    if (stylechoice==2) styleToggle(2);
+    $.cookie('stylecheck', '2', { expires: 7, path: '/' });
+    styleToggle(2);
 }
 function styleToggle(sort) {
     var css=document.getElementById("style");
