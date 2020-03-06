@@ -1,5 +1,6 @@
 ---
 ---
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -129,7 +130,7 @@ ol + h3 {
 
 hr {
   border: 0;
-  border-top: .5px solid #000;
+  border-top: .5px solid #eee;
   border-bottom: .5px solid #3d3d3d;
   margin: 1.5rem auto;
 }
@@ -394,13 +395,13 @@ tbody tr:nth-child(odd) th {
 }
 
 .toptb {
-  background-color: #fff;
-  border-bottom: 1px solid #ccc;
   z-index: 1;
-  position: fixed;
   width: 100%;
   height: 46px;
-  zoom: 1;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  position: fixed;
 }
 
 .tomain {
