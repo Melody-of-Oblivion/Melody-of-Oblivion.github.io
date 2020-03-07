@@ -3,8 +3,6 @@ title: 关于本站
 permalink: /about/
 ---
 
----
-
 <img src="https://i.loli.net/2020/02/08/zcWlX7k1dsoJ5OB.gif" alt="gif1" style="zoom: 80%;" />
 
 ------
