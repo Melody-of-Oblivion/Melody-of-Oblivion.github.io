@@ -1,6 +1,7 @@
 <div class="content list">
     {% if site.posts.size == 0 %}
       <h2>没有发现文章，什么情况Σ(ﾟдﾟ;)</h2>
+      <h2>やれやれだぜ！（￣へ￣＃）</h2>
     {% else %}
     {% for post in paginator.posts %}
     <div class="list-item">
@@ -8,7 +9,10 @@
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h2>
         <div class="list-post-date">
-            <time>{{ post.date | date_to_string }}</time>
+            <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+            {% if post.editdate %}
+            <span> | Latest Update: {{ post.editdate | date: "%Y-%m-%d" }}</span>
+            {% endif %}
         </div>
     </div>
     {% endfor %}

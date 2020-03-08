@@ -18,7 +18,7 @@ baseurl:            ""
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           12
+paginate:           13
 paginate_path:      /page:num/
 
 # Markdown

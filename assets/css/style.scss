@@ -295,7 +295,7 @@ tbody tr:nth-child(odd) th {
     color: #868e96;
     font-size: .8rem;
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: capitalize;
   }
   &-pagination {
     padding-top: 1.5rem;

@@ -1,9 +1,9 @@
 ---
 title: "推荐应用整合"
-date: "2020-03-04"
+date: "2020-03-08"
 ---
 
-**观前提示：**个人整理，长期更新。最近更新时间为本文标注的时间。许多软件待测试，有条件的希望能帮忙测试一下实用性哈。(°∀°)ﾉ
+**观前提示：**个人整理，长期更新。最近更新时间为本文标注的时间。许多软件待测试，有条件的希望能帮忙测试一下实用性哈。(°∀°)ﾉ还有，欢迎补充！
 
 ---
 
@@ -77,8 +77,6 @@ date: "2020-03-04"
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [Advanced SystemCare Pro](https://sn9.us/dir/17401394-32035064-f41fb7) / [CCleaner](https://www.ccleaner.com/) [^5]
 
 ​	性能优化：[Process Lasso](https://sn9.us/dir/17401394-28329602-9fe960) / [Mem Reduct](https://www.henrypp.org/product/memreduct)
-
-​	驱动更新：[360驱动大师](https://pan.baidu.com/s/1f_iyF-0p1uJ9SMxs0BCLAA) (wawp)
 
 #### 5. 浏览器
 

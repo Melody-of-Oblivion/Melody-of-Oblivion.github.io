@@ -4,7 +4,10 @@ layout: default
 <div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
+    <span>创建时间：{{ page.date | date: "%Y-%m-%d" }}</span>
+    {% if page.editdate %}
+    <span> | 最后编辑：{{ page.editdate | date: "%Y-%m-%d" }}</span>
+    {% endif %}
   </div>
   <hr>
   {{ content }}
