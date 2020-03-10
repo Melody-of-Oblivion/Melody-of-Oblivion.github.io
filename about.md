@@ -16,6 +16,14 @@ permalink: /about/
 
 ---
 
+### ▌计划
+
+- 新样式
+- 新功能
+- 更多有用的posts
+
+---
+
 ### ▌更多
 
 >Github Pages Help	[→](https://help.github.com/en/github/working-with-github-pages)
