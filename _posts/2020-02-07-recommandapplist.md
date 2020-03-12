@@ -1,6 +1,6 @@
 ---
 title: "推荐应用整合"
-date: "2020-03-08"
+date: "2020-03-11"
 ---
 
 **观前提示：**个人整理，长期更新。最近更新时间为本文标注的时间。许多软件待测试，有条件的希望能帮忙测试一下实用性哈。(°∀°)ﾉ还有，欢迎补充！
@@ -80,7 +80,7 @@ date: "2020-03-08"
 
 #### 5. 浏览器
 
-​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/) / [火狐](http://www.firefox.com.cn/) / [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/)	/	[火狐](http://www.firefox.com.cn/)	/	[Firefox](https://www.mozilla.org/en-US/firefox/new/)	/	[Edge](https://www.microsoft.com/en-us/edge)
 
 #### 6. 实用软件
 
