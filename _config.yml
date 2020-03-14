@@ -6,7 +6,7 @@
 # Basic
 name:               "Melody of Oblivion"
 author:             "monSteRhhe"
-url:                "https://melody-of-oblivion.github.io"
+url:                "//melody-of-oblivion.github.io"
 
 copyright:
   year:             2020
@@ -28,12 +28,15 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    remote:         false
-    localpath:      "about"
-  - name:           "Resources"
-    remote:         false
-    localpath:      "resources"
+  - 
+    href:           /
+    name:           "Home"
+  - 
+    href:           /about/
+    name:           "About"
+  - 
+    href:           /resources/
+    name:           "Resources"
 
 # Sass
 sass:
@@ -42,20 +45,18 @@ sass:
 
 # Scopes
 defaults:
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "pages"
     values:
       layout:       "page"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "posts"
     values:
       layout:       "post"
 
 # jekyll-seo-tag, see: https://github.com/jekyll/jekyll-seo-tag
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
