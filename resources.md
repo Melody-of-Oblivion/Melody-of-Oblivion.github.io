@@ -35,6 +35,8 @@ permalink: /resources/
 
 ​	Ori and the Blind Forest DE ( 奥日和黑暗森林终极版 )：[magnet](magnet:?xt=urn:btih:7C5F3592D323288AAAA09EF8467610D600565DA7)
 
+​	Ori and the Will of the Wisps：[magnet](magnet:?xt=urn:btih:5C07C6841CE1B10D5D69D511ABBDD7ECD37EAAAC)
+
 ​	Kenshi ( 剑士 )：[magnet](magnet:?xt=urn:btih:89B297542BE2604E307480E205935C6D5E3A86A3)
 
 ​	GRIS：[magnet](magnet:?xt=urn:btih:B00732E61DB0935B4C80370546D36A87B8AB859C)
