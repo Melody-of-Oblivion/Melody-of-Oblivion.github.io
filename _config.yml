@@ -28,15 +28,14 @@ kramdown:
 
 # Navigation
 nav:
-  - 
-    href:           /
+  - href:           /
     name:           "Home"
-  - 
-    href:           /about/
+  - href:           /about/
     name:           "About"
-  - 
-    href:           /resources/
+  - href:           /resources/
     name:           "Resources"
+  - href:           /applist/
+    name:           "Applist"
 
 # Sass
 sass:
@@ -56,7 +55,8 @@ defaults:
     values:
       layout:       "post"
 
-# jekyll-seo-tag, see: https://github.com/jekyll/jekyll-seo-tag
+# Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-avatar

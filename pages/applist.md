@@ -1,6 +1,7 @@
 ---
 title: "推荐应用整合"
-date: "2020-03-11"
+permalink: /applist/
+author: "monSteRhhe"
 ---
 
 **观前提示：**个人整理，长期更新。最近更新时间为本文标注的时间。许多软件待测试，有条件的希望能帮忙测试一下实用性哈。(°∀°)ﾉ还有，欢迎补充！
@@ -105,6 +106,10 @@ date: "2020-03-11"
 ​	密码管理软件：[Keepass](https://keepass.info/)
 
 ​	磁链搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
+
+​	图片放大降噪：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases)
+
+​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
 #### 7. 美化系列
 
