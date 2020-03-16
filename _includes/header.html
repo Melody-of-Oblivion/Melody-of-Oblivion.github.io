@@ -14,11 +14,11 @@
 <!-- Feed Valadator:http://www.feedvalidator.org/ -->
 </head>
 <header class="toptable">
-    <div class="toptable-contain">
-        <div class="toptable-nav">
-        {% for nav in site.nav %}
-        <a href="{{ site.url }}{{ nav.href }}" class="toptable-nav-item">{{ nav.name }}</a>
-        {% endfor %}
-        </div>
+  <div class="toptable-contain">
+    <div class="toptable-nav">
+    {% for nav in site.nav %}
+    	<a href="{{ site.url }}{{ nav.href }}" class="toptable-nav-item">{{ nav.name }}</a>
+    {% endfor %}
     </div>
+  </div>
 </header>
