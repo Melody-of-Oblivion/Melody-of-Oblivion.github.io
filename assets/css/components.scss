@@ -189,20 +189,27 @@ div {
   }
   &-nav {
       float: left;
-      height: 49px;
+      height: 46px;
+
+      @media (min-width: 38rem){
+        height: 49px;
+      }
   }
   &-nav-item {
       display: inline-block;
-      margin-right: 1.25rem;
       font-weight: bold;
       padding: 9px 6px;
       text-align: center;
       border-left: 1px solid #ccc;
       border-right: 1px solid #ccc;
-
       overflow: hidden;
       transition: all .35s;
       position: relative;
+
+      @media (min-width: 38rem){
+        margin-right: 1.25rem;
+      }
+
       &:hover {
           color: #fff;
           background: none;
