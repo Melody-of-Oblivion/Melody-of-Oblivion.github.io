@@ -44,7 +44,7 @@ permalink: /applist/
 
 ​	强大的Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Yu Writer](https://ivarptr.github.io/yu-writer.site/) / [Tea](https://haocha.co/#downloads)
 
-​	C语言IDEA：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
+​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans)
 
