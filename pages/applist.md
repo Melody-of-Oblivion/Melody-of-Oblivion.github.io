@@ -134,9 +134,11 @@ permalink: /applist/
 
 #### 8. 下载器
 
-​	正常用的：[迅雷](https://sn9.us/dir/17401394-28999705-70748d)
+​	吸血雷：[迅雷](https://sn9.us/dir/17401394-28999705-70748d)
 
-​	其他下载器： [Motrix](https://motrix.app/) / [IDM](https://sn9.us/dir/17401394-32947851-02c5dc) / [FDM](https://www.freedownloadmanager.org/zh/download.htm)
+​	普通下载链：[IDM](https://sn9.us/dir/17401394-32947851-02c5dc)
+
+​	BT和磁链：[FDM](https://www.freedownloadmanager.org/zh/download.htm)
 
 ​	网盘：[百度网盘](http://pan.baidu.com/download)
 
