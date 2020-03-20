@@ -1,10 +1,11 @@
 ---
 title: "推荐应用整合"
 permalink: /applist/
-author: "monSteRhhe"
 ---
 
-**观前提示：**个人整理，长期更新。最近更新时间为本文标注的时间。许多软件待测试，有条件的希望能帮忙测试一下实用性哈。(°∀°)ﾉ还有，欢迎补充！
+**观前提示：**个人整理，长期更新。
+
+许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
 ---
 
@@ -31,7 +32,7 @@ author: "monSteRhhe"
 
 ​	思维导图软件：[MindMaster](https://sn9.us/dir/17401394-34564972-bfdbd7) / [XMind 8](https://sn9.us/dir/17401394-28904084-889ec6) / [XMind ZEN](https://sn9.us/dir/17401394-31674623-8fb6f2)
 
-​	文件自动分类工具：[Dropit](https://pan.baidu.com/s/1RMPGu5SSarTNUWp5003Gcg) (z2p8) [^3]
+​	文件自动分类移动工具：[Dropit](https://pan.baidu.com/s/1RMPGu5SSarTNUWp5003Gcg) (z2p8) [^3]
 
 #### 2. 编辑工具
 
@@ -42,6 +43,8 @@ author: "monSteRhhe"
 ​	支持许多语言和插件的编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
 
 ​	强大的Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Yu Writer](https://ivarptr.github.io/yu-writer.site/) / [Tea](https://haocha.co/#downloads)
+
+​	C语言IDEA：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans)
 
@@ -111,6 +114,8 @@ author: "monSteRhhe"
 
 ​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
+​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
+
 #### 7. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
@@ -133,7 +138,7 @@ author: "monSteRhhe"
 
 ​	其他下载器： [Motrix](https://motrix.app/) / [IDM](https://sn9.us/dir/17401394-32947851-02c5dc) / [FDM](https://www.freedownloadmanager.org/zh/download.htm)
 
-​	可以存点东西的：[百度网盘](http://pan.baidu.com/download)
+​	网盘：[百度网盘](http://pan.baidu.com/download)
 
 #### 9. 虚拟机
 
@@ -199,9 +204,9 @@ author: "monSteRhhe"
 
 ​	Windows系统镜像资源站：[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
-​	渐变色背景选取：[WebGradients](https://webgradients.com/)
+​	渐变色背景：[WebGradients](https://webgradients.com/)
 
-​	看番用：[樱花动漫](http://www.imomoe.io/) / [dilidili](http://www.dilidili.in/)
+​	看番用：[樱花动漫](http://www.imomoe.io/)
 
 #### 3. 工具网站
 

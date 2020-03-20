@@ -12,8 +12,6 @@ permalink: /about/
 
 》用于记录一些有用的东西。
 
-》吃人中，代码/post/建议都欢迎
-
 》~~这里留一个[群相册](https://h5.qzone.qq.com/groupphoto/index?inqq=3&groupId=609205733)入口。~~
 
 ---
