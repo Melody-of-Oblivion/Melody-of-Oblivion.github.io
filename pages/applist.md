@@ -1,5 +1,5 @@
 ---
-title: "推荐应用整合"
+title: 推荐应用整合
 permalink: /applist/
 ---
 
