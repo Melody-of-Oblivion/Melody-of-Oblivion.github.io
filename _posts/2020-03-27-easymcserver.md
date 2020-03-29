@@ -61,7 +61,7 @@ pause
 
 新建一个文件夹，放入服务端和bat脚本，这个文件夹就是服务器的文件夹了。双击bat打开服务器（有的服务端能自己下载Libraries，有的需要自己另外下），具体的开服操作这里不详细讲了，具体可以看[这里](https://www.mcbbs.net/thread-916822-1-1.html)，服务端优化的方法也能在这里找到。自己多尝试尝试，就知道该怎么整了。
 
-服务器开启后要修改server.properties文件，具体的设置可见[这里](https://minecraft-zh.gamepedia.com/index.php?title=Server.properties&variant=zh)，修改完重启服务器生效。
+服务器开启后要修改server.properties文件，具体的设置可见[这里](https://wiki.biligame.com/mc/Server.properties)，修改完重启服务器生效。
 
 用云服务器开服要将服务器文件夹上传到云服务器上再开服。
 

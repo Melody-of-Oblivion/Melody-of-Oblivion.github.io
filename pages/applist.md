@@ -142,6 +142,8 @@ permalink: /applist/
 
 ​	吸血雷：[迅雷](https://sn9.us/dir/17401394-28999705-70748d)
 
+​	Thunder9精简版：[Lite](https://pan.baidu.com/s/1Jn4pfjp7q_dWqfjA8aqE7A)
+
 ​	普通下载链：[IDM](https://sn9.us/dir/17401394-32947851-02c5dc)
 
 ​	BT和磁链：[FDM](https://www.freedownloadmanager.org/zh/download.htm)
