@@ -7,7 +7,7 @@ permalink: /applist/
 
 **Ciallo～(∠・ω< )⌒☆**
 
-个人整理，长期更新。最后编辑：2020-04-01
+个人整理，长期更新。**最后编辑：2020-04-02**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -105,6 +105,8 @@ permalink: /applist/
 ​	office自定义安装、激活工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/)
 
 ​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/)
+
+​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
 ​	Steam小工具：[UsbEAm](https://www.dogfight360.com/blog/475/) / [steamcommunity](https://www.dogfight360.com/blog/686/)
 

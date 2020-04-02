@@ -1,6 +1,6 @@
 ---
 title: "日语随手记"
-editdate: "2020-03-15"
+editdate: "2020-04-02"
 ---
 
 欢迎纠正。（づ￣3￣）づ╭❤～来源不定，更新也不定。
@@ -697,15 +697,62 @@ editdate: "2020-03-15"
 」
 </ruby>		（神）
 
-「煉獄庭園」	（ren go ku te i en，（音乐素材屋）炼狱庭园 ）
+<ruby>
+「煉獄
+（<rp>(</rp><rt></rt><rp>)</rp>
+ら<rp>(</rp><rt>re</rt><rp>)</rp>
+ん<rp>(</rp><rt>n</rt><rp>)</rp>
+ご<rp>(</rp><rt>go</rt><rp>)</rp>
+く<rp>(</rp><rt>ku</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+庭園
+（<rp>(</rp><rt></rt><rp>)</rp>
+て<rp>(</rp><rt>te</rt><rp>)</rp>
+い<rp>(</rp><rt>i</rt><rp>)</rp>
+え<rp>(</rp><rt>e</rt><rp>)</rp>
+ん<rp>(</rp><rt>n</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+」
+</ruby>		（（音乐素材屋）炼狱庭园 ）
 
-「漫画／まんが」		（man ga，漫画）
+<ruby>
+「漫画
+（<rp>(</rp><rt></rt><rp>)</rp>
+ま<rp>(</rp><rt>ma</rt><rp>)</rp>
+ん<rp>(</rp><rt>n</rt><rp>)</rp>
+が<rp>(</rp><rt>ga</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+」
+</ruby>		（漫画）
 
-「動画／どうが」		（dou ga，动画）
+<ruby>
+「動画
+（<rp>(</rp><rt></rt><rp>)</rp>
+ど<rp>(</rp><rt>do</rt><rp>)</rp>
+う<rp>(</rp><rt>u</rt><rp>)</rp>
+が<rp>(</rp><rt>ga</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+」
+</ruby>		（动画）
 
-「写真」			（sha shin，照片）
+<ruby>
+「写真
+（<rp>(</rp><rt></rt><rp>)</rp>
+しゃ<rp>(</rp><rt>sha</rt><rp>)</rp>
+し<rp>(</rp><rt>shi</rt><rp>)</rp>
+ん<rp>(</rp><rt>n</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+」
+</ruby>		（照片）
 
-「水」				（mi zu，水）
+<ruby>
+「水
+（<rp>(</rp><rt></rt><rp>)</rp>
+み<rp>(</rp><rt>mi</rt><rp>)</rp>
+ず<rp>(</rp><rt>zu</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+」
+</ruby>		（水）
 
 「水着」			（mi zu gi，泳衣）
 
@@ -816,6 +863,20 @@ editdate: "2020-03-15"
 ）」
 </ruby>		（灵魂，魂魄）
 
+<ruby>
+「夏
+（<rp>(</rp><rt></rt><rp>)</rp>
+な<rp>(</rp><rt>na</rt><rp>)</rp>
+つ<rp>(</rp><rt>tsu</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+休
+（<rp>(</rp><rt></rt><rp>)</rp>
+や<rp>(</rp><rt>ya</rt><rp>)</rp>
+す<rp>(</rp><rt>su</rt><rp>)</rp>
+）<rp>(</rp><rt></rt><rp>)</rp>
+み<rp>(</rp><rt>mi</rt><rp>)</rp>
+」
+</ruby>		（暑假）
 
 
 ### 正常称呼：
@@ -912,7 +973,7 @@ editdate: "2020-03-15"
 い<rp>(</rp><rt>i</rt><rp>)</rp>
 え<rp>(</rp><rt>e</rt><rp>)</rp>
 」
-</ruby>		（ ( 口语 ) 不用谢）
+</ruby>		（ ( 口语 ) 不用谢，否定回答）
 
 **道歉：**
 
