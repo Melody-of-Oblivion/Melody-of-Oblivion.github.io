@@ -3,18 +3,15 @@ title: 关于本站
 permalink: /about/
 ---
 
-<img src="https://i.loli.net/2020/02/08/zcWlX7k1dsoJ5OB.gif" alt="gif1" style="zoom: 80%;" />
-
-------
 ### ▌概要
 
 》个人小破站，内容更新中。
 
 用于记录一些有用的东西。
 
-最近没脑洞了，有XDM来帮帮忙吗。qwq求求
+非盈利个人博客~~（混账群友不来一起整）~~，由于个人精力有限而且技术力并不足，网页和内容更新都只能慢慢来了。
 
-》~~这里留一个[群相册](https://h5.qzone.qq.com/groupphoto/index?inqq=3&groupId=609205733)入口。~~
+最近没脑洞了，咕了。
 
 ---
 
