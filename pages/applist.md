@@ -7,7 +7,7 @@ permalink: /applist/
 
 **Ciallo～(∠・ω< )⌒☆**
 
-个人整理，长期更新。**最后编辑：2020-04-02**
+个人整理，长期更新。**最后编辑：2020-04-08**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -249,6 +249,8 @@ permalink: /applist/
 ​	生成二维码：[草料二维码](https://cli.im/)
 
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
+
+​	传文件：[奶牛快传](http://www.cowtransfer.com/)
 
 ​	度盘资源搜索：[盘搜](http://www.pansou.com/) / [如风搜](http://www.rufengso.net/) / [小白盘](https://www.xiaobaipan.com/) / [盘搜搜](http://www.pansoso.com/) / [坑搜网](http://www.kengso.com/) / [搜百度盘](https://www.sobaidupan.com/index.asp)
 

@@ -94,22 +94,38 @@
       color: #404040;
     }
   }
+  &-description {
+    text-align: right;
+    border-bottom: 1px solid #3d3d3d;
+    margin: 1rem 0 2rem 0;
+  }
 }
 
 .page {
   &-title {
+    font-weight: 300;
+    text-align: center;
     margin-bottom: 1rem;
+    border: 1px solid #3d3d3d;
+    padding: .5rem 0;
   }
 }
 
 .post {
   &-title {
-    margin-bottom: .25rem;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: .2rem;
+    border: 1px solid #3d3d3d;
   }
   &-date {
+    width: 100%;
     margin-bottom: 1rem;
     font-size: .8rem;
     text-transform: uppercase;
+    text-align: right;
+    display: inline-grid;
+    border-bottom: 1px solid #3d3d3d;
   }
 }
 
@@ -152,10 +168,23 @@ div {
   text-align: center;
   font-size: .95rem;
 
+  &-links {
+
+
+    a {
+      display: inline-block;
+    }
+
+    img {
+      margin: 0 .2rem;
+      width: 20px;
+      height: 20px;
+    }
+  }
+
   hr {
-    margin-top: 1rem;
-    margin-bottom: 1.5rem;
-    max-width: 44rem;
+    margin: 1rem auto;
+    max-width: 42rem;
   }
 }
 

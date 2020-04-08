@@ -6,7 +6,7 @@
 # Basic
 name:               "Melody of Oblivion"
 author:             "monSteRhhe"
-url:                "//melody-of-oblivion.github.io"
+url:                "https://melody-of-oblivion.github.io"
 
 copyright:
   year:             2020
@@ -25,6 +25,7 @@ paginate_path:      /page:num/
 markdown:           kramdown
 kramdown:
   input:            GFM
+highlighter:        rouge
 
 # Navigation
 nav:
@@ -59,4 +60,3 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-avatar

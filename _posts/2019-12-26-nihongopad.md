@@ -1,13 +1,13 @@
 ---
 title: "日语随手记"
-editdate: "2020-04-02"
+editdate: "2020-04-08"
 ---
 
 欢迎纠正。（づ￣3￣）づ╭❤～来源不定，更新也不定。
 
-目前的来源一般是偶尔从哪里见到的，然后有时间就给加上了。
+目前的来源一般是偶尔从哪里见到的，然后有时间就给加上了，所以欢迎有能大佬来补充哈。
 
-欢迎有能大佬来补充。手写见[→](https://jp.hjenglish.com/subject/pronounce_write/)
+手写见[→](https://jp.hjenglish.com/subject/pronounce_write/)
 
 ------
 
@@ -25,7 +25,7 @@ editdate: "2020-04-02"
 で<rp>(</rp><rt>de</rt><rp>)</rp>
 す<rp>(</rp><rt>su</rt><rp>)</rp>
 か<rp>(</rp><rt>ka</rt><rp>)</rp>
-?」<rp>(</rp><rt></rt><rp>)</rp>
+?」
 </ruby>		（您还好吧？）
 
 <ruby>
@@ -37,7 +37,7 @@ editdate: "2020-04-02"
 し<rp>(</rp><rt>shi</rt><rp>)</rp>
 た<rp>(</rp><rt>ta</rt><rp>)</rp>
 か<rp>(</rp><rt>ka</rt><rp>)</rp>
-?」<rp>(</rp><rt></rt><rp>)</rp>
+?」
 </ruby>		（怎么？，干啥？）
 
 <ruby>
@@ -168,8 +168,8 @@ editdate: "2020-04-02"
 「<rp>(</rp><rt></rt><rp>)</rp>
 い<rp>(</rp><rt>i</rt><rp>)</rp>
 い<rp>(</rp><rt>i</rt><rp>)</rp>
-」<rp>(</rp><rt></rt><rp>)</rp>
-</ruby>		（( 形容词 ) 不错、好的，但可修饰一些名词表反面的意义）
+」
+</ruby>		（(形容词) 不错、好的，但可修饰一些名词表反面的意义）
 
 - <ruby>
 比如「<rp>(</rp><rt></rt><rp>)</rp>
@@ -190,9 +190,8 @@ editdate: "2020-04-02"
 い<rp>(</rp><rt>i</rt><rp>)</rp>
 わ<rp>(</rp><rt>wa</rt><rp>)</rp>
 く<rp>(</rp><rt>ku</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」		（伤脑筋，真麻烦）
-</ruby>		
+）」
+</ruby>		（伤脑筋，真麻烦）
 
 <ruby>
 「<rp>(</rp><rt></rt><rp>)</rp>
@@ -203,7 +202,7 @@ editdate: "2020-04-02"
 す<rp>(</rp><rt>su</rt><rp>)</rp>
 )<rp>(</rp><rt></rt><rp>)</rp>
 ね<rp>(</rp><rt>ne</rt><rp>)</rp>
-」<rp>(</rp><rt></rt><rp>)</rp>
+」
 </ruby>		（不错嘛）
 
 <ruby>
@@ -216,7 +215,7 @@ editdate: "2020-04-02"
 い<rp>(</rp><rt>i</rt><rp>)</rp>
 で<rp>(</rp><rt>de</rt><rp>)</rp>
 す<rp>(</rp><rt>su</rt><rp>)</rp>
-」<rp>(</rp><rt></rt><rp>)</rp>
+」
 </ruby>		（能表肯定也能表否定，「いいよ」包含许可的含义，有一种上对下的感觉，一般不对长辈或是初次见面的人使用，可以用于关系比较亲密的朋友之间）
 
 - ①通过语气判断
@@ -535,7 +534,7 @@ editdate: "2020-04-02"
 や<rp>(</rp><rt>ya</rt><rp>)</rp>
 った<rp>(</rp><rt>tta</rt><rp>)</rp>
 ぜ<rp>(</rp><rt>ze</rt><rp>)</rp>
-  」
+」
 </ruby>		（太好了）
 
 <ruby>
@@ -587,8 +586,7 @@ editdate: "2020-04-02"
 に<rp>(</rp><rt>ni</rt><rp>)</rp>
 っぽ<rp>(</rp><rt>ppo</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（日本）
 
 <ruby>
@@ -598,8 +596,7 @@ editdate: "2020-04-02"
 ほ<rp>(</rp><rt>ho</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
 ご<rp>(</rp><rt>go</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（日语）
 
 <ruby>
@@ -608,8 +605,7 @@ editdate: "2020-04-02"
 ちゅ<rp>(</rp><rt>chu</rt><rp>)</rp>
 ご<rp>(</rp><rt>go</rt><rp>)</rp>
 く<rp>(</rp><rt>ku</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（中国）
 
 <ruby>
@@ -619,8 +615,7 @@ editdate: "2020-04-02"
 ご<rp>(</rp><rt>go</rt><rp>)</rp>
 く<rp>(</rp><rt>ku</rt><rp>)</rp>
 ご<rp>(</rp><rt>go</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（中文）
 
 <ruby>
@@ -629,8 +624,7 @@ editdate: "2020-04-02"
 り<rp>(</rp><rt>ri</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
 ご<rp>(</rp><rt>go</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（苹果(统称)）
 
 <ruby>
@@ -650,8 +644,7 @@ editdate: "2020-04-02"
 び<rp>(</rp><rt>bi</rt><rp>)</rp>
 た<rp>(</rp><rt>ta</rt><rp>)</rp>
 い<rp>(</rp><rt>i</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（自宅警备队，即尼特族）
 
 <ruby>
@@ -671,8 +664,7 @@ editdate: "2020-04-02"
 び<rp>(</rp><rt>bi</rt><rp>)</rp>
 い<rp>(</rp><rt>i</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（自宅警备员）
 
 <ruby>
@@ -684,8 +676,7 @@ editdate: "2020-04-02"
 （<rp>(</rp><rt></rt><rp>)</rp>
 た<rp>(</rp><rt>ta</rt><rp>)</rp>
 く<rp>(</rp><rt>ku</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（御宅族）
 
 <ruby>
@@ -693,8 +684,7 @@ editdate: "2020-04-02"
 （<rp>(</rp><rt></rt><rp>)</rp>
 か<rp>(</rp><rt>ka</rt><rp>)</rp>
 み<rp>(</rp><rt>mi</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（神）
 
 <ruby>
@@ -711,9 +701,8 @@ editdate: "2020-04-02"
 い<rp>(</rp><rt>i</rt><rp>)</rp>
 え<rp>(</rp><rt>e</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
-</ruby>		（（音乐素材屋）炼狱庭园 ）
+）」
+</ruby>		（炼狱庭园 ）
 
 <ruby>
 「漫画
@@ -721,8 +710,7 @@ editdate: "2020-04-02"
 ま<rp>(</rp><rt>ma</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
 が<rp>(</rp><rt>ga</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（漫画）
 
 <ruby>
@@ -731,8 +719,7 @@ editdate: "2020-04-02"
 ど<rp>(</rp><rt>do</rt><rp>)</rp>
 う<rp>(</rp><rt>u</rt><rp>)</rp>
 が<rp>(</rp><rt>ga</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（动画）
 
 <ruby>
@@ -741,8 +728,7 @@ editdate: "2020-04-02"
 しゃ<rp>(</rp><rt>sha</rt><rp>)</rp>
 し<rp>(</rp><rt>shi</rt><rp>)</rp>
 ん<rp>(</rp><rt>n</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（照片）
 
 <ruby>
@@ -750,19 +736,57 @@ editdate: "2020-04-02"
 （<rp>(</rp><rt></rt><rp>)</rp>
 み<rp>(</rp><rt>mi</rt><rp>)</rp>
 ず<rp>(</rp><rt>zu</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-」
+）」
 </ruby>		（水）
 
-「水着」			（mi zu gi，泳衣）
+<ruby>
+「水着
+（<rp>(</rp><rt></rt><rp>)</rp>
+み<rp>(</rp><rt>mi</rt><rp>)</rp>
+ず<rp>(</rp><rt>zu</rt><rp>)</rp>
+ぎ<rp>(</rp><rt>gi</rt><rp>)</rp>
+）」
+</ruby>		（泳衣，泳装）
 
-「女子」			（jyo shi，女生）
+<ruby>
+「女子
+（<rp>(</rp><rt></rt><rp>)</rp>
+じょ<rp>(</rp><rt>jyo</rt><rp>)</rp>
+し<rp>(</rp><rt>shi</rt><rp>)</rp>
+）」
+</ruby>		（女生）
 
-「男子」			（dan shi，男生）
+<ruby>
+「男子
+（<rp>(</rp><rt></rt><rp>)</rp>
+だ<rp>(</rp><rt>da</rt><rp>)</rp>
+ん<rp>(</rp><rt>n</rt><rp>)</rp>
+し<rp>(</rp><rt>shi</rt><rp>)</rp>
+）」
+</ruby>		（男生）
 
-「高校生」		（kou kou sei，高中生）
+<ruby>
+「高中生
+（<rp>(</rp><rt></rt><rp>)</rp>
+こ<rp>(</rp><rt>ko</rt><rp>)</rp>
+う<rp>(</rp><rt>u</rt><rp>)</rp>
+こ<rp>(</rp><rt>ko</rt><rp>)</rp>
+う<rp>(</rp><rt>u</rt><rp>)</rp>
+せ<rp>(</rp><rt>se</rt><rp>)</rp>
+う<rp>(</rp><rt>i</rt><rp>)</rp>
+）」
+</ruby>		（高中生）
 
-「男子高校生の日常」		（dan shi kou kou sei no ni chi jyou， ( 番名 ) 《男子高中生的日常》）
+<ruby>
+「研究生
+（<rp>(</rp><rt></rt><rp>)</rp>
+け<rp>(</rp><rt>ke</rt><rp>)</rp>
+ん<rp>(</rp><rt>n</rt><rp>)</rp>
+きゅ<rp>(</rp><rt>kyu</rt><rp>)</rp>
+せ<rp>(</rp><rt>se</rt><rp>)</rp>
+い<rp>(</rp><rt>i</rt><rp>)</rp>
+）」
+</ruby>		（研究生）
 
 「草／くさ」		（ku sa，草）
 
@@ -877,6 +901,19 @@ editdate: "2020-04-02"
 み<rp>(</rp><rt>mi</rt><rp>)</rp>
 」
 </ruby>		（暑假）
+
+<ruby>
+「幼馴染
+（<rp>(</rp><rt></rt><rp>)</rp>
+お<rp>(</rp><rt>o<rt><rp>)</rp>
+さ<rp>(</rp><rt>sa</rt><rp>)</rp>
+な<rp>(</rp><rt>na</rt><rp>)</rp>
+な<rp>(</rp><rt>na</rt><rp>)</rp>
+じ<rp>(</rp><rt>ji</rt><rp>)</rp>
+み<rp>(</rp><rt>mi</rt><rp>)</rp>
+）」
+</ruby>		（[幼驯染]([https://zh.moegirl.org/%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC](https://zh.moegirl.org/青梅竹马))，青梅竹马）
+
 
 
 ### 正常称呼：

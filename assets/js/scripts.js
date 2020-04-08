@@ -18,7 +18,7 @@ $(document).ready(function() {
   });
 });
 
-// page height
+// page height adjust
 $(document).ready(function(){
     var a = ($(window).height());
     var b = ($(document.body).height());

@@ -6,9 +6,8 @@ layout: default
   <div class="post-date">
     <span>创建时间：{{ page.date | date: "%Y-%m-%d" }}</span>
     {% if page.editdate %}
-    <span> | 最后编辑：{{ page.editdate | date: "%Y-%m-%d" }}</span>
+    <span>最后编辑：{{ page.editdate | date: "%Y-%m-%d" }}</span>
     {% endif %}
   </div>
-  <hr>
   {{ content }}
 </div>

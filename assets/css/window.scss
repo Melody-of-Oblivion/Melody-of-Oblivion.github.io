@@ -2,17 +2,17 @@
 ---
 
 html, body {
-    height: 100%;
+    height: 53rem;
 }
 
 .container {
-    height: 100%;
+    height: 48rem;
 }
 
 .content.list {
-    height: 68%;
+    height: 31rem;
 
     @media (min-width: 38em) {
-        height: 78%;
+        height: 31rem;
     }
 }
