@@ -914,6 +914,15 @@ editdate: "2020-04-08"
 ）」
 </ruby>		（[幼驯染]([https://zh.moegirl.org/%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC](https://zh.moegirl.org/青梅竹马))，青梅竹马）
 
+<ruby>
+「砂糖
+（<rp>(</rp><rt></rt><rp>)</rp>
+さ<rp>(</rp><rt>sa</rt><rp>)</rp>
+と<rp>(</rp><rt>to</rt><rp>)</rp>
+う<rp>(</rp><rt>u</rt><rp>)</rp>
+）」
+</ruby>		（暑假）
+
 
 
 ### 正常称呼：
