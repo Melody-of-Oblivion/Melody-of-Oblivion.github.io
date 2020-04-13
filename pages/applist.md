@@ -116,8 +116,6 @@ permalink: /applist/
 
 ​	密码管理软件：[Keepass](https://keepass.info/)
 
-​	磁链搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
-
 ​	图片放大降噪：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases)
 
 ​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
