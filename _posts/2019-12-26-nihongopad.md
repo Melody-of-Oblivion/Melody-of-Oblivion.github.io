@@ -1,32 +1,34 @@
 ---
 title: "日语随手记"
-editdate: "2020-04-15"
+editdate: "2020-04-22"
 ---
 
 欢迎纠正。（づ￣3￣）づ╭❤～来源不定，更新也不定。
 
-目前的来源一般是偶尔从哪里见到的，然后有时间就给加上了，所以欢迎有能大佬来补充哈。给这个post写的简单[格式生成器](https://github.com/Melody-of-Oblivion/MoO-TextFormatGenerator)。
+目前的来源一般是偶尔从哪里见到的，然后有时间就给加上了，所以欢迎有能大佬来补充哈。
 
-手写见[→](https://jp.hjenglish.com/subject/pronounce_write/)
+给这个post用python写了个的简单[格式生成器](https://github.com/Melody-of-Oblivion/MoO-TextFormatGenerator)。
 
 ------
 
 **问句：**
 
 <ruby>
-「<rp>(</rp><rt></rt><rp>)</rp>
-お<rp>(</rp><rt>o</rt><rp>)</rp>
-元気 
-（<rp>(</rp><rt></rt><rp>)</rp>
-げ<rp>(</rp><rt>ge</rt><rp>)</rp>
-ん<rp>(</rp><rt>n</rt><rp>)</rp>
-き <rp>(</rp><rt>ki</rt><rp>)</rp>
-）<rp>(</rp><rt></rt><rp>)</rp>
-で<rp>(</rp><rt>de</rt><rp>)</rp>
-す<rp>(</rp><rt>su</rt><rp>)</rp>
-か<rp>(</rp><rt>ka</rt><rp>)</rp>
-?」
-</ruby>		（您还好吧？）
+「<rt></rt>
+お<rt>o</rt>
+元<rt></rt>
+気<rt></rt>
+（<rt></rt>
+げ<rt>ge</rt>
+ん<rt>n</rt>
+き<rt>ki</rt>
+）<rt></rt>
+で<rt>de</rt>
+す<rt>su</rt>
+か<rt>ka</rt>
+?<rt></rt>
+」
+</ruby>	（您还好吧？）
 
 <ruby>
 「<rp>(</rp><rt></rt><rp>)</rp>
@@ -149,6 +151,20 @@ editdate: "2020-04-15"
 な<rp>(</rp><rt>na</rt><rp>)</rp>
 」
 </ruby>		（今天的风儿甚是喧嚣啊）
+
+<ruby>
+「<rt></rt>
+気<rt></rt>
+（<rt></rt>
+き<rt>ki</rt>
+）<rt></rt>
+に<rt>ni</rt>
+し<rt>shi</rt>
+な<rt>na</rt>
+い<rt>i</rt>
+で<rt>de</rt>
+」
+</ruby>	（口语，别在意）
 
 
 
@@ -788,7 +804,15 @@ editdate: "2020-04-15"
 ）」
 </ruby>		（研究生）
 
-「草／くさ」		（ku sa，草）
+<ruby>
+「<rt></rt>
+草<rt></rt>
+（<rt></rt>
+く<rt>ku</rt>
+さ<rt>sa</rt>
+）<rt></rt>
+」
+</ruby>	（草）
 
 「花」			（ha na，花）
 
@@ -1131,25 +1155,99 @@ editdate: "2020-04-15"
 
 **粗口：**
 
-「馬鹿／バカ」		（ba ka，笨蛋 ）
+<ruby>
+「<rt></rt>
+馬<rt></rt>
+鹿<rt></rt>
+（<rt></rt>
+バ<rt>ba</rt>
+カ<rt>ka</rt>
+）」
+</ruby> （笨蛋）
 
-「バカヤロー／馬鹿野郎」	（ba ka ya ro ー／ba ka ya rou，笨蛋（语气较强烈））
+<ruby>
+「<rt></rt>
+馬<rt></rt>
+鹿<rt></rt>
+（<rt></rt>
+バ<rt>ba</rt>
+カ<rt>ka</rt>
+）<rt></rt>
+野<rt></rt>
+郎<rt></rt>
+（<rt></rt>
+ヤ<rt>ya</rt>
+ロ<rt>ro</rt>
+ー<rt></rt>
+）」
+</ruby> （笨蛋（语气较强烈））
 
-「ばかみたい」		（ba ka mi tai，神经病 ）
+<ruby>
+ば<rt>ba</rt>
+か<rt>ka</rt>
+み<rt>mi</rt>
+た<rt>ta</rt>
+い<rt>i</rt>
+</ruby> （神经病）
 
-「ずるいよ」			（zu ru i yo，狡猾）
+<ruby>
+「<rt></rt>
+狡<rt></rt>
+（<rt></rt>
+ず<rt>zu</rt>
+る<rt>ru</rt>
+）<rt></rt>
+い<rt>i</rt>
+」
+</ruby> （狡猾，奸诈）
 
-「しつこい」		（shi tsu ko i，烦人 ）
+<ruby>
+「<rt></rt>
+煩<rt></rt>
+（<rt></rt>
+う<rt>u</rt>
+る<rt>ru</rt>
+さ<rt>sa</rt>
+）<rt></rt>
+い<rt>i</rt>
+」
+</ruby> （吵死了（表示声音时，强调对声音的讨厌程度））
 
-「煩い／うるさい」		（u ru sai，吵死了 (表示声音时，强调对声音的讨厌程度)）
+<ruby>
+「<rt></rt>
+喧<rt></rt>
+（<rt></rt>
+や<rt>ya</rt>
+か<rt>ka</rt>
+ま<rt>ma</rt>
+）<rt></rt>
+し<rt>shi</rt>
+」
+</ruby> （吵闹，严格，严厉，唠叨（表示声音时，强调音量大而激烈的程度））
 
-「喧し／やかまし」		（ya ka ma shi，吵闹，严格，严厉，唠叨 (表示声音时，强调音量大而激烈的程度)）
+<ruby>
+「<rt></rt>
+い<rt>i</rt>
+や<rt>ya</rt>
+ら<rt>ra</rt>
+し<rt>shi</rt>
+い<rt>i</rt>
+」
+</ruby> （差劲）
 
-「いやらしい」		（i ya ra shi i，差劲 ）
+<ruby>
+「<rt></rt>
+畜<rt></rt>
+生<rt></rt>
+（<rt></rt>
+ち<rt>chi</rt>
+く<rt>ku</rt>
+しょ<rt>sho</rt>
+う<rt>u</rt>
+）」
+</ruby> （畜生）
 
-「畜生／ちくしょう」		（chi ku shou，畜生）
-
-​     
+​    
 
 ### 地名：
 
@@ -1157,4 +1255,4 @@ editdate: "2020-04-15"
 
 ------
 
-附：汉字读音速查 [①](http://www.akanjidict.org/index2.html)  [②](http://o-oo.net.cn/hiragana.asp)
+附：汉字读音速查 [①](http://www.akanjidict.org/index2.html)  [②](http://o-oo.net.cn/hiragana.asp)；手写体可见 [→](https://jp.hjenglish.com/subject/pronounce_write/)
