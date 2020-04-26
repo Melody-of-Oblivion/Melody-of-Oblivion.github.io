@@ -7,7 +7,7 @@ permalink: /applist/
 
 **Ciallo～(∠・ω< )⌒☆**
 
-个人整理，长期更新。**最后编辑：2020-04-08**
+个人整理，长期更新。**最后编辑：2020-04-26**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -48,7 +48,7 @@ permalink: /applist/
 
 ​	支持许多语言和插件的编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
 
-​	强大的Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Yu Writer](https://ivarptr.github.io/yu-writer.site/) / [Tea](https://haocha.co/#downloads)
+​	强大的Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
@@ -148,11 +148,9 @@ permalink: /applist/
 
 ​	BT和磁链：[FDM](https://www.freedownloadmanager.org/zh/download.htm)
 
-​	网盘：[百度网盘](http://pan.baidu.com/download)
-
 #### 9. 虚拟机
 
-​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Workstation Player](https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html)
+​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ​	手游模拟器：[mumu](http://mumu.163.com/)
 
@@ -169,8 +167,6 @@ permalink: /applist/
 ### ▌<span id="2">手机应用</span>
 
 ####	1. 学习类
-
-​	开放式网课：[中国大学MOOC](https://www.icourse163.org/mobile.htm)
 
 ​	背单词：[百词斩](http://www.baicizhan.com/download.html)
 
@@ -200,7 +196,7 @@ permalink: /applist/
 
 #### 1. 学习网站
 
-​	视频资源：[Bilibili](https://www.bilibili.com/)  /  [中国大学MOOC](https://www.icourse163.org/)
+​	视频资源：[Bilibili](https://www.bilibili.com/)
 
 ​	学编程的网站：[菜鸟教程](https://www.runoob.com/) / [W3school](https://www.w3school.com.cn/)
 
@@ -216,8 +212,6 @@ permalink: /applist/
 
 ​	渐变色背景：[WebGradients](https://webgradients.com/)
 
-​	看番用：[樱花动漫](http://www.imomoe.io/)
-
 #### 3. 工具网站
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
@@ -231,8 +225,6 @@ permalink: /applist/
 ​	PDF工具：[Smallpdf](https://smallpdf.com/cn) / [LightPDF](https://lightpdf.com/zh/)
 
 ​	图床：[sm.ms](https://sm.ms/)
-
-​	在线Markdown编辑器：[Arya](https://markdown.lovejade.cn/)
 
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
 
@@ -249,8 +241,6 @@ permalink: /applist/
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/)
-
-​	度盘资源搜索：[盘搜](http://www.pansou.com/) / [如风搜](http://www.rufengso.net/) / [小白盘](https://www.xiaobaipan.com/) / [盘搜搜](http://www.pansoso.com/) / [坑搜网](http://www.kengso.com/) / [搜百度盘](https://www.sobaidupan.com/index.asp)
 
 ​    
 
