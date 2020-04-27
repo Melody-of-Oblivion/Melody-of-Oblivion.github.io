@@ -164,6 +164,19 @@ div {
   padding: 0;
 }
 
+.footnotes {
+  ol {
+    list-style: square;
+
+    li {
+      p {
+        margin: 0;
+        font-size: 0.9rem;
+      }
+    }
+  }
+}
+
 .footer {
   border-top: 2rem;
   text-align: center;
