@@ -1,11 +1,14 @@
-// to-top button
+// to-top button and toptable hide & display
 $(document).ready(function() {
     $(function() {
     $(window).scroll(function() {
         if ($(window).scrollTop() > 50) {
             $(".to-top").addClass("on");
-        } else {
+            $(".toptable").css("position", "absolute")
+        }
+        else {
             $(".to-top.on").removeClass("on");
+            $(".toptable").css("position", "fixed")
         }
     });
     $(".to-top").click(function() {
