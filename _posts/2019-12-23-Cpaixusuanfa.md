@@ -18,7 +18,7 @@ title: "几种C语言简单排序算法整理"
 
 ​	**C语言实现：**
 
-```
+```c
 #include <stdio.h>
 void bubble_sort( int arr[], int len)
 {
@@ -64,7 +64,7 @@ int main(void)
 
 ​	**C语言实现：**
 
-```
+```c
 #include <stdio.h>
 void selection_sort( int arr[], int len)
 {
@@ -115,7 +115,7 @@ int main( void)
 
 ​	**C语言实现：**
 
-```
+```c
 #include <stdio.h>
 void insertion_sort( int arr[],  int len)
 {
@@ -160,7 +160,7 @@ int main( void)
 
 
 
-```
+```c
 #include <stdio.h>
 void quick_sort(int array[],int left,int right)
 {
