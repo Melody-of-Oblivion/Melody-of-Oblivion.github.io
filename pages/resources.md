@@ -7,7 +7,7 @@ permalink: /resources/
 
 资源将会陆陆续续放到这边。欢迎测试资源是否可以下载。
 
-未完全分类。
+未完全分类。**最后编辑：2020-04-28**
 
 有什么需要的也可以告诉我哦 ( 比如音乐资源啦，什么游戏的资源啦什么的，找到了就会再这里放出)
 
@@ -18,8 +18,6 @@ permalink: /resources/
 ​	Ballance ( 平衡球 )：[度盘](https://pan.baidu.com/s/1478GMFuSWITQrC9xRQXGXQ)
 
 ​	東方project：[度盘](https://pan.baidu.com/s/13aBtP3nfElBtySAyl7TeVw ) (g88s)
-
-​	Dead cells ( 死亡细胞 )：[度盘](https://pan.baidu.com/s/1MQKLXiOpUzdrSf4cOEQVGA) (3xnx)
 
 ​	NeiR:Automata ( 尼尔：机械纪元 )：[magnet](magnet:?xt=urn:btih:55A8BD7E37B4C7A20BAD6E51B931F5864533280A)
 
@@ -66,8 +64,6 @@ permalink: /resources/
 ​	Hollow Knight ( 空洞骑士 )： [链接](http://dl19.cudown.com/3DMGAME_Hollow_Knight.V1.3.1.5.CHS.Green.rar) / [度盘](https://pan.baidu.com/s/1EtaZZoUWdy2uXwY8OSzVqg)
 
 ​	Jump King ( 跳王 )：[magnet](magnet:?xt=urn:btih:4564E899C10E929B61B287281839042FDF377624)
-
-​	Getting Over It with Bennett Foddy ( 和班尼特福迪一起攻克难关 )：[度盘](https://pan.baidu.com/s/1vTyd9X417VpfAusLaMo75Q)
 
 ​	Undertale ( 传说之下 )：[magnet](magnet:?xt=urn:btih:A358D1ED93374FAD645EF98CA635356A02F33A38)
 
