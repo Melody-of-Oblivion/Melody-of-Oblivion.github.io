@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-04-26**
+个人整理，长期更新。**最后编辑：2020-04-29**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -58,37 +58,35 @@ permalink: /applist/
 
 ​	磁盘写入工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/)
 
-​	格式转换软件：[格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html) / [万兴优转](https://pan.baidu.com/s/1VaSuaL6EYWm9XQeuCPGMcA) (5vxq)
+​	格式转换软件：[格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](http://arctime.org/)
 
 ​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^4]
 
-​	PDF编辑工具：[PDFelement](https://pan.baidu.com/s/1Lb7vbEC2H0SVnd79WrwRBQ) (ache) / [Foxit](https://sn9.us/dir/17401394-32040593-4abf12)
+​	PDF编辑工具：[Foxit](https://sn9.us/dir/17401394-32040593-4abf12)
 
 #### 3. 娱乐相关
 
-​	常用的聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html) / [WeChat](https://pc.weixin.qq.com/)
+​	常用的聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
 
 ​	视频播放器：[Potplayer](https://daumpotplayer.com/download/) / [QQ影音](https://player.qq.com/)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
 
-​	实用的录屏软件：[OBS](https://obsproject.com/) / [Bandicam](https://sn9.us/dir/17401394-31406182-70dfa5)
+​	实用的录屏软件：[OBS](https://obsproject.com/)
 
-​	EPUB电子书阅读器：[Calibre](https://calibre-ebook.com/download)
+​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download)
 
 #### 4. 优化清理
 
-​	杀软：[火绒](https://www.huorong.cn/)
-
-​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [Advanced SystemCare Pro](https://sn9.us/dir/17401394-32035064-f41fb7) / [CCleaner](https://www.ccleaner.com/) [^5]
+​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^5]
 
 ​	性能优化：[Process Lasso](https://sn9.us/dir/17401394-28329602-9fe960) / [Mem Reduct](https://www.henrypp.org/product/memreduct)
 
 #### 5. 浏览器
 
-​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/)	/	[火狐](http://www.firefox.com.cn/)	/	[Firefox](https://www.mozilla.org/en-US/firefox/new/)	/	[Edge](https://www.microsoft.com/en-us/edge)
+​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/) / [火狐](http://www.firefox.com.cn/) / [Edge](https://www.microsoft.com/zh-cn/edge/)
 
 #### 6. 实用软件
 
@@ -141,8 +139,6 @@ permalink: /applist/
 ​	吸血雷：[迅雷](https://sn9.us/dir/17401394-28999705-70748d)
 
 ​	Thunder9精简版：[Lite](https://pan.baidu.com/s/1Jn4pfjp7q_dWqfjA8aqE7A)
-
-​	普通下载链：[IDM](https://sn9.us/dir/17401394-32947851-02c5dc)
 
 ​	BT和磁链：[FDM](https://www.freedownloadmanager.org/zh/download.htm)
 
