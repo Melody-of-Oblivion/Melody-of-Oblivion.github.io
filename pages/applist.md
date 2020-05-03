@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-04-29**
+个人整理，长期更新。**最后编辑：2020-05-03**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -65,6 +65,8 @@ permalink: /applist/
 ​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^4]
 
 ​	PDF编辑工具：[Foxit](https://sn9.us/dir/17401394-32040593-4abf12)
+
+​	元数据编辑器：[MagicEXIF](http://www.magicexif.com/)
 
 #### 3. 娱乐相关
 
