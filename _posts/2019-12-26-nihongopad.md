@@ -31,27 +31,29 @@ editdate: "2020-04-22"
 </ruby>	（您还好吧？）
 
 <ruby>
-「<rp>(</rp><rt></rt><rp>)</rp>
-ど<rp>(</rp><rt>do</rt><rp>)</rp>
-う<rp>(</rp><rt>u</rt><rp>)</rp>
-し<rp>(</rp><rt>shi</rt><rp>)</rp>
-ま<rp>(</rp><rt>ma</rt><rp>)</rp>
-し<rp>(</rp><rt>shi</rt><rp>)</rp>
-た<rp>(</rp><rt>ta</rt><rp>)</rp>
-か<rp>(</rp><rt>ka</rt><rp>)</rp>
-?」
-</ruby>		（怎么？，干啥？）
+「<rt></rt>
+ど<rt>do</rt>
+う<rt>u</rt>
+し<rt>shi</rt>
+ま<rt>ma</rt>
+し<rt>shi</rt>
+た<rt>ta</rt>
+か<rt>ka</rt>
+?<rt></rt>
+」
+</ruby> （怎么？，干啥？）
 
 <ruby>
-「<rp>(</rp><rt></rt><rp>)</rp>
-い<rp>(</rp><rt>i</rt><rp>)</rp>
-く<rp>(</rp><rt>ku</rt><rp>)</rp>
-ら<rp>(</rp><rt>ra</rt><rp>)</rp>
-で<rp>(</rp><rt>de</rt><rp>)</rp>
-す<rp>(</rp><rt>su</rt><rp>)</rp>
-か<rp>(</rp><rt>ka</rt><rp>)</rp>
-?」
-</ruby>		（多少钱？）
+「<rt></rt>
+い<rt>i</rt>
+く<rt>ku</rt>
+ら<rt>ra</rt>
+で<rt>de</rt>
+す<rt>su</rt>
+か<rt>ka</rt>
+?<rt></rt>
+」
+</ruby> （多少钱？）
 
 <ruby>
 「<rp>(</rp><rt></rt><rp>)</rp>
@@ -165,6 +167,34 @@ editdate: "2020-04-22"
 で<rt>de</rt>
 」
 </ruby>	（口语，别在意）
+
+<ruby>
+「<rt></rt>
+お<rt>o</rt>
+誕<rt></rt>
+生<rt></rt>
+日<rt></rt>
+（<rt></rt>
+た<rt>ta</rt>
+ん<rt>n</rt>
+じょ<rt>jo</rt>
+う<rt>u</rt>
+び<rt>bi</rt>
+）<rt></rt>
+お<rt>o</rt>
+め<rt>me</rt>
+で<rt>de</rt>
+と<rt>to</rt>
+う<rt>u</rt>
+(<rt></rt>
+ご<rt>go</rt>
+ざ<rt>za</rt>
+い<rt>i</rt>
+ま<rt>ma</rt>
+す<rt>su</rt>
+)<rt></rt>
+」
+</ruby> （生日快乐）
 
 
 
