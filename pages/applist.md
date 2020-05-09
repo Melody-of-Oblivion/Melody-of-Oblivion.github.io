@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-05-03**
+个人整理，长期更新。**最后编辑：2020-05-09**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -211,8 +211,6 @@ permalink: /applist/
 #### 3. 工具网站
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
-
-​	小工具：[PickFrom](https://zh.pickfrom.net/) / [nicetool](http://www.nicetool.net/)
 
 ​	格式转换：[Convertio](https://convertio.co/zh/)
 
