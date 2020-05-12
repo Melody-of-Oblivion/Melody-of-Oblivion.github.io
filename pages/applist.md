@@ -106,7 +106,11 @@ permalink: /applist/
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
-​	Steam小工具：[UsbEAm](https://www.dogfight360.com/blog/475/) / [steamcommunity](https://www.dogfight360.com/blog/686/)
+​	反代Steam： [steamcommunity302](https://www.dogfight360.com/blog/686/)
+
+​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
+
+​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/) （羽翼城大佬nb）
 
 ​	翻译工具：[有道词典](http://cidian.youdao.com/)
 
