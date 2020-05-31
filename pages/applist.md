@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-05-09**
+个人整理，长期更新。**最后编辑：2020-05-31**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -36,8 +36,6 @@ permalink: /applist/
 
 ​	思维导图软件：[MindMaster](https://sn9.us/dir/17401394-34564972-bfdbd7) / [XMind 8](https://sn9.us/dir/17401394-28904084-889ec6) / [XMind ZEN](https://sn9.us/dir/17401394-31674623-8fb6f2)
 
-​	文件自动分类移动工具：[Dropit](https://pan.baidu.com/s/1RMPGu5SSarTNUWp5003Gcg) (z2p8) [^3]
-
 #### 2. 编辑工具
 
 ​	图形处理软件：[GIMP](https://www.gimp.org/downloads/) / [Adobe Photoshop 2020](https://yunpan.360.cn/surl_yunMQIEm9Zw)
@@ -62,7 +60,7 @@ permalink: /applist/
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](http://arctime.org/)
 
-​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^4]
+​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
 
 ​	PDF编辑工具：[Foxit](https://sn9.us/dir/17401394-32040593-4abf12)
 
@@ -82,7 +80,7 @@ permalink: /applist/
 
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^5]
+​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^4]
 
 ​	性能优化：[Process Lasso](https://sn9.us/dir/17401394-28329602-9fe960) / [Mem Reduct](https://www.henrypp.org/product/memreduct)
 
@@ -144,9 +142,11 @@ permalink: /applist/
 
 ​	吸血雷：[迅雷](https://sn9.us/dir/17401394-28999705-70748d)
 
+​	Motrix：[官网](https://motrix.app/)
+
 ​	Thunder9精简版：[Lite](https://kkocdko.github.io/post/20190724002221/)
 
-​	BT和磁链：[FDM](https://www.freedownloadmanager.org/zh/download.htm)
+​	FDM：[官网](https://www.freedownloadmanager.org/zh/download.htm)
 
 #### 9. 虚拟机
 
@@ -246,6 +246,5 @@ permalink: /applist/
 
 [^1]:Quicker要注册账号。
 [^2]:Everything要注意关闭HTTP服务器功能。
-[^3]:个人定制版。
-[^4]:下载后搜对应破解补丁破解。
-[^5]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+[^3]:下载后搜对应破解补丁破解。
+[^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。

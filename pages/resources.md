@@ -7,9 +7,7 @@ permalink: /resources/
 
 资源将会陆陆续续放到这边。欢迎测试资源是否可以下载。
 
-未完全分类。**最后编辑：2020-04-28**
-
-有什么需要的也可以告诉我哦 ( 比如音乐资源啦，什么游戏的资源啦什么的，找到了就会再这里放出)
+**最后编辑：2020-05-31**
 
 ------
 
@@ -94,12 +92,6 @@ permalink: /resources/
 ------
 
 ### 其他资源
-
-​	(轻小说资源)  文学少女：[度盘](https://pan.baidu.com/s/1-8gS5WFy3BAvryG2CnK1TQ ) (bdhe)
-
-​	(音频资源)  幻奏盛宴 ～ 七色的上海幻夜：[度盘](https://pan.baidu.com/s/1keHvHLHKqMDvqTLwYxKCIg)
-
-​	(视频资源)  幻奏盛宴 ~ 流连的九河潮音：[度盘](https://pan.baidu.com/s/1bNQOLNeXEmfLt9yTGmBFFw ) (pq61)
 
 ​	(电影资源)  我想吃掉你的胰脏 ( 君の膵臓をたべたい )：[5.3G](magnet:?xt=urn:btih:3AFE5C4AE4CE9F136A289F30A530E5BBC400C99E) / [992M](magnet:?xt=urn:btih:1BB3EE4ED8D916651CB58FF5BBE06F79E466DF41)
 
