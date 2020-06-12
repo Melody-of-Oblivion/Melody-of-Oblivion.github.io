@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-05-31**
+个人整理，长期更新。**最后编辑：2020-06-12**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -121,6 +121,8 @@ permalink: /applist/
 ​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
+
+​	文件恢复：[Recuva](https://www.ccleaner.com/recuva)
 
 #### 7. 美化系列
 
