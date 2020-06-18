@@ -7,13 +7,13 @@ permalink: /resources/
 
 资源将会陆陆续续放到这边。欢迎测试资源是否可以下载。
 
-**最后编辑：2020-05-31**
+**最后编辑：2020-06-18**
 
 ------
 
 ### ▌游戏资源
 
-​	Ballance ( 平衡球 )：[度盘](https://pan.baidu.com/s/1478GMFuSWITQrC9xRQXGXQ)
+​	Ballance ( 平衡球 )：[Wiki]([https://ballance.jxpxxzj.cn/index.php?title=Ballance%E5%90%A7%E5%AF%BC%E8%88%AA%E8%B4%B4&_c=](https://ballance.jxpxxzj.cn/index.php?title=Ballance吧导航贴&_c=))
 
 ​	東方project：[度盘](https://pan.baidu.com/s/13aBtP3nfElBtySAyl7TeVw ) (g88s)
 
@@ -59,13 +59,11 @@ permalink: /resources/
 
 ​	Trine ( 三位一体 )：[magnet](thunder://QUFodHRwOi8vZGwxNy5jdWRvd24uY29tLzNETUdBTUVfVHJpbmVfRW5jaGFudGVkX0VkaXRpb24uQ0hTLkdyZWVuLnJhclpa/)
 
-​	Hollow Knight ( 空洞骑士 )： [链接](http://dl19.cudown.com/3DMGAME_Hollow_Knight.V1.3.1.5.CHS.Green.rar) / [度盘](https://pan.baidu.com/s/1EtaZZoUWdy2uXwY8OSzVqg)
+​	Hollow Knight ( 空洞骑士 )： [链接](http://dl19.cudown.com/3DMGAME_Hollow_Knight.V1.3.1.5.CHS.Green.rar)
 
 ​	Jump King ( 跳王 )：[magnet](magnet:?xt=urn:btih:4564E899C10E929B61B287281839042FDF377624)
 
 ​	Undertale ( 传说之下 )：[magnet](magnet:?xt=urn:btih:A358D1ED93374FAD645EF98CA635356A02F33A38)
-
-​	Iris Fall ( 彩虹坠入 )：[度盘](https://pan.baidu.com/s/1RbGVW8UJ0zzpoidGO3AhoQ)
 
 ​	Machinarium ( 机械迷城 )：[magnet](magnet:?xt=urn:btih:267B055501F369CB45A996D7581F870CB71E57EC) / [汉化补丁](https://dl1.cudown.com/game/3DM%E3%80%8A%E6%9C%BA%E6%A2%B0%E8%BF%B7%E5%9F%8E%E3%80%8B(Machinarium)%20%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81.rar)
 
@@ -86,16 +84,6 @@ permalink: /resources/
 ​	Metro: Redux ( 地铁：归来 )：[magnet](magnet:?xt=urn:btih:5C17767A2A433ABDAC7043F669C8D80B76FDB514)
 
 ​	Metro: Exodus ( 地铁：离去 )：[magnet](magnet:?xt=urn:btih:DFF0D10A216205555C1D0BDB813E2B263E6C9879)
-
-​     
-
-------
-
-### 其他资源
-
-​	(电影资源)  我想吃掉你的胰脏 ( 君の膵臓をたべたい )：[5.3G](magnet:?xt=urn:btih:3AFE5C4AE4CE9F136A289F30A530E5BBC400C99E) / [992M](magnet:?xt=urn:btih:1BB3EE4ED8D916651CB58FF5BBE06F79E466DF41)
-
-​    
 
 ------
 
