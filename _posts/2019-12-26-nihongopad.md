@@ -1,13 +1,11 @@
 ---
 title: "日语随手记"
-editdate: "2020-04-22"
+editdate: "2020-06-21"
 ---
 
 欢迎纠正。（づ￣3￣）づ╭❤～来源不定，更新也不定。
 
 目前的来源一般是偶尔从哪里见到的，然后有时间就给加上了，所以欢迎有能大佬来补充哈。
-
-给这个post用python写了个的简单[格式生成器](https://github.com/Melody-of-Oblivion/MoO-TextFormatGenerator)。
 
 ------
 
