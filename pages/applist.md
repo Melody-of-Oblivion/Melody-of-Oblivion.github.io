@@ -5,11 +5,11 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-06-12**
+个人整理，长期更新。**最后编辑：2020-06-27**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
-电脑软件只整理了Win系统的软件哦。
+电脑软件只整理了Win系统的软件哦。链接不定期更新。
 
 ---
 
@@ -76,7 +76,7 @@ permalink: /applist/
 
 ​	实用的录屏软件：[OBS](https://obsproject.com/)
 
-​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download)
+​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows)
 
 #### 4. 优化清理
 
@@ -108,7 +108,7 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/) （羽翼城大佬nb）
+​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/)[^5]
 
 ​	翻译工具：[有道词典](http://cidian.youdao.com/)
 
@@ -134,7 +134,7 @@ permalink: /applist/
 
 ​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/)
 
-​	桌面分框：[Fences3](https://pan.baidu.com/s/1elnU02) (g3qh)
+​	桌面分框：Fences3
 
 ​	时钟屏保：[Fliqlo](https://fliqlo.com/)
 
@@ -154,7 +154,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-​	手游模拟器：[mumu](http://mumu.163.com/)
+​	手游模拟器：[MuMu](http://mumu.163.com/)
 
 #### 10. 信息查看
 
@@ -198,7 +198,7 @@ permalink: /applist/
 
 #### 1. 学习网站
 
-​	视频资源：[Bilibili](https://www.bilibili.com/)
+​	视频娱乐：[Bilibili](https://www.bilibili.com/)
 
 ​	学编程的网站：[菜鸟教程](https://www.runoob.com/) / [W3school](https://www.w3school.com.cn/)
 
@@ -250,3 +250,5 @@ permalink: /applist/
 [^2]:Everything要注意关闭HTTP服务器功能。
 [^3]:下载后搜对应破解补丁破解。
 [^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+
+[^5]: 羽翼城大佬nb好吧
