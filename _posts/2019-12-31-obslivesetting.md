@@ -1,8 +1,9 @@
 ---
 title: "OBS直播设置"
+editdate: 2020-06-27
 ---
 
-OBS ( Open Broadcast Studio )是一个自由、开源的视频录制与直播软件。附：[下载地址](https://obsproject.com/)
+OBS (Open Broadcast Studio) 是一个自由、开源的视频录制与直播软件。可以从[这里](https://obsproject.com/)下载。
 
 主界面：
 
@@ -16,7 +17,7 @@ OBS ( Open Broadcast Studio )是一个自由、开源的视频录制与直播软
 
 打开B站`我的直播间`——`开播设置`，选择`开始直播`之后，可以看到`你的rtmp地址`和`你的直播码`，接下来在OBS里`推流`的`服务`设置里面选择`自定义...`，并按顺序把这两个地址填进去。
 
-（因为我没直播，所以这里没有演示的图）![gif1](https://i.loli.net/2019/12/31/7wPoJh8lXiUtN4M.gif)
+（因为我没直播过，所以这里并没有演示的图）![gif1](https://i.loli.net/2019/12/31/7wPoJh8lXiUtN4M.gif)
 
 下面来看看怎么样来调试一个合适的**直播参数**：
 
