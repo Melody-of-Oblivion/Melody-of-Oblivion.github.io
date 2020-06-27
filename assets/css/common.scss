@@ -36,6 +36,11 @@ body {
   -ms-text-size-adjust: 100%;
 }
 
+::selection {
+  background: #262a30;
+  color: white;
+}
+
 a {
   color: #268bd2;
   text-decoration: none;
