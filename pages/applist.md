@@ -54,7 +54,7 @@ permalink: /applist/
 
 ​	硬盘工具：[DiskGenius](http://www.diskgenius.cn/download.php)
 
-​	磁盘写入工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/)
+​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
 ​	格式转换软件：[格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
