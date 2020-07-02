@@ -130,7 +130,7 @@ permalink: /applist/
 
 ​	动态壁纸软件：[Wallpaper Engine](https://dl.3dmgame.com/patch/89942.html)
 
-​	个性化桌面：[Rainmeter](https://www.rainmeter.cn/)
+​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
 ​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/)
 
