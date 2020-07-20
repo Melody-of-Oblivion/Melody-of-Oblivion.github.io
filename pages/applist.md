@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-06-27**
+个人整理，长期更新。**最后编辑：2020-07-20**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -38,13 +38,13 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图形处理软件：[GIMP](https://www.gimp.org/downloads/) / [Adobe Photoshop 2020](https://yunpan.360.cn/surl_yunMQIEm9Zw)
+​	图形处理：[GIMP](https://www.gimp.org/downloads/) / [Adobe Photoshop 2020](https://yunpan.360.cn/surl_yunMQIEm9Zw)
 
-​	音频编辑软件：[Audacity](https://www.audacityteam.org/)
+​	音频编辑：[Audacity](https://www.audacityteam.org/)
 
-​	支持许多语言和插件的编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
 
-​	强大的Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
+​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
@@ -64,17 +64,17 @@ permalink: /applist/
 
 ​	PDF编辑工具：[Foxit](https://sn9.us/dir/17401394-32040593-4abf12)
 
-​	元数据编辑器：[MagicEXIF](http://www.magicexif.com/)
+​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/)
 
 #### 3. 娱乐相关
 
-​	常用的聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
+​	聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
 
 ​	视频播放器：[Potplayer](https://daumpotplayer.com/download/) / [QQ影音](https://player.qq.com/)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
 
-​	实用的录屏软件：[OBS](https://obsproject.com/)
+​	录屏软件：[OBS](https://obsproject.com/)
 
 ​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows)
 
@@ -124,6 +124,8 @@ permalink: /applist/
 
 ​	文件恢复：[Recuva](https://www.ccleaner.com/recuva)
 
+​	Epub制作：[Sigil](https://sigil-ebook.com/)
+
 #### 7. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
@@ -147,8 +149,6 @@ permalink: /applist/
 ​	Motrix：[官网](https://motrix.app/)
 
 ​	Thunder9精简版：[Lite](https://kkocdko.github.io/post/20190724002221/)
-
-​	FDM：[官网](https://www.freedownloadmanager.org/zh/download.htm)
 
 #### 9. 虚拟机
 
@@ -189,8 +189,6 @@ permalink: /applist/
 ​	记账App：[Timi记账](http://www.timitime.com/#page-5)
 
 ​	时间管理应用：[番茄土豆](http://www.pomotodo.com/)
-
-​	浏览器：[Quark](https://www.myquark.cn/)
 
 ---
 
@@ -251,4 +249,4 @@ permalink: /applist/
 [^3]:下载后搜对应破解补丁破解。
 [^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
-[^5]: 羽翼城大佬nb好吧
+[^5]: 羽翼城大佬yyds
