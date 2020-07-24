@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-07-20**
+个人整理，长期更新。**最后编辑：2020-07-24**
 
 许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
 
@@ -239,6 +239,8 @@ permalink: /applist/
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/)
+
+​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
 ​    
 
