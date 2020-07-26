@@ -33,8 +33,6 @@ nav:
     name:           "Home"
   - href:           /about/
     name:           "About"
-  - href:           /resources/
-    name:           "Resources"
   - href:           /applist/
     name:           "Applist"
 
@@ -60,4 +58,3 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-avatar
