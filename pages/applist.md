@@ -5,11 +5,11 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-07-24**
+个人整理，长期更新。**最后编辑：2020-07-30**
 
-许多软件没测试，实用性不确定哈。(°∀°)ﾉ还有，欢迎补充！
+许多软件没测试，实用性不确定哈。链接不定期更新。
 
-电脑软件只整理了Win系统的软件哦。链接不定期更新。
+(°∀°)ﾉ欢迎补充！
 
 ---
 
@@ -125,6 +125,8 @@ permalink: /applist/
 ​	文件恢复：[Recuva](https://www.ccleaner.com/recuva)
 
 ​	Epub制作：[Sigil](https://sigil-ebook.com/)
+
+​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
 #### 7. 美化系列
 
