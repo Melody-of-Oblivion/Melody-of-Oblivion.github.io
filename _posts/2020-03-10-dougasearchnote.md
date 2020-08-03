@@ -1,5 +1,5 @@
 ---
-title: "凉风工具人培养计划笔记"
+title: "凉风工具人培养视频中提到的工具"
 ---
 
 ### 1. WAIT: What Anime Is This?
