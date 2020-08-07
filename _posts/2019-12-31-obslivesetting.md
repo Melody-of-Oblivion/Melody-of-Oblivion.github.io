@@ -1,5 +1,5 @@
 ---
-title: "OBS直播设置"
+title: OBS直播设置
 editdate: 2020-06-27
 ---
 

@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-07-30**
+个人整理，长期更新。**最后编辑：2020-08-07**
 
 许多软件没测试，实用性不确定哈。链接不定期更新。
 
@@ -28,9 +28,9 @@ permalink: /applist/
 
 ​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures)
 
-​	快捷键：[Capslock+](https://cjkis.me/capslock+/) / [Power Keys](https://powerkeys.github.io/)
-
 ​	启动器：[Lily](https://pan.baidu.com/s/13YWkxa8nDw6XlnV37ZQhSg) / [Rolan](https://sn9.us/dir/17401394-33890013-7cb652)
+
+​	快捷键：[Capslock+ v3.x](https://capslox.com/capslock-plus/)
 
 ​	快速搜索文件：[Wox](https://github.com/Wox-launcher/Wox/releases) / [Listary](https://www.listary.com/download) / [Everything](https://www.voidtools.com/zh-cn/downloads/) [^2]
 
@@ -92,7 +92,7 @@ permalink: /applist/
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
-​	Excel工具箱：[方方格子](http://www.ffcell.com/home/products.aspx) / [EasyChart](http://easychart.github.io/post/Easycharts/)
+​	Excel工具箱：[EasyChart](http://easychart.github.io/post/Easycharts/)
 
 ​	解压缩软件：[360压缩](https://yasuo.360.cn/) / [Bandizip](https://www.bandisoft.com/bandizip/)
 
@@ -176,13 +176,7 @@ permalink: /applist/
 
 #### 2. 娱乐类
 
-​	听音乐：[网易云音乐](https://music.163.com/#/download)
-
-​	聊天App：[QQ](https://im.qq.com/download/) / [微信](https://weixin.qq.com/cgi-bin/readtemplate?t=page/faq/android/709/index&faq=android_709)
-
 ​	第三方免代理P站App：[Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer/releases)
-
-​	看视频：[Bilibili](https://app.bilibili.com/?spm_id_from=333.851.b_696e7465726e6174696f6e616c486561646572.9)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
 
@@ -198,9 +192,7 @@ permalink: /applist/
 
 #### 1. 学习网站
 
-​	视频娱乐：[Bilibili](https://www.bilibili.com/)
-
-​	学编程的网站：[菜鸟教程](https://www.runoob.com/) / [W3school](https://www.w3school.com.cn/)
+​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
 ​	世界最大~~同性~~交友网站：[github](https://github.com/)
 
