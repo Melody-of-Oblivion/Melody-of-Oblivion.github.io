@@ -7,7 +7,7 @@ permalink: /applist/
 
 个人整理，长期更新。**最后编辑：2020-08-07**
 
-许多软件没测试，实用性不确定哈。链接不定期更新。
+仅作为参考。
 
 (°∀°)ﾉ欢迎补充！
 
@@ -30,7 +30,7 @@ permalink: /applist/
 
 ​	启动器：[Lily](https://pan.baidu.com/s/13YWkxa8nDw6XlnV37ZQhSg) / [Rolan](https://sn9.us/dir/17401394-33890013-7cb652)
 
-​	快捷键：[Capslock+ v3.x](https://capslox.com/capslock-plus/)
+​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
 ​	快速搜索文件：[Wox](https://github.com/Wox-launcher/Wox/releases) / [Listary](https://www.listary.com/download) / [Everything](https://www.voidtools.com/zh-cn/downloads/) [^2]
 
@@ -50,7 +50,7 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans)
 
-​	办公软件：[WPS](https://www.wps.cn/) / [LibreOffice](https://www.libreoffice.org/download/download/)
+​	办公软件：[LibreOffice](https://www.libreoffice.org/download/download/)
 
 ​	硬盘工具：[DiskGenius](http://www.diskgenius.cn/download.php)
 
@@ -98,7 +98,7 @@ permalink: /applist/
 
 ​	色温自动调节：[f.lux](https://justgetflux.com/)
 
-​	office自定义安装、激活工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/)
+​	office安装激活工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/)
 
 ​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/)
 
@@ -136,7 +136,7 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/)
+​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/exp/)
 
 ​	桌面分框：[Fences3](https://www.lanzous.com/b00z9m2ze)
 
