@@ -8,6 +8,8 @@ name:               "Melody of Oblivion"
 suffix:             "Land"
 author:             "monSteRhhe"
 url:                "https://melody-of-oblivion.github.io"
+create_date:        "创建时间"
+edit_date:          "最后编辑"
 
 copyright:
   year:             2020
