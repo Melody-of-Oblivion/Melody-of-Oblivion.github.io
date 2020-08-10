@@ -109,6 +109,16 @@
     border: 1px solid #3d3d3d;
     padding: .5rem 0;
   }
+
+  a {
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px solid #999;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
 }
 
 .post {
@@ -127,6 +137,16 @@
     text-align: right;
     display: inline-grid;
     border-bottom: 1px solid #3d3d3d;
+  }
+
+  a {
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px solid #999;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
   }
 }
 
