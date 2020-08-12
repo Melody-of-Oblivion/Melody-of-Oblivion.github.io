@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-08-07**
+个人整理，长期更新。**最后编辑：2020-08-12**
 
 仅作为参考。
 
@@ -14,9 +14,9 @@ permalink: /applist/
 ---
 
 <u>▌索引：</u>  
- \>  <a href="#1">电脑软件</a>  
- \>  <a href="#2">手机应用</a>  
- \>  <a href="#3">实用网页</a> 
+   <a href="#1">电脑软件</a>  
+   <a href="#2">手机应用</a>  
+   <a href="#3">实用网页</a> 
 
 ---
 
@@ -28,7 +28,7 @@ permalink: /applist/
 
 ​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures)
 
-​	启动器：[Lily](https://pan.baidu.com/s/13YWkxa8nDw6XlnV37ZQhSg) / [Rolan](https://sn9.us/dir/17401394-33890013-7cb652)
+​	启动器：[Lily](https://pan.baidu.com/s/13YWkxa8nDw6XlnV37ZQhSg)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
@@ -38,7 +38,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图形处理：[GIMP](https://www.gimp.org/downloads/) / [Adobe Photoshop 2020](https://yunpan.360.cn/surl_yunMQIEm9Zw)
+​	图形处理：[GIMP](https://www.gimp.org/downloads/)
 
 ​	音频编辑：[Audacity](https://www.audacityteam.org/)
 
@@ -61,8 +61,6 @@ permalink: /applist/
 ​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](http://arctime.org/)
 
 ​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
-
-​	PDF编辑工具：[Foxit](https://sn9.us/dir/17401394-32040593-4abf12)
 
 ​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/)
 
@@ -194,8 +192,6 @@ permalink: /applist/
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
-​	世界最大~~同性~~交友网站：[github](https://github.com/)
-
 #### 2. 资源网站
 
 ​	字体资源：[字由](http://www.hellofont.cn/)
@@ -232,7 +228,7 @@ permalink: /applist/
 
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
 
-​	传文件：[奶牛快传](http://www.cowtransfer.com/)
+​	传文件/网盘：[奶牛快传](http://www.cowtransfer.com/) / [天翼云盘](https://cloud.189.cn/)
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
