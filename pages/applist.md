@@ -32,7 +32,7 @@ permalink: /applist/
 
 ​	快速搜索文件：[Wox](https://github.com/Wox-launcher/Wox/releases) / [Listary](https://www.listary.com/download) / [Everything](https://www.voidtools.com/zh-cn/downloads/) [^2]
 
-​	思维导图软件：[MindMaster](https://sn9.us/dir/17401394-34564972-bfdbd7) / [XMind 8](https://sn9.us/dir/17401394-28904084-889ec6) / [XMind ZEN](https://sn9.us/dir/17401394-31674623-8fb6f2)
+​	思维导图：[MindMaster](https://www.ghpym.com/mindmaster.html) / [XMind ZEN 2020](https://www.ghpym.com/xmindzen.html)
 
 #### 2. 编辑工具
 
