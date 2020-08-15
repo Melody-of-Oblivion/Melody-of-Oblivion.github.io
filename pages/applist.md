@@ -124,6 +124,8 @@ permalink: /applist/
 
 ​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
+​	Git：[Git](https://git-scm.com/) / [Github Desktop](https://desktop.github.com/)
+
 #### 7. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)

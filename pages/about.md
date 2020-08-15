@@ -21,8 +21,6 @@ permalink: /about/
 
 ### ▌更多
 
->Github Pages Help	[→](https://help.github.com/en/github/working-with-github-pages)
->
 >Github Pages' Dependency versions	[→](https://pages.github.com/versions/)
 >
 >Github Desktop Download	[→](https://desktop.github.com/)
