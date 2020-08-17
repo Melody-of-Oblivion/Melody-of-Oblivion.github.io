@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑：2020-08-12**
+个人整理，长期更新。**最后编辑**：2020-08-17
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -40,7 +40,7 @@ permalink: /applist/
 
 ​	音频编辑：[Audacity](https://www.audacityteam.org/)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
 ​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
 
@@ -104,7 +104,7 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/)[^5]
+​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/)
 
 ​	翻译工具：[有道词典](http://cidian.youdao.com/)
 
@@ -240,5 +240,3 @@ permalink: /applist/
 [^2]:Everything要注意关闭HTTP服务器功能。
 [^3]:下载后搜对应破解补丁破解。
 [^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
-
-[^5]: 羽翼城大佬yyds
