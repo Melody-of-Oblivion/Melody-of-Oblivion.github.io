@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-17
+个人整理，长期更新。**最后编辑**：2020-08-19
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -177,12 +177,6 @@ permalink: /applist/
 ​	第三方免代理P站App：[Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer/releases)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
-
-#### 3. 其他类别
-
-​	记账App：[Timi记账](http://www.timitime.com/#page-5)
-
-​	时间管理应用：[番茄土豆](http://www.pomotodo.com/)
 
 ---
 
