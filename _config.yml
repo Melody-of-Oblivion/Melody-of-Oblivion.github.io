@@ -6,6 +6,7 @@
 # Basic
 name:               "Melody of Oblivion"
 suffix:             "Land"
+sub:                "Level Up!"
 author:             "monSteRhhe"
 url:                "https://melody-of-oblivion.github.io"
 create_date:        "创建时间"
