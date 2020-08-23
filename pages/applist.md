@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-21
+个人整理，长期更新。**最后编辑**：2020-08-23
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -36,7 +36,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图形处理：[GIMP](https://www.gimp.org/downloads/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
 
 ​	音频编辑：[Audacity](https://www.audacityteam.org/)
 
@@ -74,11 +74,21 @@ permalink: /applist/
 
 ​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows)
 
+​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases)
+
+​	Gal钩子获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases)
+
+​	Gal资源提取：[GARbro](https://github.com/morkt/GARbro/releases)
+
+​	系统区域模拟：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
+
+​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
+
 #### 4. 优化清理
 
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^4]
 
-​	性能优化：[Process Lasso](https://sn9.us/dir/17401394-28329602-9fe960) / [Mem Reduct](https://www.henrypp.org/product/memreduct)
+​	性能优化：[Process Lasso](https://sn9.us/dir/17401394-28329602-9fe960)
 
 #### 5. 浏览器
 
@@ -90,9 +100,11 @@ permalink: /applist/
 
 ​	Excel工具箱：[EasyChart](http://easychart.github.io/post/Easycharts/)
 
+​	翻译工具：[有道词典](http://cidian.youdao.com/)
+
 ​	解压缩软件：[360压缩](https://yasuo.360.cn/) / [Bandizip](https://www.bandisoft.com/bandizip/)
 
-​	色温自动调节：[f.lux](https://justgetflux.com/)
+​	屏幕色温自动调节：[f.lux](https://justgetflux.com/)
 
 ​	office安装激活工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/)
 
@@ -105,8 +117,6 @@ permalink: /applist/
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
 ​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/)
-
-​	翻译工具：[有道词典](http://cidian.youdao.com/)
 
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
 
@@ -152,6 +162,10 @@ permalink: /applist/
 
 ​	B站视频下载：[JJDown](http://client.jijidown.com/)
 
+​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
+
+​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases)
+
 #### 9. 虚拟机
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -184,11 +198,11 @@ permalink: /applist/
 
 ### ▌<span id="3">实用网页</span>
 
-#### 1. 学习网站
+#### 1. 学习
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
-#### 2. 资源网站
+#### 2. 资源
 
 ​	字体资源：[字由](http://www.hellofont.cn/)
 
@@ -198,7 +212,7 @@ permalink: /applist/
 
 ​	渐变色背景：[WebGradients](https://webgradients.com/)
 
-#### 3. 工具网站
+#### 3. 工具
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
 
@@ -224,9 +238,17 @@ permalink: /applist/
 
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
 
-​	传文件/网盘：[奶牛快传](http://www.cowtransfer.com/) / [天翼云盘](https://cloud.189.cn/)
+​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
+
+​	网盘：[奶牛快传](http://www.cowtransfer.com/) / [天翼云盘](https://cloud.189.cn/) / [蓝奏](https://www.lanzou.com/) / [超星云盘](http://pan-yz.chaoxing.com/app/download) / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
+
+#### 4.娱乐
+
+​	阿B的VTB数据：[vtbs.moe](https://vtbs.moe/)
+
+​	舟游工具箱：[明日方舟工具箱](https://arkn.lolicon.app/#/hr)
 
 ​    
 
