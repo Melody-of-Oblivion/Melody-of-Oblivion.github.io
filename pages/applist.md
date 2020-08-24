@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-23
+个人整理，长期更新。**最后编辑**：2020-08-24
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -36,7 +36,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/)
 
 ​	音频编辑：[Audacity](https://www.audacityteam.org/)
 
