@@ -17,12 +17,4 @@ permalink: /about/
 
 欢迎一起来整活哦~
 
----
-
-### ▌更多
-
->Github Pages' Dependency versions	[→](https://pages.github.com/versions/)
->
->Github Desktop Download	[→](https://desktop.github.com/)
->
 
