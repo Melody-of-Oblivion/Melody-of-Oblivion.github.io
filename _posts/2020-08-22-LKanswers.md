@@ -3,7 +3,11 @@ title: LK勇者答题部分收录
 editdate: 2020-08-25
 ---
 
-请到 [LK App](https://www.lightnovel.us/mobile/) 进行答题。
+请到 [LK App](https://www.lightnovel.us/mobile/) 进行答题。不要暴露这一页面哦~~
+
+本人已经及格，不添加问题了。
+
+如果有确定的问题+答案也可以叫我加上~~
 
 
 
