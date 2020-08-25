@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-24
+个人整理，长期更新。**最后编辑**：2020-08-25
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -61,6 +61,10 @@ permalink: /applist/
 ​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
 
 ​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/)
+
+​	Epub制作：[Sigil](https://sigil-ebook.com/)
+
+​	电子书格式转换：[Neat Converter](https://www.neat-reader.cn/downloads/converter)
 
 #### 3. 娱乐相关
 
@@ -129,8 +133,6 @@ permalink: /applist/
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
 ​	文件恢复：[Recuva](https://www.ccleaner.com/recuva)
-
-​	Epub制作：[Sigil](https://sigil-ebook.com/)
 
 ​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
