@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-25
+个人整理，长期更新。**最后编辑**：2020-08-26
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -162,7 +162,7 @@ permalink: /applist/
 
 ​	Thunder9精简版：[Lite](https://kkocdko.github.io/post/20190724002221/)
 
-​	B站视频下载：[JJDown](http://client.jijidown.com/)
+​	B站视频下载：[JiJiDown](http://client.jijidown.com/)
 
 ​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
 
@@ -225,6 +225,8 @@ permalink: /applist/
 ​	PDF工具：[Smallpdf](https://smallpdf.com/cn) / [LightPDF](https://lightpdf.com/zh/)
 
 ​	图床：[sm.ms](https://sm.ms/)
+
+​	B站视频下载：[唧唧](http://www.jijidown.com/)
 
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
 
