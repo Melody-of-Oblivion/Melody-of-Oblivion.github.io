@@ -1,5 +1,6 @@
 ---
 title: 本地搭建Github Pages的Jekyll环境
+deitdate: 2020-08-26
 ---
 
 从 [这里](https://pages.github.com/versions/) 可以找到 Github Pages 各依赖的版本（Dependency versions）。
@@ -29,6 +30,12 @@ gem list
 ​    
 
 Github Pages 的依赖更新后，可以输入
+
+```powershell
+gem update github-pages
+```
+
+更新相关的gems。或者输入
 
 ```powershell
 gem uninstall -aIx
