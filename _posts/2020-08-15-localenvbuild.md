@@ -1,6 +1,6 @@
 ---
 title: 本地搭建Github Pages的Jekyll环境
-deitdate: 2020-08-26
+editdate: 2020-08-26
 ---
 
 从 [这里](https://pages.github.com/versions/) 可以找到 Github Pages 各依赖的版本（Dependency versions）。
