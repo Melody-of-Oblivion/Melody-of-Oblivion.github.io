@@ -1,6 +1,6 @@
 ---
-title: 日语随手记
-editdate: 2020-06-21
+title: 简单日语记录Pad
+editdate: 2020-08-27
 ---
 
 欢迎纠正。（づ￣3￣）づ╭❤～来源不定，更新也不定。
@@ -975,17 +975,67 @@ editdate: 2020-06-21
 ）」
 </ruby>		（暑假）
 
+<ruby>
+「焼
+（<rp>(</rp><rt></rt><rp>)</rp>
+や<rp>(</rp><rt>ya</rt><rp>)</rp>
+）
+き<rp>(</rp><rt>ki</rt><rp>)</rp>
+そ<rp>(</rp><rt>so</rt><rp>)</rp>
+ば<rp>(</rp><rt>ba</rt><rp>)</rp>
+パ<rp>(</rp><rt>pa</rt><rp>)</rp>
+ン<rp>(</rp><rt>n</rt><rp>)</rp>
+」
+</ruby>		（炒面面包）
+
+<ruby>
+「
+カ<rp>(</rp><rt>ka</rt><rp>)</rp>
+ツ<rp>(</rp><rt>tsu</rt><rp>)</rp>
+サ<rp>(</rp><rt>sa</rt><rp>)</rp>
+ン<rp>(</rp><rt>n</rt><rp>)</rp>
+ド<rp>(</rp><rt>do</rt><rp>)</rp>
+」
+</ruby>		（炸肉排三明治，cutlet sandwish）
 
 
 ### 正常称呼：
 
-「私／わたし」		（wa ta shi，我，男女通用）
+<ruby>
+「私
+（<rp>(</rp><rt></rt><rp>)</rp>
+わ<rp>(</rp><rt>wa</rt><rp>)</rp>
+た<rp>(</rp><rt>ta</rt><rp>)</rp>
+し<rp>(</rp><rt>shi</rt><rp>)</rp>
+）
+」
+</ruby>		（我，男女通用）
 
-「私／わたくし」	（wa ta ku shi，我，男女通用）
+<ruby>
+「私
+（<rp>(</rp><rt></rt><rp>)</rp>
+わ<rp>(</rp><rt>wa</rt><rp>)</rp>
+た<rp>(</rp><rt>ta</rt><rp>)</rp>
+く<rp>(</rp><rt>ku</rt><rp>)</rp>
+し<rp>(</rp><rt>shi</rt><rp>)</rp>
+）」
+</ruby>		（我，男女通用）
 
-「僕／ぼく」		（bo ku，我，年幼男性用）
+<ruby>
+「僕
+（<rp>(</rp><rt></rt><rp>)</rp>
+ぼ<rp>(</rp><rt>bo</rt><rp>)</rp>
+く<rp>(</rp><rt>ku</rt><rp>)</rp>
+）」
+</ruby>		（我，年幼男性用）
 
-「あたし」　　　（a ta shi，我，一般女用）
+<ruby>
+「<rp>(</rp><rt></rt><rp>)</rp>
+あ<rp>(</rp><rt>a</rt><rp>)</rp>
+た<rp>(</rp><rt>ta</rt><rp>)</rp>
+し<rp>(</rp><rt>shi</rt><rp>)</rp>
+」
+</ruby>		（我，一般女用）
 
 「俺／おれ」		（o re，我，男用，较粗俗）
 
