@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-26
+个人整理，长期更新。**最后编辑**：2020-08-27
 
 仅作为参考。(°∀°)ﾉ欢迎补充！
 
@@ -60,7 +60,7 @@ permalink: /applist/
 
 ​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
 
-​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/)
+​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/start)
 
 ​	Epub制作：[Sigil](https://sigil-ebook.com/)
 
