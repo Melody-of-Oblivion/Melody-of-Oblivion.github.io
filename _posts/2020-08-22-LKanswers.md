@@ -1,13 +1,13 @@
 ---
 title: LK勇者答题部分收录
-editdate: 2020-08-25
+editdate: 2020-08-27
 ---
 
-请到 [LK App](https://www.lightnovel.us/mobile/) 进行答题。
+请到 [LK App](https://www.lightnovel.us/mobile/) 进行答题，账号注册到 [轻国网页版](https://www.lightnovel.us/)。
 
 注意**不要暴露**这一页面哦~~
 
-本人已经及格了，懒得添加问题了 XD 答案有错误可以提出更改哦
+答案有错误可以提出更改哦 XD
 
 如果有确定的问题+答案也可以叫我加上哦~~
 
