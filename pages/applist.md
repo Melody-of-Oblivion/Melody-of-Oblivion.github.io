@@ -192,6 +192,8 @@ permalink: /applist/
 
 #### 2. 娱乐类
 
+​	轻之国度：[LK](https://www.lightnovel.us/mobile/)
+
 ​	第三方免代理P站App：[Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer/releases)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
