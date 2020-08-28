@@ -387,10 +387,10 @@ tbody tr:nth-child(odd) th {
 .page {
   &-title {
     font-weight: 300;
+    font-size: 2rem;
     text-align: center;
     margin-bottom: 1rem;
     border: 1px solid #3d3d3d;
-    padding: .5rem 0;
   }
 
   a {
@@ -419,10 +419,10 @@ tbody tr:nth-child(odd) th {
 .post {
   &-title {
     font-weight: 300;
+    font-size: 2rem;
     text-align: center;
     margin-bottom: .2rem;
     border: 1px solid #3d3d3d;
-    padding: .5rem 0;
   }
   &-date {
     width: 100%;
