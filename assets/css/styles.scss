@@ -362,6 +362,28 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+.content {
+  sup {
+    padding: 0 2px 0 2px;
+
+    a {
+      border-bottom: none;
+      &:hover,
+      &:focus {
+        text-decoration: none;
+      }
+    }
+
+    &:hover,
+    &:focus {
+      background-color: #393939;
+      a {
+        color: #e5e9f0;
+      }
+    }
+  }
+}
+
 .page {
   &-title {
     font-weight: 300;
@@ -379,6 +401,18 @@ tbody tr:nth-child(odd) th {
     &:focus {
       text-decoration: underline;
     }
+  }
+
+  h1 {
+    font-size: 1.7rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
   }
 }
 
@@ -407,28 +441,6 @@ tbody tr:nth-child(odd) th {
     &:hover,
     &:focus {
       text-decoration: underline;
-    }
-  }
-}
-
-.content {
-  sup {
-    padding: 0 2px 0 2px;
-
-    a {
-      border-bottom: none;
-      &:hover,
-      &:focus {
-        text-decoration: none;
-      }
-    }
-
-    &:hover,
-    &:focus {
-      background-color: #393939;
-      a {
-        color: #e5e9f0;
-      }
     }
   }
 
