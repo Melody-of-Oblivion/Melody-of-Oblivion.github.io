@@ -18,7 +18,7 @@ permalink: /applist/
 
 ---
 
-### ▌<span id="1">电脑软件</span>
+## ▌<span id="1">电脑软件</span>
 
 #### 1. 效率工具
 
@@ -184,7 +184,7 @@ permalink: /applist/
 
 ---
 
-### ▌<span id="2">手机应用</span>
+## ▌<span id="2">手机应用</span>
 
 ####	1. 学习类
 
@@ -200,7 +200,7 @@ permalink: /applist/
 
 ---
 
-### ▌<span id="3">实用网页</span>
+## ▌<span id="3">实用网页</span>
 
 #### 1. 学习
 
