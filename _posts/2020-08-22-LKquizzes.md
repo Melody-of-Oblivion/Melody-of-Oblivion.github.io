@@ -321,10 +321,8 @@ PSP游戏《天神乱漫 Happy Go Lucky!!》中，千岁佐奈被神具创伤后
 
 指随机选答案 XD
 
-Python：
-
 ```python
-# 仅供参考
+# Py代码 仅供参考
 import random
 for question in range(1, 51):
     a = random.randint(0, 3)
