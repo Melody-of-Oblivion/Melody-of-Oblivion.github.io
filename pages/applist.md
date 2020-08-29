@@ -246,7 +246,7 @@ permalink: /applist/
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
 
-​	网盘：[奶牛快传](http://www.cowtransfer.com/) / [天翼云盘](https://cloud.189.cn/) / [蓝奏](https://www.lanzou.com/) / [超星云盘](http://pan-yz.chaoxing.com/app/download) / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)
+​	网盘：[奶牛快传](http://www.cowtransfer.com/)（5G） / [天翼云盘](https://cloud.189.cn/)（30G） / [蓝奏](https://www.lanzou.com/) / [超星云盘](http://pan-yz.chaoxing.com/app/download) / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)（10G） / [115](https://115.com/)（15G）
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
