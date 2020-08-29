@@ -1,4 +1,4 @@
-// to-top button and toptable hide & display
+// to-top buttom & toptable display
 $(document).ready(function() {
     $(function() {
     $(window).scroll(function() {
@@ -19,14 +19,4 @@ $(document).ready(function() {
         return false;
     });
   });
-});
-
-// page height adjust
-$(document).ready(function(){
-    var a = ($(window).height());
-    var b = ($(document.body).height());
-    if (a > b) {
-        var height=document.getElementById("window");
-        height.setAttribute("href","/assets/css/window.css");
-    }
 });
