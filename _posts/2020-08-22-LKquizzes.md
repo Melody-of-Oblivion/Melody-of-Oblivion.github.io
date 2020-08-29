@@ -1,6 +1,6 @@
 ---
 title: LK勇者答题部分收录
-editdate: 2020-08-27
+editdate: 2020-08-29
 ---
 
 请到 [LK App](https://www.lightnovel.us/mobile/) 进行答题，账号注册到 [轻国网页版](https://www.lightnovel.us/)。
@@ -314,4 +314,31 @@ PSP游戏《天神乱漫 Happy Go Lucky!!》中，千岁佐奈被神具创伤后
 小说《绝对双刃》中男主角的称号是？	<u>D. 异能</u>
 
 在《乙女游戏世界对路人角色太严厉》中，男主最喜欢的人妻的女儿是？	<u>B. 艾莉卡</u>
+
+
+
+## 玄学答题
+
+指随机选答案 XD
+
+Python：
+
+```python
+# 仅供参考
+import random
+for question in range(1, 51):
+    a = random.randint(0, 3)
+    if(a == 0):
+        a2 = 'A'
+    elif(a == 1):
+        a2 = 'B'
+    elif(a == 2):
+        a2 = 'C'
+    elif(a == 3):
+        a2 = 'D'
+    a1 = str(question)
+    answer = a1 + '：' + a2
+    print(answer)
+input()
+```
 

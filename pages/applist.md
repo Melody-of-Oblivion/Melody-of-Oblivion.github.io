@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-27
+个人整理，长期更新。**最后编辑**：2020-08-29
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -252,9 +252,9 @@ permalink: /applist/
 
 #### 4.娱乐
 
-​	阿B的VTB数据：[vtbs.moe](https://vtbs.moe/)
+​	B站的VTB数据：[vtbs.moe](https://vtbs.moe/)
 
-​	舟游工具箱：[明日方舟工具箱](https://arkn.lolicon.app/#/hr)
+​	舟游相关：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
 
 ​    
 
