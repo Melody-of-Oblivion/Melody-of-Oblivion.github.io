@@ -25,6 +25,16 @@ permalink: /about/
 
 ![嗯！](https://i.loli.net/2020/08/31/vIpVWPFXBZni4wA.jpg)
 
+# ▌声明
+
+网页基于 [Kiko](https://github.com/gfjaru/Kiko)
+
+主页分页的代码来自 [Kiko-plus](https://github.com/aweekj/Kiko-plus)
+
+采用 MIT License
+
+~~（应该没问题吧）~~
+
 # ▌其他
 
 **YOASOBI** 曲四连！！！冲！！！
