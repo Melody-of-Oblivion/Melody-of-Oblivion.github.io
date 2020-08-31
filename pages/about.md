@@ -46,3 +46,7 @@ permalink: /about/
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1444071945&auto=0&height=66"></iframe>
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1459343252&auto=0&height=66"></iframe>
+
+再来点**<ruby>つばき<rt>Tsubaki</rt>ファクトリー <rt>Factory</rt></ruby>** : )
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1348721228&auto=0&height=66"></iframe>
