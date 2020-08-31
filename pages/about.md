@@ -23,3 +23,16 @@ permalink: /about/
 
 简洁美观就完事了 : )
 
+![嗯！](https://i.loli.net/2020/08/31/vIpVWPFXBZni4wA.jpg)
+
+# ▌其他
+
+**YOASOBI** 曲四连！！！冲！！！
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1409311773&auto=0&height=66"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1417236632&auto=0&height=66"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1444071945&auto=0&height=66"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1459343252&auto=0&height=66"></iframe>
