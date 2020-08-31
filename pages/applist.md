@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-29
+个人整理，长期更新。**最后编辑**：2020-08-31
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -142,7 +142,7 @@ permalink: /applist/
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
 
-​	动态壁纸软件：[Wallpaper Engine](https://dl.3dmgame.com/patch/89942.html)
+​	动态壁纸软件：[Wallpaper Engine](https://545c.com/dir/17401394-31825581-c2136b)
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
