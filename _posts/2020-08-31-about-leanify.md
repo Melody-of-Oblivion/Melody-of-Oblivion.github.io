@@ -11,13 +11,13 @@ editdate: 2020-09-01
 
 **Leanify** 是个轻量无损的文件 **压缩器(minifier)** / **优化器(optimizer)**。
 
-它能移除没用的数据（如<u>调试信息(debug infomation)</u>、注释(comments)、<u>元数据(metadata)</u>等）并再压缩文件以缩小体积，而且不会降低图像的品质哦。
+它能移除没用的数据（如调试信息(debug infomation)、注释(comments)、元数据(metadata)等）并再压缩文件以缩小体积，而且不会降低图像的品质哦。
 
-## Disclaimer 免责声明
+## Disclaimer - 免责声明
 
 **使用Leanify前请先备份文件！**
 
-## Features 特性
+## Features - 特性
 
 - 支持递归压缩。~~（比如ZIP里一个APK里一个PNG）~~
 - 支持多种<a href="#file-formats">文件格式</a>。
@@ -27,7 +27,7 @@ editdate: 2020-09-01
 - 支持递归遍历目录。
 - 能够靠数据而不是名字识别文件格式。
 
-## <span id="file-formats">File Formats 文件格式</span>
+## <span id="file-formats">File Formats - 文件格式</span>
 
 #### APK file (.apk)
 
@@ -189,11 +189,11 @@ editdate: 2020-09-01
 
 移除 `End of central directory record` 中的注释。
 
-## Downloads 下载
+## Downloads - 下载
 
 [稳定发行版](https://github.com/JayXon/Leanify/releases/)
 
-## Usage 用法
+## Usage - 用法
 
 ```
 用法: leanify [options] 文件路径
@@ -205,7 +205,7 @@ editdate: 2020-09-01
   --keep-exif                   不移除Exif。
 ```
 
-## Compiling 编译
+## Compiling - 编译
 
 #### Windows
 
