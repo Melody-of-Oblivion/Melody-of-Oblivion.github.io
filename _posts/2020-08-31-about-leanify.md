@@ -1,8 +1,9 @@
 ---
 title: 关于Leanify
+editdate: 2020-09-01
 ---
 
-以下 <u>不完全/简要</u> 摘自 [Leanify的Readme](https://github.com/JayXon/Leanify/blob/master/README.md) ~~（渣翻确信）~~，仅用于做个记录。
+以下 <u>不完全/简要</u>~~（抄太多了）~~ 摘自 [Leanify的Readme](https://github.com/JayXon/Leanify/blob/master/README.md) ~~（渣翻确信）~~，仅用于做个记录。
 
 ![嗯](https://i.loli.net/2020/08/31/vIpVWPFXBZni4wA.jpg)
 
@@ -38,7 +39,7 @@ title: 关于Leanify
 
 #### 漫画档案 (.cbt, .cbz)
 
-`cbt` 基于 tar。`cbz` 基于 <a href="#zip">ZIP</a>。
+`cbt` 基于 <a href="#tar">tar</a>。`cbz` 基于 <a href="#zip">ZIP</a>。
 
 #### Comic book archive (.cbt, .cbz)
 
