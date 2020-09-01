@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-08-31
+个人整理，长期更新。**最后编辑**：2020-09-01
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -246,9 +246,11 @@ permalink: /applist/
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
 
-​	网盘：[奶牛快传](http://www.cowtransfer.com/)（5G） / [天翼云盘](https://cloud.189.cn/)（30G） / [蓝奏](https://www.lanzou.com/) / [超星云盘](http://pan-yz.chaoxing.com/app/download) / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)（10G） / [115](https://115.com/)（15G）
+​	网盘：[奶牛快传](http://www.cowtransfer.com/)[^5] / [天翼云盘](https://cloud.189.cn/)[^6]/ [蓝奏](https://www.lanzou.com/) / [超星云盘](http://pan-yz.chaoxing.com/app/download) / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)[^7] / [115](https://115.com/)[^8]
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
+
+​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^9]
 
 #### 4.娱乐
 
@@ -264,3 +266,9 @@ permalink: /applist/
 [^2]:Everything要注意关闭HTTP服务器功能。
 [^3]:下载后搜对应破解补丁破解。
 [^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+
+[^5]: 免费5G空间。
+[^6]: 免费60G空间。
+[^7]: 免费70G空间。
+[^8]: 免费15G空间。
+[^9]:网页免费版可以放大4倍。
