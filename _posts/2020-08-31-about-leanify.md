@@ -3,7 +3,7 @@ title: 关于Leanify
 editdate: 2020-09-01
 ---
 
-以下 <u>不完全/简要</u>~~（抄太多了）~~ 摘自 [Leanify的Readme](https://github.com/JayXon/Leanify/blob/master/README.md) ~~（渣翻确信）~~，仅用于做个记录。
+以下 <u>不完全/简要</u>~~（使劲抄）~~ 摘自 [Leanify的Readme](https://github.com/JayXon/Leanify/blob/master/README.md) ~~（渣翻确信）~~，仅用于做个记录。
 
 ![嗯](https://i.loli.net/2020/08/31/vIpVWPFXBZni4wA.jpg)
 
@@ -198,10 +198,10 @@ editdate: 2020-09-01
 ```
 用法: leanify [options] 文件路径
   -i, --iteration <iteration>   越多的迭代次数得到更好的结果，但是也更耗时，默认是15。
-  -d, --max_depth <max depth>   最大递归深度，默认无限制，设为1将会禁用递归缩小。
+  -d, --max_depth <max depth>   最大递归深度，默认无限制，设为1将会禁用递归压缩。
   -f, --fastmode                快速模式，不会再压缩。
-  -q, --quiet                   无输出到标准输出。
-  -v, --verbose                 详细输出。
+  -q, --quiet                   无输出信息。
+  -v, --verbose                 详细输出信息。
   --keep-exif                   不移除Exif。
 ```
 
