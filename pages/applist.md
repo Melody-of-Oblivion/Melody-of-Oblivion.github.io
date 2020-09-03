@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-02
+个人整理，长期更新。**最后编辑**：2020-09-03
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -25,6 +25,8 @@ permalink: /applist/
 #### 1. 效率工具
 
 ​	快捷打开面板：[Quicker](https://www.getquicker.net/Download) [^1]
+
+​	工具集：[uTools](https://www.u.tools/download.html)
 
 ​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures)
 
@@ -58,7 +60,7 @@ permalink: /applist/
 
 ​	格式转换软件：[格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
-​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](http://arctime.org/)
+​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](https://arctime.org/download.html)
 
 ​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
 
@@ -76,7 +78,7 @@ permalink: /applist/
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
 
-​	录屏软件：[OBS](https://obsproject.com/)
+​	录屏软件：[OBS](https://obsproject.com/download)
 
 ​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows)
 
@@ -248,11 +250,11 @@ permalink: /applist/
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
 
-​	网盘：[奶牛快传](http://www.cowtransfer.com/)[^5] / [天翼云盘](https://cloud.189.cn/)[^6]/ [蓝奏](https://www.lanzou.com/) / [超星云盘](http://pan-yz.chaoxing.com/app/download) / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)[^7] / [115](https://115.com/)[^8]
+​	网盘：[奶牛快传](http://www.cowtransfer.com/)[^5] / [天翼云盘](https://cloud.189.cn/)[^6]/ [蓝奏](https://www.lanzou.com/)[^7] / [超星云盘](http://pan-yz.chaoxing.com/app/download)[^8] / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)[^9] / [115](https://115.com/)[^10]
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^9]
+​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^11]
 
 #### 4.娱乐
 
@@ -271,6 +273,8 @@ permalink: /applist/
 
 [^5]: 免费5G空间。
 [^6]: 免费60G空间，个人30G，家庭30G，签到可以领。
-[^7]: 免费10G空间。
-[^8]: 免费15G空间。
-[^9]:网页免费版可以放大4倍。
+[^7]: 单个文件限制100M，不限速，适合分享小东西。
+[^8]: 据说有100G的空间。
+[^9]: 免费10G空间。
+[^10]: 免费15G空间。
+[^11]:网页免费版可以放大4倍。
