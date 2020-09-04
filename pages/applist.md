@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-03
+个人整理，长期更新。**最后编辑**：2020-09-04
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -105,8 +105,6 @@ permalink: /applist/
 #### 6. 实用软件
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
-
-​	Excel工具箱：[EasyChart](http://easychart.github.io/post/Easycharts/)
 
 ​	翻译工具：[有道词典](http://cidian.youdao.com/)
 
