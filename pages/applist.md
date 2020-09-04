@@ -196,9 +196,13 @@ permalink: /applist/
 
 ​	轻之国度：[LK](https://www.lightnovel.us/mobile/)
 
+​	漫画阅读器：[动漫之家](https://www.dmzj.com/app/pc.html) / [tachiyomi](https://github.com/inorichi/tachiyomi/releases)
+
 ​	第三方免代理P站App：[Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer/releases)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
+
+​	第三方轻书架App：[QingShuJia](https://github.com/cyb233/QingShuJia/releases)
 
 ---
 
