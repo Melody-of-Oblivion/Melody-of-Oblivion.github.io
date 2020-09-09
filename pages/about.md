@@ -19,6 +19,8 @@ permalink: /about/
 
 欢迎来一起整活哦~
 
+开学了，随缘记一些小知识。
+
 # ▌特性
 
 简洁美观就完事了 : )
@@ -52,7 +54,3 @@ xmd嗨起来！！
 再来点**<ruby>つばき<rt>Tsubaki</rt>ファクトリー <rt>Factory</rt></ruby>** : )
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1348721228&auto=0&height=66"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1416736607&auto=0&height=66"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=541480272&auto=0&height=66"></ifram
