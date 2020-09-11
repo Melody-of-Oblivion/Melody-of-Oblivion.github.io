@@ -5,8 +5,6 @@ title: py文件中调用另外的py文件
 # py中执行另一个py文件
 
 ```python
-execfile('example.py')
-# 或者
 import os
 os.system('example.py')
 ```
