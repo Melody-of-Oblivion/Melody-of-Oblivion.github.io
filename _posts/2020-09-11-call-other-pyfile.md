@@ -58,7 +58,7 @@ A.py 文件的文件路径：`E:\Py\example`
 ```python
 # B.py
 import sys
-sys.path.append(r'E:\PythonProject\winycg')
+sys.path.append(r'E:\Py\example')
 '''
 python import模块时， 是在sys.path里按顺序查找的。
 sys.path是一个列表，里面以字符串的形式存储了许多路径。
