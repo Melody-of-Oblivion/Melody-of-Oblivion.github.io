@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-04
+个人整理，长期更新。**最后编辑**：2020-09-12
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -162,7 +162,7 @@ permalink: /applist/
 
 ​	Motrix：[官网](https://motrix.app/)
 
-​	Thunder9精简版：[Lite](https://kkocdko.github.io/post/20190724002221/)
+​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/20190724002221/)
 
 ​	B站视频下载：[JiJiDown](http://client.jijidown.com/)
 
