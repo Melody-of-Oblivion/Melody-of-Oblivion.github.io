@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-12
+个人整理，长期更新。**最后编辑**：2020-09-14
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -252,11 +252,11 @@ permalink: /applist/
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
 
-​	网盘：[奶牛快传](http://www.cowtransfer.com/)[^5] / [天翼云盘](https://cloud.189.cn/)[^6]/ [蓝奏](https://www.lanzou.com/)[^7] / [超星云盘](http://pan-yz.chaoxing.com/app/download)[^8] / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)[^9] / [115](https://115.com/)[^10]
+​	网盘：[奶牛快传](http://www.cowtransfer.com/)[^5] / [天翼云盘](https://cloud.189.cn/)[^6]/ [蓝奏](https://www.lanzou.com/)[^7] / [超星云盘](http://pan-yz.chaoxing.com/app/download)[^8] / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)[^9]
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^11]
+​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10]
 
 #### 4.娱乐
 
@@ -278,5 +278,4 @@ permalink: /applist/
 [^7]: 单个文件限制100M，不限速，适合分享小东西。
 [^8]: 据说有100G的空间。
 [^9]: 免费10G空间。
-[^10]: 免费15G空间。
-[^11]:网页免费版可以放大4倍。
+[^10]:网页免费版可以放大4倍。
