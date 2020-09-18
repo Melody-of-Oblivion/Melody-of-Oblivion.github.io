@@ -37,18 +37,6 @@ permalink: /about/
 
 # ▌其他
 
-xmd嗨起来！！
+个人的网抑云歌单：[日文歌单](https://music.163.com/#/playlist?id=2094404414&userid=440561064) / [纯音乐歌单](https://music.163.com/#/playlist?id=2094396381&userid=440561064)
 
-**YOASOBI** 曲四连！！！冲！！！
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1409311773&auto=0&height=66"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1417236632&auto=0&height=66"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1444071945&auto=0&height=66"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1459343252&auto=0&height=66"></iframe>
-
-再来点**<ruby>つばき<rt>Tsubaki</rt>ファクトリー <rt>Factory</rt></ruby>** : )
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1348721228&auto=0&height=66"></iframe>
+欢迎推荐。
