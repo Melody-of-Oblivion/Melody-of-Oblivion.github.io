@@ -232,6 +232,8 @@ permalink: /applist/
 
 ​	B站视频下载：[唧唧](http://www.jijidown.com/)
 
+​	封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
+
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
