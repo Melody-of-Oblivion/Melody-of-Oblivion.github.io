@@ -33,8 +33,6 @@ permalink: /about/
 
 主页分页的代码来自 [Kiko-plus](https://github.com/aweekj/Kiko-plus)
 
-采用 MIT License
-
 ~~（这样写应该没问题吧）~~
 
 # ▌其他
