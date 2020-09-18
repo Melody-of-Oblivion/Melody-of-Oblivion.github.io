@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-16
+个人整理，长期更新。**最后编辑**：2020-09-18
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -196,7 +196,7 @@ permalink: /applist/
 
 ​	漫画阅读器：[动漫之家](https://www.dmzj.com/app/pc.html) / [tachiyomi](https://github.com/inorichi/tachiyomi/releases)
 
-​	第三方免代理P站App：[Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer/releases)
+​	第三方P站App：[Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer/releases) / [PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
 
