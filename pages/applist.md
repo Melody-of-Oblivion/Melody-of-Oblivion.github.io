@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-18
+个人整理，长期更新。**最后编辑**：2020-09-19
 
 仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
 
@@ -69,6 +69,8 @@ permalink: /applist/
 ​	Epub制作：[Sigil](https://sigil-ebook.com/)
 
 ​	电子书格式转换：[Neat Converter](https://www.neat-reader.cn/downloads/converter)
+
+​	图片工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
 
 #### 3. 娱乐相关
 
