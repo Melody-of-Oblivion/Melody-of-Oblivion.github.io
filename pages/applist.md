@@ -5,9 +5,9 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-19
+个人整理，长期更新。**最后编辑**：2020-09-20
 
-仅作为参考。(°∀°)ﾉ欢迎补充/建议好的软件哦！
+仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=429460399&auto=0&height=66"></iframe>
 
@@ -218,7 +218,7 @@ permalink: /applist/
 
 ​	Windows系统镜像资源站：[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
-​	渐变色背景：[WebGradients](https://webgradients.com/)
+​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
 #### 3. 工具
 
@@ -234,7 +234,7 @@ permalink: /applist/
 
 ​	B站视频下载：[唧唧](http://www.jijidown.com/)
 
-​	封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
+​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
 
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
 
