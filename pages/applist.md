@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-20
+个人整理，长期更新。**最后编辑**：2020-09-26
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -58,7 +58,7 @@ permalink: /applist/
 
 ​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
-​	格式转换软件：[格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
+​	格式转换软件：[格式工厂](https://www.ghpym.com/formatfactory-2.html)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](https://arctime.org/download.html)
 
