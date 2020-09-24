@@ -112,7 +112,7 @@ permalink: /applist/
 
 ​	屏幕色温自动调节：[f.lux](https://justgetflux.com/)
 
-​	office安装激活工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/)
+​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
 ​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/)
 
