@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-26
+个人整理，长期更新。**最后编辑**：2020-09-24
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -29,8 +29,6 @@ permalink: /applist/
 ​	工具集：[uTools](https://www.u.tools/download.html)
 
 ​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures)
-
-​	启动器：[Lily](https://pan.baidu.com/s/13YWkxa8nDw6XlnV37ZQhSg)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
