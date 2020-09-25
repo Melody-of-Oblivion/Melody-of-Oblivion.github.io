@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-24
+个人整理，长期更新。**最后编辑**：2020-09-25
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -217,6 +217,10 @@ permalink: /applist/
 ​	Windows系统镜像资源站：[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
+
+​	看图：[Pixivic](https://pixivic.com/)
+
+​	有C的新番列表：[YuC's AnimeList](https://yuc.wiki/)
 
 #### 3. 工具
 
