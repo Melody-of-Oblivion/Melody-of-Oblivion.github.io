@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-25
+个人整理，长期更新。**最后编辑**：2020-09-27
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -44,7 +44,7 @@ permalink: /applist/
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
+​	Markdown编辑器：[Typora](https://www.typora.io/windows/dev_release.html) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
@@ -64,7 +64,7 @@ permalink: /applist/
 
 ​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/start)
 
-​	Epub制作：[Sigil](https://sigil-ebook.com/)
+​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
 
 ​	电子书格式转换：[Neat Converter](https://www.neat-reader.cn/downloads/converter)
 
