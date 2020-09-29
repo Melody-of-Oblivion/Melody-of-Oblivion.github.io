@@ -1,6 +1,6 @@
 ---
 title: C语言拓展阅读
-editdate: 2019-12-25
+editdate: 2020-09-29
 ---
 
 ### 使用流程图描述程序
@@ -10,8 +10,6 @@ editdate: 2019-12-25
 但用自然语言描述程序**文字冗长**，并且**容易产生歧义**。加入了分支和循环以后描述就变得**越来越复杂**。
 
 所以我们建议用**流程图**来描述程序。
-
-![流程图图示](https://fishc.com.cn/data/attachment/image/000/04/21/57_400_300.jpg)
 
 Microsoft( 微软 )提供了制作流程图的工具——[Visio](https://products.office.com/zh-CN/visio/microsoft-visio-plans-and-pricing-compare-visio-options)，但是正版是<u>要钱滴</u>。
 

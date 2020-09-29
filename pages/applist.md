@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-27
+个人整理，长期更新。**最后编辑**：2020-09-28
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -74,7 +74,7 @@ permalink: /applist/
 
 ​	聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
 
-​	视频播放器：[Potplayer](https://potplayer.org/) / [QQ影音](https://player.qq.com/)
+​	视频播放器：[Potplayer](http://www.potplayercn.com/download/) / [QQ影音](https://player.qq.com/)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
 
