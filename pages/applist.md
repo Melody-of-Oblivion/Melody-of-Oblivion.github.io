@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-09-28
+个人整理，长期更新。**最后编辑**：2020-10-02
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -244,7 +244,7 @@ permalink: /applist/
 
 ​	输入文字自动生成 PPT：[极墨PPT](http://jm.wps.cn/)
 
-​	在线抠图：[removebg](https://www.remove.bg/zh) / [稿定抠图](https://www.gaoding.com/koutu)
+​	在线抠图：[removebg](https://www.remove.bg/zh) / [稿定抠图](https://www.gaoding.com/koutu) / [Alpix](https://aipix.net/)
 
 ​	简历制作：[超级简历](https://www.wondercv.com/)
 
@@ -258,7 +258,7 @@ permalink: /applist/
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10]
+​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10] / [AI Image Enlarger](https://imglarger.com/)
 
 #### 4.娱乐
 
