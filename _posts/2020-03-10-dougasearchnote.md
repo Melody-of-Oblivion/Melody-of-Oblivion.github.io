@@ -10,7 +10,7 @@ title: 凉风搜图视频内的工具集
 
 另：许多人表示可以靠想象力把原图的色块补全了以后搜
 
-网页参考图：![Tracemoe参考.png](https://i.loli.net/2020/03/10/LjFNydnYuTDz6Sc.png)
+网页参考图：![Tracemoe参考.png](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/searchimg/Tracemoe参考.png)
 
 
 
@@ -20,7 +20,7 @@ title: 凉风搜图视频内的工具集
 
 特性：搜图
 
-网页参考图：![saucenao参考.png](https://i.loli.net/2020/03/10/ErpKJZlRewCvdG6.png)
+网页参考图：![saucenao参考.png](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/searchimg/saucenao参考.png)
 
 
 
@@ -48,7 +48,7 @@ title: 凉风搜图视频内的工具集
 
 地址：http://www.iqdb.org/
 
-网页参考图：![IQDB参考.png](https://i.loli.net/2020/03/10/bHWPylhkn5XJoZ8.png)
+网页参考图：![IQDB参考.png](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/searchimg/IQDB参考.png)
 
 
 
@@ -56,6 +56,6 @@ title: 凉风搜图视频内的工具集
 
 地址：https://ascii2d.net/
 
-网页参考图：![ascii参考.png](https://i.loli.net/2020/03/10/AvgMtTelI3chi5V.png)
+网页参考图：![ascii参考.png](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/searchimg/ascii参考.png)
 
 上面的是网络图片地址，下面的是本地图片。

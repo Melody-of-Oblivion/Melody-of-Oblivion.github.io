@@ -8,7 +8,7 @@ title: 无号下载Google Play商店里的Apk
 
 我们需要这个网站 [APK Downloader](https://apps.evozi.com/apk-downloader/)（需要翻GFW）：
 
-![apkdl](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/apkdl.png)
+![apkdl](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/APKdl/apkdl.png)
 
 在输入框中填入Google Play上应用的网址，然后点 `Generate Download Link`，之后这个按钮下方会多一个下载的按钮，点那个按钮用浏览器下载。
 

@@ -9,7 +9,7 @@ permalink: /applist/
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=429460399&auto=0&height=66"></iframe>
+<img src="https://tenapi.cn/acg">
 
 ---
 

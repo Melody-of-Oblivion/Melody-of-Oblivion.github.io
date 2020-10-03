@@ -1329,7 +1329,7 @@ editdate: 2020-08-27
 
 ### 地名：
 
-![npg](https://i.loli.net/2019/12/26/ClowGPxZjnHOABz.png)
+![npg](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/jp-pad/npfullver.png)
 
 ------
 
