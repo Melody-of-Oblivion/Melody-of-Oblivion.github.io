@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-02
+个人整理，长期更新。**最后编辑**：2020-10-03
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -259,6 +259,8 @@ permalink: /applist/
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10] / [AI Image Enlarger](https://imglarger.com/)
+
+​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
 
 #### 4.娱乐
 

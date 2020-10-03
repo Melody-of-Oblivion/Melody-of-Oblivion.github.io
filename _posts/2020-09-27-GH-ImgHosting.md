@@ -1,5 +1,6 @@
 ---
 title: Github+jsDelivr打造自己的图床
+editdate: 2020-10-03
 ---
 
 图床（*Image Hosting Service*），简单来说就是一个专门用来存放图片的空间，同时允许你在其他地方通过链接引用这些图片，还是挺有用处的。
@@ -16,11 +17,17 @@ Github 咱就不做什么介绍了 XD。
 
 - 如果图片上传到根目录，如 `example.jpg`，则jsDelivr的链接就是
 
-  `https://cdn.jsdelivr.net/gh/用户名/仓库名/example.jpg`
+  ```
+  https://cdn.jsdelivr.net/gh/用户名/仓库名/example.jpg
+  ```
+
+  > 有可能是 https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/example.jpg
 
 - 如果图片上传到了文件夹里，如 `/images/example.png`，则jsDelivr的链接就是
 
-  `https://cdn.jsdelivr.net/gh/用户名/仓库名/images/example.png`
+  ```
+  https://cdn.jsdelivr.net/gh/用户名/仓库名/images/example.png
+  ```
 
 - 文件夹以此类推
 
