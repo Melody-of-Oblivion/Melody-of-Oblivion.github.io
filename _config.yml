@@ -9,8 +9,6 @@ suffix:             "Garden"
 sub:                "Level Up!"
 author:             "monSteRhhe"
 url:                "https://melody-of-oblivion.github.io"
-create_date:        "创建时间"
-edit_date:          "最后编辑"
 
 copyright:
   year:             2020
@@ -61,3 +59,7 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+
+# Post
+create_date:        "创建时间"
+edit_date:          "最后编辑"
