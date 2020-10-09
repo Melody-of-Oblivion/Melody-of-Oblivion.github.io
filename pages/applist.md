@@ -70,6 +70,8 @@ permalink: /applist/
 
 ​	图片工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
 
+​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
+
 #### 3. 娱乐相关
 
 ​	聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
