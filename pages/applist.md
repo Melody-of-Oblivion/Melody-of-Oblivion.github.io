@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-03
+个人整理，长期更新。**最后编辑**：2020-10-09
 
 仅作为参考。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -222,6 +222,8 @@ permalink: /applist/
 
 ​	有C的新番列表：[YuC's AnimeList](https://yuc.wiki/)
 
+​	天梯图：[PC显卡](https://www.mydrivers.com/zhuanti/tianti/gpu/index.html) / [PC处理器](https://www.mydrivers.com/zhuanti/tianti/cpu/index.html) / [手机处理器](https://www.mydrivers.com/zhuanti/tianti/01/index.html)
+
 #### 3. 工具
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
@@ -258,7 +260,7 @@ permalink: /applist/
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10] / [AI Image Enlarger](https://imglarger.com/)
+​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10] / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
 
 ​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
 
