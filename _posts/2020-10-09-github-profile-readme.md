@@ -2,8 +2,6 @@
 title: Github个人资料页的Readme
 ---
 
-> 简单的小教程而已
-
 > 只是一个简单的小教程而已
 
 我们能对Github的Profile进行一定的修改。
@@ -26,7 +24,7 @@ title: Github个人资料页的Readme
 
 ------
 
-我们可以用 [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) 来显示我们的个人数据。
+我们还可以用 [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) 来显示我们的个人数据。
 
 举个例子来演示：
 
