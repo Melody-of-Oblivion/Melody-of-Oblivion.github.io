@@ -228,6 +228,8 @@ permalink: /applist/
 
 ​	代码图片生成：[Codeimg](https://codeimg.io/)
 
+​	选择开源许可：[choosealicense.com](https://choosealicense.com/)
+
 #### 3. 工具
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
