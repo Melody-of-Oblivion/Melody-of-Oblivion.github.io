@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-11
+个人整理，长期更新。**最后编辑**：2020-10-13
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -71,6 +71,8 @@ permalink: /applist/
 ​	图片工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
 
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
+
+​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / Newsflow（微软商店安装）
 
 #### 3. 娱乐相关
 
