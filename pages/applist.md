@@ -270,6 +270,8 @@ permalink: /applist/
 
 ​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
 
+​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
+
 #### 4.娱乐
 
 ​	B站的VTB数据：[vtbs.moe](https://vtbs.moe/)
