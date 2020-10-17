@@ -45,6 +45,18 @@ editdate: 2020-10-17
 
 用这个也可以转存。
 
+## 3.一键秒传
+
+**注**：这种方法也需要安装脚本。
+
+把秒传链接用 [base64加密](http://tool.chinaz.com/tools/base64.aspx)，然后在加密后的字符串前面加上
+
+```
+https://pan.baidu.com/#bdlink=
+```
+
+即可。
+
 # 生成秒传链接
 
 ## 1.网页生成
