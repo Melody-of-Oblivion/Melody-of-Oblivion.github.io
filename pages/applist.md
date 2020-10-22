@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-17
+个人整理，长期更新。**最后编辑**：2020-10-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -162,9 +162,7 @@ permalink: /applist/
 
 #### 8. 下载器
 
-​	吸血雷：[迅雷](https://sn9.us/dir/17401394-28999705-70748d)
-
-​	Motrix：[官网](https://motrix.app/)
+​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [ThunderX](https://sn9.us/dir/17401394-28999705-70748d) / [Motrix](https://motrix.app/)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -234,6 +232,8 @@ permalink: /applist/
 
 #### 3. 工具
 
+​	工具箱：[MikuTools](https://tools.miku.ac/)
+
 ​	流程图：[ProcessOn](https://www.processon.com/)
 
 ​	格式转换：[Convertio](https://convertio.co/zh/)
@@ -273,6 +273,8 @@ permalink: /applist/
 ​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
 
 ​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
+
+​	petpet generator：[petpet generator](https://benisland.neocities.org/petpet/)
 
 #### 4.娱乐
 
