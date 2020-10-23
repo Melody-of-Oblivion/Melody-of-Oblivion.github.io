@@ -5,7 +5,9 @@ permalink: /about/
 
 # ▌概要
 
-*<u>个人小破站，内容更新中。</u>* 目前仍是小规模网页，不影响。
+*<u>个人小破站，内容更新中。</u>* 
+
+目前仍是小规模网页，但是不影响。
 
 个人博客网页~~（因为没人一起整呜呜呜）~~，用来简单练习网页的代码顺便记一些有用没用的东西。
 
@@ -19,7 +21,7 @@ permalink: /about/
 
 ~~整活群 609205733~~
 
-个人邮箱：mochimito@outlook.com（随缘
+个人邮箱：mochimito@outlook.com（随缘查看
 
 欢迎来一起整活哦~
 
@@ -29,7 +31,7 @@ permalink: /about/
 
 简洁美观就完事了 : )
 
-RSS订阅在页面底部哦~
+RSS订阅在页面底部哦~目前只能订阅正文内容
 
 ![嗯！](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/emoji/en.jpg)
 
