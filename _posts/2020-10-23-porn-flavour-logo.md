@@ -37,7 +37,6 @@ html {
 
 .lu-text {
     color: #fff;
-
 }
 
 .ph-rd {
