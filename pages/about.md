@@ -21,8 +21,6 @@ permalink: /about/
 
 ~~整活群 609205733~~
 
-个人邮箱：mochimito@outlook.com（随缘查看
-
 欢迎来一起整活哦~
 
 开学了，随缘记一些小知识。

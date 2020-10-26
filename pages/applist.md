@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-22
+个人整理，长期更新。**最后编辑**：2020-10-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ
 
@@ -148,7 +148,7 @@ permalink: /applist/
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
 
-​	动态壁纸软件：[Wallpaper Engine](https://545c.com/dir/17401394-31825581-c2136b)
+​	动态壁纸软件：[Wallpaper Engine](https://545c.com/dir/17401394-31825581-c2136b) / [lively](https://github.com/rocksdanister/lively/releases)
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
@@ -180,9 +180,7 @@ permalink: /applist/
 
 #### 10. 信息查看
 
-​	娱乐软件：[鲁大师](https://pan.baidu.com/s/1cI8iq9uU46vPqQoG1asvAQ) (7cnw)
-
-​	专业点的：[CPU-Z](https://sn9.us/dir/17401394-35169133-02a0d3) / [GPU-Z](https://sn9.us/dir/17401394-30152927-e2bbef)
+​	娱乐软件：[鲁大师](https://www.lanzous.com/b00zbih5c)
 
 ​	硬盘检测：[CrystalDiskInfo](http://crystalmark.info/ja/software/crystaldiskinfo/)
 
@@ -275,6 +273,8 @@ permalink: /applist/
 ​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
 
 ​	petpet generator：[petpet generator](https://benisland.neocities.org/petpet/)
+
+​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
 #### 4.娱乐
 
