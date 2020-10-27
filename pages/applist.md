@@ -7,7 +7,7 @@ permalink: /applist/
 
 个人整理，长期更新。**最后编辑**：2020-10-27
 
-仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ
+仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
 <img src="https://tenapi.cn/acg">
 
@@ -275,6 +275,8 @@ permalink: /applist/
 ​	petpet generator：[petpet generator](https://benisland.neocities.org/petpet/)
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
+
+​	短网址生成：[TinyURL](https://tinyurl.com/)
 
 #### 4.娱乐
 
