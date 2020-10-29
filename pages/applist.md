@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-27
+个人整理，长期更新。**最后编辑**：2020-10-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -32,7 +32,7 @@ permalink: /applist/
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
-​	快速搜索文件：[Wox](https://github.com/Wox-launcher/Wox/releases) / [Listary](https://www.listary.com/download) / [Everything](https://www.voidtools.com/zh-cn/downloads/) [^2]
+​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/) [^2]
 
 ​	思维导图：[MindMaster](https://www.ghpym.com/mindmaster.html) / [XMind ZEN 2020](https://www.ghpym.com/xmindzen.html)
 
@@ -100,7 +100,7 @@ permalink: /applist/
 
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^4]
 
-​	性能优化：[Process Lasso](https://sn9.us/dir/17401394-28329602-9fe960)
+​	性能优化：[Process Lasso](http://ct.ghpym.com/dir/7369060-41220817-0c73e0)
 
 #### 5. 浏览器
 
@@ -228,6 +228,8 @@ permalink: /applist/
 
 ​	选择开源许可：[choosealicense.com](https://choosealicense.com/)
 
+​	声音素材库：[Mixkit](https://mixkit.co/)
+
 #### 3. 工具
 
 ​	工具箱：[MikuTools](https://tools.miku.ac/)
@@ -266,7 +268,7 @@ permalink: /applist/
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/)[^10] / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
+​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
 
 ​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
 
@@ -298,4 +300,3 @@ permalink: /applist/
 [^7]: 单个文件限制100M，不限速，适合分享小东西。
 [^8]: 据说有100G的空间。
 [^9]: 免费10G空间。
-[^10]:网页免费版可以放大4倍。
