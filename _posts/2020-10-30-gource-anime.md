@@ -13,3 +13,6 @@ Gource下载：[官网](https://gource.io/#)
 ​	Git克隆仓库到本地，打开cmd，cd到仓库路径，输入 `gource`
 
 更详细的用法可见 [官方Wiki](https://github.com/acaudwell/Gource/wiki)。
+
+![demo](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/gource/demo.png)
+
