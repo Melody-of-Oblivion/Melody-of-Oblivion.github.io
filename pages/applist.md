@@ -188,9 +188,11 @@ permalink: /applist/
 
 ## ▌<span id="2">手机应用</span>
 
-####	1. 学习类
+####	1. 工具类
 
 ​	背单词：[百词斩](http://www.baicizhan.com/download.html)
+
+​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile)
 
 #### 2. 娱乐类
 
