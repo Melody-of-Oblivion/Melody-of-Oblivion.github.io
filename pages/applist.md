@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-29
+个人整理，长期更新。**最后编辑**：2020-10-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -218,6 +218,8 @@ permalink: /applist/
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
+​	背景生成：[CoolBackgrounds](https://coolbackgrounds.io/)
+
 ​	看图：[Pixivic](https://pixivic.com/)
 
 ​	有C的新番列表：[YuC's AnimeList](https://yuc.wiki/)
@@ -249,6 +251,8 @@ permalink: /applist/
 ​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
 
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
+
+​	类PS在线：[Photopea](https://www.photopea.com/)
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
