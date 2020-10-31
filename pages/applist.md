@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-30
+个人整理，长期更新。**最后编辑**：2020-10-31
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -72,7 +72,7 @@ permalink: /applist/
 
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
 
-​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / Newsflow（微软商店安装）
+​	EXIF编辑器：[MagicEXIF](http://www.magicexif.com/start)
 
 #### 3. 娱乐相关
 
@@ -95,6 +95,8 @@ permalink: /applist/
 ​	系统区域模拟：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
 
 ​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
+
+​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / Newsflow（微软商店安装）
 
 #### 4. 优化清理
 
@@ -176,7 +178,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-​	手游模拟器：[MuMu](http://mumu.163.com/20200515/25905_880856.html) / [雷电绿色版](https://cloud.189.cn/t/BzUJJnrEZRNb) (ong4)
+​	手游模拟器：[MuMu](http://mumu.163.com/20200515/25905_880856.html)
 
 #### 10. 信息查看
 
@@ -285,6 +287,8 @@ permalink: /applist/
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
 ​	短网址生成：[TinyURL](https://tinyurl.com/)
+
+​	在线查看EXIF：[图虫EXIF查看器](https://exif.tuchong.com/)
 
 #### 4.娱乐
 
