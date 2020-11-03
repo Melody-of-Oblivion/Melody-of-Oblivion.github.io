@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-10-31
+个人整理，长期更新。**最后编辑**：2020-11-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -208,9 +208,15 @@ permalink: /applist/
 
 ## ▌<span id="3">实用网页</span>
 
-#### 1. 学习
+#### 1. 服务
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
+
+​	B站的VTB数据：[vtbs.moe](https://vtbs.moe/)
+
+​	舟游相关：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
+
+​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
 
 #### 2. 资源
 
@@ -289,12 +295,6 @@ permalink: /applist/
 ​	短网址生成：[TinyURL](https://tinyurl.com/)
 
 ​	在线查看EXIF：[图虫EXIF查看器](https://exif.tuchong.com/)
-
-#### 4.娱乐
-
-​	B站的VTB数据：[vtbs.moe](https://vtbs.moe/)
-
-​	舟游相关：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
 
 ​    
 
