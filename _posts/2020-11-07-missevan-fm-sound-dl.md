@@ -8,7 +8,7 @@ title: 猫耳FM音频直接下载
 >
 > 另外，这种方法不一定适用于其他地方。
 
-以下图片仅供参考
+以下图片仅供参考。
 
 首先打开音声的网页页面
 
@@ -45,7 +45,7 @@ title: 猫耳FM音频直接下载
 
 或者直接在Console（控制台）输入：（就是一行JS代码）
 
-```
+```javascript
 $(".pld-sound-active").attr("data-soundurl")
 ```
 
