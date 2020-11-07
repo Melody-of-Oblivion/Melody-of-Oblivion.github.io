@@ -61,5 +61,5 @@ plugins:
   - jekyll-paginate
 
 # Post
-create_date:        "创建时间"
+create_date:        "发表时间"
 edit_date:          "最后编辑"
