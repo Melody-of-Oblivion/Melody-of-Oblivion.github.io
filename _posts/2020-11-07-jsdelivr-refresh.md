@@ -2,7 +2,7 @@
 title: jsDelivr缓存刷新
 ---
 
-直接借鉴了现成的[一篇](https://www.cnblogs.com/xieqk/p/jsdelivr-cache-refresh.html)过来。
+直接借鉴了现成的[一篇文章](https://www.cnblogs.com/xieqk/p/jsdelivr-cache-refresh.html)过来。
 
 # CDN缓存
 
