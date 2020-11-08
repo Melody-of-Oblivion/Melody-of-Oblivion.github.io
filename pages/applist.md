@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-03
+个人整理，长期更新。**最后编辑**：2020-11-07
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -196,9 +196,13 @@ permalink: /applist/
 
 ​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile)
 
+​	扫码：Office Lens（到应用商店获取）
+
 #### 2. 娱乐类
 
 ​	漫画阅读器：[tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
+
+​	EPUB阅读器：NeatReader（到应用商店获取）
 
 ​	第三方P站App：[Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer/releases) / [PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
@@ -217,6 +221,10 @@ permalink: /applist/
 ​	舟游相关：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
 
 ​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
+
+​	意识流笔记：[YANA](https://yananotes.com/)
+
+​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^5]
 
 #### 2. 资源
 
@@ -278,11 +286,11 @@ permalink: /applist/
 
 ​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
 
-​	网盘：[奶牛快传](http://www.cowtransfer.com/)[^5] / [天翼云盘](https://cloud.189.cn/)[^6]/ [蓝奏](https://www.lanzou.com/)[^7] / [超星云盘](http://pan-yz.chaoxing.com/app/download)[^8] / [文叔叔](https://www.wenshushu.cn/) / [永硕E盘](http://www.ys168.com/) / [微云](https://www.weiyun.com/)[^9]
-
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
+
+​	图片格式转换：[webp2jpg](https://renzhezhilu.gitee.io/webp2jpg-online/)
 
 ​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
 
@@ -305,8 +313,4 @@ permalink: /applist/
 [^3]:下载后搜对应破解补丁破解。
 [^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
-[^5]: 免费5G空间。
-[^6]: 免费60G空间，个人30G，家庭30G，签到可以领。
-[^7]: 单个文件限制100M，不限速，适合分享小东西。
-[^8]: 据说有100G的空间。
-[^9]: 免费10G空间。
+[^5]: 需要微信扫码登录。
