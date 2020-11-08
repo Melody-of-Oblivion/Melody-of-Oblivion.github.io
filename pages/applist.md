@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-07
+个人整理，长期更新。**最后编辑**：2020-11-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -97,6 +97,8 @@ permalink: /applist/
 ​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
 
 ​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / Newsflow（微软商店安装）
+
+​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
 #### 4. 优化清理
 
