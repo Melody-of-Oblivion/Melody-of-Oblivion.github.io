@@ -1,5 +1,6 @@
 ---
 title: 使用百灵快传进行手机电脑互传文件
+editdate: 2020-11-09
 ---
 
 百灵快传（B0Pass）是一个基于Go语言的局域网文件传输工具。
@@ -13,3 +14,5 @@ title: 使用百灵快传进行手机电脑互传文件
 ![demo](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/useb0p/demo.png)
 
 点击 `扫码` 会弹出二维码，用手机扫描后进入网页，然后就可以在 `传输` 和电脑互传文件了。
+
+传输的文件夹会自动添加到 `files` 文件夹里，传输完文件记得删除哦~
