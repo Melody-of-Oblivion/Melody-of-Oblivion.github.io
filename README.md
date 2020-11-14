@@ -20,5 +20,3 @@
 
 部分代码来自[Kiko](https://github.com/gfjaru/Kiko)和[Kiko-plus](https://github.com/aweekj/Kiko-plus)这两个项目。
 
-（简洁至上）
-
