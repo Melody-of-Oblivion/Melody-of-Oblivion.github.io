@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-08
+个人整理，长期更新。**最后编辑**：2020-11-15
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -78,7 +78,7 @@ permalink: /applist/
 
 ​	聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
 
-​	视频播放器：[Potplayer](http://www.potplayercn.com/download/) / [QQ影音](https://player.qq.com/)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
 
@@ -96,7 +96,7 @@ permalink: /applist/
 
 ​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
 
-​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / Newsflow（微软商店安装）
+​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / Newsflow（微软商店安装）
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
