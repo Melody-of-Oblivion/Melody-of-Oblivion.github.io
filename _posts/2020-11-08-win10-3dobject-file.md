@@ -1,6 +1,6 @@
 ---
 title: 删除/恢复Win10的3D对象文件夹
-editdate: 2020-11-09
+editdate: 2020-11-15
 ---
 
 我们可以通过修改注册表来删除或恢复Win10的3D对象文件夹，这里讲的方法比较方便。
@@ -22,3 +22,5 @@ editdate: 2020-11-09
    
    [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]
    ```
+
+经实测，安装软件选择文件夹时的 `3D对象` 文件夹还是会显示，但在 `此电脑` 的3D对象文件夹已被隐藏。
