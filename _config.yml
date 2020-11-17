@@ -9,8 +9,10 @@ suffix:             "Garden"
 sub:                "璀璨花火，转瞬即散。"
 author:             "monSteRhhe"
 url:                "https://melody-of-oblivion.github.io"
+rssfeed:             true
 
 copyright:
+  enable:           true
   year:             2020
   name:             Fat Tea House
 
@@ -60,6 +62,23 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-# Post
+# Post Detail
 create_date:        "发表时间"
 edit_date:          "最后编辑"
+
+# Socail Links
+social_icons:
+  enable:           true
+  ## Icons & Links
+  Github:
+    enable:         true
+    link:           "https://github.com/monSteRhhe"
+  Mail:
+    enable:         true
+    link:           "mochimito@outlook.com"
+  Weibo:
+    enable:         false
+    link:           ""
+  Twitter:
+    enable:         false
+    link:           ""

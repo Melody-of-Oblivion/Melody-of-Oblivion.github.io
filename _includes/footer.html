@@ -1,17 +1,10 @@
 <div class="footer">
   <hr/>
-  <div class="footer-links">
-    <a href="mailto:mochimito@outlook.com" title="Mail me">
-      <img src="//cdn.bootcdn.net/ajax/libs/octicons/8.5.0/svg/mail.svg">
-    </a>
-    <a href="https://github.com/monSteRhhe" title="My Github Profile">
-      <img src="//cdn.bootcdn.net/ajax/libs/octicons/8.5.0/svg/mark-github.svg">
-    </a>
-    <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed">
-      <img src="//cdn.bootcdn.net/ajax/libs/octicons/8.5.0/svg/rss.svg">
-    </a>
-  </div>
+  {% include social_links.html %}
+
+  {% if site.copyright.enable %}
   <div>
-    Copyright ♥ {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
+      Copyright ♥ {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
   </div>
+  {% endif %}
 </div>
