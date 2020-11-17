@@ -1,7 +1,8 @@
 <!--Icons are from 'Github octicons' and 'FontAwesome'-->
 
-{% if site.social_icons.enable %}
+{% if site.mapping_icons.enable %}
 <div class="footer-links">
+    <!--Octicons Icon-->
     {% if site.social_icons.Mail.enable %}
     <a href="mailto:{{ site.social_icons.Mail.link }}" title="Mail me">
         <img src="//cdn.bootcdn.net/ajax/libs/octicons/8.5.0/svg/mail.svg">
@@ -13,15 +14,19 @@
         <img src="//cdn.bootcdn.net/ajax/libs/octicons/8.5.0/svg/mark-github.svg">
     </a>
     {% endif %}
+    
+    <!--Font Awesome Icon-->
+    {% for item in site.social_icons %}
+        {% for tag in item %}
+            {% if tag.isfa %}
+                {% if tag.enable %}
+                <a class="fa {{ tag.faicon }} fa-size" href="{{ tag.link }}" title="{{ tag.description }}"></a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
 
-    {% if site.social_icons.Twitter.enable %}
-    <a class="fa fa-twitter" href="{{ site.social_icons.Twitter.link }}" title="My Twitter"></a>
-    {% endif %}
-
-    {% if site.social_icons.Weibo.enable %}
-    <a class="fa fa-weibo" href="{{ site.social_icons.Weibo.link }}" title="My Weibo"></a>
-    {% endif %}
-
+    <!--RSS Feed-->
     {% if site.rssfeed %}
     <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed">
         <img src="//cdn.bootcdn.net/ajax/libs/octicons/8.5.0/svg/rss.svg">

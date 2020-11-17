@@ -67,18 +67,35 @@ create_date:        "发表时间"
 edit_date:          "最后编辑"
 
 # Socail Links
-social_icons:
+mapping_icons:
   enable:           true
-  ## Icons & Links
+
+# Mapping Social Icons
+social_icons:
+  # Icons & Links
+  ## FontAwesome icons' name refers to https://fontawesome.dashgame.com/ 
+  ### isfa - true/false
+  ### faicon - FontAwesome icons' name
   Github:
     enable:         true
+    isfa:           false
     link:           "https://github.com/monSteRhhe"
+
   Mail:
     enable:         true
+    isfa:           false
     link:           "mochimito@outlook.com"
+
   Weibo:
     enable:         false
+    isfa:           true
+    faicon:         "fa-weibo"
     link:           ""
+    description:    "My Weibo"
+
   Twitter:
     enable:         false
+    isfa:           true
+    faicon:         "fa-twitter"
     link:           ""
+    description:    "My Twitter"

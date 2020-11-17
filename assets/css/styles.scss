@@ -20,7 +20,7 @@ html {
 	line-height: 1.6;
 	
   @media (min-width: 38em) {
- 	 font-size: 20px;
+    font-size: 20px;
   }
 }
 
@@ -511,8 +511,6 @@ div {
   font-size: .95rem;
 
   &-links {
-
-
     a {
       display: inline-block;
     }
@@ -527,6 +525,16 @@ div {
   hr {
     margin: 1rem auto;
     max-width: 42rem;
+  }
+}
+
+.fa-size {
+  width: 20px;
+  margin: 0 .2rem;
+  vertical-align: 2px;
+  &:hover,
+  &:focus {
+    text-decoration: none;
   }
 }
 
