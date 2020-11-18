@@ -1,5 +1,6 @@
 ---
 title: 利用FastGit服务加速Github访问
+editdate: 2020-11-18
 ---
 
 > **Fast Git** : Fast way to get github things.
@@ -37,6 +38,17 @@ title: 利用FastGit服务加速Github访问
    https://codeload.github.com/A/A/zip/master
    # Fastgit
    https://download.fastgit.org/A/A/archive/master.zip
+   ```
+
+3. **Raw下载**
+
+   把原来的 `raw.githubusercontent.com` 改为 `raw.fastgit.org`
+
+   ```
+   # Github
+   https://raw.githubusercontent.com/A/A/branch/file
+   # Fastgit
+   https://raw.fastgit.org/A/A/branch/file
    ```
 
    
