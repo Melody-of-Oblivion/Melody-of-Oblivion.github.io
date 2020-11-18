@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-15
+个人整理，长期更新。**最后编辑**：2020-11-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -100,9 +100,11 @@ permalink: /applist/
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
+​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^4]
+
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^4]
+​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^5]
 
 ​	性能优化：[Process Lasso](http://ct.ghpym.com/dir/7369060-41220817-0c73e0)
 
@@ -226,7 +228,7 @@ permalink: /applist/
 
 ​	意识流笔记：[YANA](https://yananotes.com/)
 
-​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^5]
+​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^6]
 
 #### 2. 资源
 
@@ -312,7 +314,9 @@ permalink: /applist/
 
 [^1]:Quicker要注册账号。
 [^2]:Everything要注意关闭HTTP服务器功能。
-[^3]:下载后搜对应破解补丁破解。
-[^4]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+[^3]: 这个有分免费版的和付费版的。
+[^4]:下载后搜对应破解补丁破解。
+[^5]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
-[^5]: 需要微信扫码登录。
+[^6]: 需要微信扫码登录。
+
