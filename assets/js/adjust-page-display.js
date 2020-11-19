@@ -1,3 +1,4 @@
+// 页面过小时调整大小
 $(document).ready(function(){
     var a = ($(window).height());
     var b = ($(document.body).height());
