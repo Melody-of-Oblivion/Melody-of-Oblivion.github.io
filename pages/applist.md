@@ -108,7 +108,7 @@ permalink: /applist/
 
 ​	性能优化：[Process Lasso](http://ct.ghpym.com/dir/7369060-41220817-0c73e0)
 
-​	SSD优化：[Abelssoft SSD Fresh Plus]([Abelssoft SSD Fresh Plus 2021 v10.0.9.exe - 蓝奏云 (lanzous.com)](https://wws.lanzous.com/iPvtEim0p9e))
+​	SSD优化：[Abelssoft SSD Fresh Plus](https://wws.lanzous.com/iPvtEim0p9e)
 
 #### 5. 浏览器
 
