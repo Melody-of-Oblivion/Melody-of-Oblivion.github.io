@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-18
+个人整理，长期更新。**最后编辑**：2020-11-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -107,6 +107,8 @@ permalink: /applist/
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^5]
 
 ​	性能优化：[Process Lasso](http://ct.ghpym.com/dir/7369060-41220817-0c73e0)
+
+​	SSD优化：[Abelssoft SSD Fresh Plus]([Abelssoft SSD Fresh Plus 2021 v10.0.9.exe - 蓝奏云 (lanzous.com)](https://wws.lanzous.com/iPvtEim0p9e))
 
 #### 5. 浏览器
 
