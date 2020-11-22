@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-21
+个人整理，长期更新。**最后编辑**：2020-11-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -170,7 +170,7 @@ permalink: /applist/
 
 #### 8. 下载器
 
-​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [ThunderX](https://sn9.us/dir/17401394-28999705-70748d) / [Motrix](https://motrix.app/)
+​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [ThunderX](https://sn9.us/dir/17401394-28999705-70748d) / [Motrix](https://motrix.app/) / [NDM](http://neatdownloadmanager.com/index.php/en/)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
