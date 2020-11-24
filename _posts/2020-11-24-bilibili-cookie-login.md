@@ -8,7 +8,7 @@ title: 使用cookie登录B站
 
 ![step1](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/blblcookie/1.png)
 
-在这个路径下找到 `SESSDATE`
+在这个路径下找到 `SESSDATA`
 
 ![step2](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/blblcookie/2.png)
 
