@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-11-22
+个人整理，长期更新。**最后编辑**：2020-12-06
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -32,7 +32,7 @@ permalink: /applist/
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
-​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/) [^2]
+​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/) [^2] / [EverythingToolbar](https://github.com/stnkl/EverythingToolbar/releases)
 
 ​	思维导图：[MindMaster](https://www.ghpym.com/mindmaster.html) / [XMind ZEN 2020](https://www.ghpym.com/xmindzen.html)
 
