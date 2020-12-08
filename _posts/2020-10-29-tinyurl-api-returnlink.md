@@ -22,6 +22,21 @@ import requests
 raw_url = input('Input origin url:')
 returnlink = requests.get('http://tinyurl.com/api-create.php?url=' + raw_url)
 
-print(returnlink.text)
+print(returnlink)
+```
+
+------
+
+反过来可以访问短链接来获取原网址
+
+Py代码参考：
+
+```python
+import requests
+
+access = requests.head(short_url)
+origin_link = access.headers.get('location')
+
+print(origin_link)
 ```
 
