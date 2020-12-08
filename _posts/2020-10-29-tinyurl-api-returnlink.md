@@ -1,5 +1,6 @@
 ---
 title: TinyURL服务的API使用
+editdate: 2020-12-08
 ---
 
 [TinyURL](https://tinyurl.com/)是一个专门提供缩略网址服务的网站，于2002年1月开始提供服务，我们能用它来生成网址的短链接。
