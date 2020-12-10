@@ -7,7 +7,7 @@ editdate: 2020-12-10
 
 目前就国内的网盘形势来看，度盘还是存在着一定的存储/分享的需求，但是一些资源经常炸（不管什么原因），这就让补档工作变得非常麻烦。
 
-这里要讲的是黑科技【**秒传链接**】，原理是根据文件的MD5直接在BD服务器上搜索相关文件, 来实现转存，而不用官方的分享链接，这样就能减小炸资源的概率。只要BD的服务器里还存着资源，就算上传者的文件被删除，秒传链接也是可以正常使用的。
+这里要讲的是黑科技【**秒传链接**】，原理是根据文件的MD5直接在BD服务器上搜索相关文件, 来实现转存，而不用官方的分享链接，这样就能减小炸资源的概率。只要BD的服务器里还存着资源，就算上传者的文件被删除，秒传链接也是可以正常使用的（除非md5被炸）。
 
 **秒传常用格式：**
 
@@ -23,25 +23,15 @@ editdate: 2020-12-10
 
 ## 1.网页转存
 
-**10.16初稿**  新版见下方更新内容
+> 12.10测试发现网页转存没法用了，不知道会不会恢复
 
 访问 [百度网盘秒传链接转存](https://rapid.acg.uy/)
 
-![转存网页演示](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/sectrans/zcdemo.png)
-
-我们先要获得 **<u>bdstoken</u>**，点击 `复制代码`，复制网站提供的JS代码。
-
-浏览器打开度盘的个人主页，按F12进入控制台（*console*），粘贴这段代码并按 `Enter` 键运行，就能复制到 bdstoken。（可以保留 bdstoken 多次使用）
-
-![控制台](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/sectrans/console.png)
+秒传链转存网站更新成了点击就能获取bdstoken
 
 填入 bdstoken 和秒传链接，然后点 `解析链接并转存`。
 
-**12.10更新**
-
-秒传链转存网站更新成了点击就能获取bdstoken
-
-![new](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/sectrans/zcdemo2.png)
+![new](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/sectrans/mcdemo.png)
 
 ------
 
@@ -49,19 +39,17 @@ editdate: 2020-12-10
 
 浏览器安装Tampermonkey扩展。
 
-再安装这个脚本： [仓库用度盘投稿助手](https://greasyfork.org/zh-CN/scripts/3285-%E4%BB%93%E5%BA%93%E7%94%A8%E5%BA%A6%E7%9B%98%E6%8A%95%E7%A8%BF%E5%8A%A9%E6%89%8B)
+再安装脚本： [仓库用度盘投稿助手](https://greasyfork.org/zh-CN/scripts/3285-%E4%BB%93%E5%BA%93%E7%94%A8%E5%BA%A6%E7%9B%98%E6%8A%95%E7%A8%BF%E5%8A%A9%E6%89%8B) / [秒传链接提取](https://greasyfork.org/zh-CN/scripts/397324-秒传链接提取)
 
-度盘的个人主页会多出一个按钮：
+度盘的个人主页会多出秒传链接的按钮。
 
-![秒传链接按钮](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/posts/sectrans/btn.png)
-
-用这个也可以转存。
+用这种方法也可以转存。
 
 ------
 
 ## 3.一键秒传
 
-**注**：这种方法也需要安装脚本。
+**注**：这种方法也需要安装脚本才行。
 
 把秒传链接用 [base64加密](http://tool.chinaz.com/tools/base64.aspx)，然后在加密后的字符串前面加上
 
@@ -70,6 +58,18 @@ https://pan.baidu.com/#bdlink=
 ```
 
 即可。
+
+------
+
+## 4.PanDownload转存
+
+原版的PD已经没了，我们用其他的[修改版](https://github.com/PanDownloadServer/Server/releases)来进行转存。
+
+启动后需要登录网盘账号（因为是转存到自己盘啊）
+
+在 `分享链接` 界面的 `输入分享链接或秒传链接` 栏输入 `bdpan://` 格式的秒传链。
+
+不同格式秒传链的转换可以见：[百度网盘秒传链接转换](https://rapid.acg.uy/convert.html)
 
 ------
 
@@ -87,11 +87,15 @@ https://pan.baidu.com/#bdlink=
 
 同样的，度盘要上传过这个资源才行。
 
+## 3.脚本生成
+
+按上面使用秒传链接的脚本转存的第二个方法里
+
+秒传链接提取脚本更新了生成的功能。
+
 ------
 
-# 12.04补充
-
-零散地补一些使用注意吧。
+# 使用注意
 
 1. 文件需要上传到毒盘，秒传链才会生效
 2. 秒传链生效需要一些时间，文件越大越可能延时生效（推荐使用毒盘客户端来上传文件）
