@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-07
+个人整理，长期更新。**最后编辑**：2020-12-10
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -167,6 +167,8 @@ permalink: /applist/
 ​	时钟屏保：[Fliqlo](https://fliqlo.com/)
 
 ​	图标替换：[FolderIconTool](https://github.com/fengyunkkx/FolderIconTool/releases)
+
+​	Bing壁纸：[Bing Wallpaper2](https://github.com/Dustray/BingWallpaper2/releases)
 
 #### 8. 下载器
 
