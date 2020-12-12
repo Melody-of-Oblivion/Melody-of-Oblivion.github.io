@@ -276,6 +276,8 @@ tbody tr:nth-child(odd) th {
   padding: 4rem 1.3rem 2.5rem;
   margin-left:  auto;
   margin-right: auto;
+  height: auto;
+  min-height: 960px;
 
   @media (min-width: 38rem){
     padding: 6rem 2rem 5rem;
