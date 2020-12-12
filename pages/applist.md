@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-10
+个人整理，长期更新。**最后编辑**：2020-12-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -35,6 +35,8 @@ permalink: /applist/
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/) [^2] / [EverythingToolbar](https://github.com/stnkl/EverythingToolbar/releases)
 
 ​	思维导图：[MindMaster](https://www.ghpym.com/mindmaster.html) / [XMind ZEN 2020](https://www.ghpym.com/xmindzen.html)
+
+​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 #### 2. 编辑工具
 
@@ -205,6 +207,8 @@ permalink: /applist/
 ​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile)
 
 ​	扫码：Office Lens（到应用商店获取）
+
+​	视频下载器：[蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
 
 #### 2. 娱乐类
 
