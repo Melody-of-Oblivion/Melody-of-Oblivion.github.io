@@ -10,6 +10,8 @@ title: 丸子与银河龙OP歌词
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=3&id=2065980825&auto=0&height=66"></iframe>
 
+（音量注意）
+
 ​    
 
 ガリガリの<ruby>体<rt>からだ</rt></ruby>で<ruby>頬<rt>ほお</rt></ruby><ruby>張<rt>ば</rt></ruby>って
