@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-13
+个人整理，长期更新。**最后编辑**：2020-12-15
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -174,7 +174,7 @@ permalink: /applist/
 
 #### 8. 下载器
 
-​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [ThunderX](https://sn9.us/dir/17401394-28999705-70748d) / [Motrix](https://motrix.app/) / [NDM](http://neatdownloadmanager.com/index.php/en/)
+​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [ThunderX](https://sn9.us/dir/17401394-28999705-70748d) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -208,7 +208,9 @@ permalink: /applist/
 
 ​	扫码：Office Lens（到应用商店获取）
 
-​	视频下载器：[蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
+​	下载器：[闪电下载](https://wws.lanzous.com/ie2kljdrwef) (fz51)
+
+​	磁链视频下载器：[蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
 
 #### 2. 娱乐类
 
