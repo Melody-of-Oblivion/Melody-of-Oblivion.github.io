@@ -80,7 +80,7 @@ permalink: /applist/
 
 ​	聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
 
