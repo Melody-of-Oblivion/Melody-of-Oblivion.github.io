@@ -240,6 +240,8 @@ permalink: /applist/
 
 ​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^6]
 
+​	个人看板：[Personal Kanban](https://personalkanban.js.org/)
+
 #### 2. 资源
 
 ​	字体资源：[字由](http://www.hellofont.cn/)
