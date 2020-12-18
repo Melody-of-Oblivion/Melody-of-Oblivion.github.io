@@ -114,7 +114,7 @@ permalink: /applist/
 
 #### 5. 浏览器
 
-​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/) / [火狐](http://www.firefox.com.cn/) / [Edge](https://www.microsoft.com/zh-cn/edge/)
+​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/) / [Firefox](https://www.mozilla.org/zh-CN/firefox/browsers/) / [Edge](https://www.microsoft.com/zh-cn/edge/)
 
 #### 6. 实用软件
 
@@ -212,13 +212,15 @@ permalink: /applist/
 
 ​	磁链视频下载器：[蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
 
+​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
+
 #### 2. 娱乐类
 
 ​	漫画阅读器：[tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
 
 ​	EPUB阅读器：NeatReader（到应用商店获取）
 
-​	第三方P站App：[Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer/releases) / [PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
+​	第三方P站App：[PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
 
