@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-18
+个人整理，长期更新。**最后编辑**：2020-12-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -153,6 +153,8 @@ permalink: /applist/
 ​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
 ​	Git：[Git](https://git-scm.com/) / [Github Desktop](https://desktop.github.com/)
+
+​	Topaz全家桶：[Topaz AI](https://cloud.189.cn/t/ENNrYzZVzMnu)
 
 #### 7. 美化系列
 
