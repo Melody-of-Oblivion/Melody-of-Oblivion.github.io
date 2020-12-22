@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-20
+个人整理，长期更新。**最后编辑**：2020-12-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -180,7 +180,7 @@ permalink: /applist/
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
-​	B站视频下载：[JiJiDown](http://client.jijidown.com/)
+​	B站视频下载：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases)
 
 ​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
 
