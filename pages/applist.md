@@ -226,6 +226,8 @@ permalink: /applist/
 
 ​	EPUB阅读器：NeatReader（到应用商店获取）
 
+​	听音乐：[Listen1](https://github.com/listen1/listen1_mobile/releases)
+
 ​	第三方P站App：[PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
 ​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
