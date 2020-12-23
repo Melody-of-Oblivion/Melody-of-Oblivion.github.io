@@ -40,7 +40,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [Affinity Photo](https://cloud.189.cn/t/uMJ7Ff6vMRVn)
 
 ​	音频编辑：[Audacity](https://www.audacityteam.org/)
 
@@ -62,7 +62,7 @@ permalink: /applist/
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](https://arctime.org/download.html)
 
-​	Adobe全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
+​	Adobe2019全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
 
 ​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/start)
 
@@ -199,6 +199,8 @@ permalink: /applist/
 ​	娱乐软件：[鲁大师](https://www.lanzous.com/b00zbih5c)
 
 ​	硬盘检测：[CrystalDiskInfo](http://crystalmark.info/ja/software/crystaldiskinfo/)
+
+​	软硬件检测：[AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b)
 
 ---
 
