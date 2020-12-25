@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-23
+个人整理，长期更新。**最后编辑**：2020-12-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -104,6 +104,8 @@ permalink: /applist/
 
 ​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^4]
 
+​	音效增强：[FxSound 2 Pro](https://wws.lanzous.com/iXquFjpe47e)
+
 #### 4. 优化清理
 
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^5]
@@ -193,6 +195,8 @@ permalink: /applist/
 ​	手游模拟器：[MuMu](http://mumu.163.com/20200515/25905_880856.html) / [雷电模拟器](https://cloud.189.cn/t/BzUJJnrEZRNb#ong4) (ong4)
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
+
+​	沙盘：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
 
 #### 10. 信息查看
 
