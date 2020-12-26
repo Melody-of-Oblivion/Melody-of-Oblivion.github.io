@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-25
+个人整理，长期更新。**最后编辑**：2020-12-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -255,6 +255,8 @@ permalink: /applist/
 ​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^6]
 
 ​	个人看板：[Personal Kanban](https://personalkanban.js.org/)
+
+​	云汉化平台：[ParaTranz](https://paratranz.cn/)
 
 #### 2. 资源
 
