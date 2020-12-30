@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2020-12-26
+个人整理，长期更新。**最后编辑**：2020-12-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -223,6 +223,8 @@ permalink: /applist/
 ​	磁链视频下载器：[蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
+
+​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases)
 
 #### 2. 娱乐类
 
