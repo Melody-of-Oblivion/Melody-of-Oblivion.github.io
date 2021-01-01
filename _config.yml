@@ -6,7 +6,6 @@
 # Basic
 name:               "Melody of Oblivion"
 suffix:             "Garden"
-sub:                "璀璨花火，转瞬即散。"
 author:             "monSteRhhe"
 url:                "https://melody-of-oblivion.github.io"
 rssfeed:             true
@@ -99,3 +98,8 @@ social_icons:
     faicon:         "fa-twitter"
     link:           ""
     description:    "My Twitter"
+
+# Sub description
+## a short sentense, displayed on the right side of the main page.
+sub:                true
+subwords:           "To explore the world."

@@ -343,6 +343,9 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead {
+  border-bottom: 1px solid #3d3d3d;
+  margin: 1rem 0 2rem 0;
+
   &-title {
     font-weight: 300;
 
@@ -358,10 +361,9 @@ tbody tr:nth-child(odd) th {
       color: #404040;
     }
   }
+
   &-description {
     text-align: right;
-    border-bottom: 1px solid #3d3d3d;
-    margin: 1rem 0 2rem 0;
   }
 }
 

@@ -5,6 +5,8 @@ layout: default
   <h1 class="masthead-title">
     <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s {{ site.suffix }}</span></a>
   </h1>
-  <div class="masthead-description">{{ site.sub }}</div>
+  {% if site.sub %}
+  <div class="masthead-description">{{ site.subwords }}</div>
+  {% endif %}
 </header>
 {% include pagination.html %}
