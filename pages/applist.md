@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-02
+个人整理，长期更新。**最后编辑**：2021-01-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -75,6 +75,8 @@ permalink: /applist/
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
 
 ​	EXIF编辑器：[MagicEXIF](http://www.magicexif.com/start)
+
+​	照片滤镜：[CameraBag Pro](https://wws.lanzous.com/iux8Jjzr3kj)
 
 #### 3. 娱乐相关
 
@@ -218,13 +220,13 @@ permalink: /applist/
 
 ​	扫码：Office Lens（到应用商店获取）
 
-​	下载器：[闪电下载](https://wws.lanzous.com/ie2kljdrwef) (fz51)
-
-​	磁链视频下载器：[蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
+​	下载器：[闪电下载](https://wws.lanzous.com/ie2kljdrwef) (fz51) / [蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
 ​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases)
+
+​	解压缩：[ZArchiver](https://wws.lanzous.com/i9tVAizxmbe) (fcft)
 
 #### 2. 娱乐类
 
