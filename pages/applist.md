@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-03
+个人整理，长期更新。**最后编辑**：2021-01-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -180,7 +180,9 @@ permalink: /applist/
 
 #### 8. 下载器
 
-​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [ThunderX](https://sn9.us/dir/17401394-28999705-70748d) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/)
+​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/)
+
+​	多协议下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -300,13 +302,9 @@ permalink: /applist/
 
 ​	图床：[sm.ms](https://sm.ms/)
 
-​	B站视频下载：[唧唧](http://www.jijidown.com/)
-
 ​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
 
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
-
-​	类PS在线：[Photopea](https://www.photopea.com/)
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
@@ -339,6 +337,8 @@ permalink: /applist/
 ​	短网址生成：[TinyURL](https://tinyurl.com/)
 
 ​	在线查看EXIF：[图虫EXIF查看器](https://exif.tuchong.com/)
+
+​	TrackersList：[TrackersList.com](https://trackerslist.com/#/zh)
 
 ​    
 
