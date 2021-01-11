@@ -5,8 +5,6 @@ editdate: 2020-09-01
 
 以下 <u>不完全/简要</u>~~（使劲抄）~~ 摘自 [Leanify的Readme](https://github.com/JayXon/Leanify/blob/master/README.md) ~~（渣翻确信）~~，仅用于做个记录。
 
-![嗯](https://i.loli.net/2020/08/31/vIpVWPFXBZni4wA.jpg)
-
 ## Leanify
 
 **Leanify** 是个轻量无损的文件 **压缩器(minifier)** / **优化器(optimizer)**。
