@@ -46,7 +46,7 @@ permalink: /applist/
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/windows/dev_release.html) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
+​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
