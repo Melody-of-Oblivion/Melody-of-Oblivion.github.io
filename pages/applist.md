@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-11
+个人整理，长期更新。**最后编辑**：2021-01-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -172,7 +172,7 @@ permalink: /applist/
 
 ​	桌面分框：[Fences3](https://www.lanzous.com/b00z9m2ze)
 
-​	时钟屏保：[Fliqlo](https://fliqlo.com/)
+​	时钟屏保：[Fliqlo](https://fliqlo.com/#/screensaver)
 
 ​	图标替换：[FolderIconTool](https://github.com/fengyunkkx/FolderIconTool/releases)
 
