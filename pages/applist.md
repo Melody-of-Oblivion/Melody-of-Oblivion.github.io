@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-12
+个人整理，长期更新。**最后编辑**：2021-01-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -80,7 +80,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html)
+​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html) / [Zenchat](https://zenkit.com/en/chat/platforms/)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [SPlayer](http://www.splayer.org/)
 
@@ -200,7 +200,7 @@ permalink: /applist/
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
-​	沙盘：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
+​	裸奔沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
 
 #### 10. 信息查看
 
@@ -229,6 +229,8 @@ permalink: /applist/
 ​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases)
 
 ​	解压缩：[ZArchiver](https://wws.lanzous.com/i9tVAizxmbe) (fcft)
+
+​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
 #### 2. 娱乐类
 
@@ -301,6 +303,8 @@ permalink: /applist/
 ​	PDF工具：[Smallpdf](https://smallpdf.com/cn) / [LightPDF](https://lightpdf.com/zh/)
 
 ​	图床：[sm.ms](https://sm.ms/)
+
+​	开源替代品：[Open-source alternatives](https://opensource.builders/)
 
 ​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
 
