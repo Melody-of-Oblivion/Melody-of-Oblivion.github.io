@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-26
+个人整理，长期更新。**最后编辑**：2021-01-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -159,6 +159,8 @@ permalink: /applist/
 ​	Git：[Git](https://git-scm.com/) / [Github Desktop](https://desktop.github.com/)
 
 ​	Topaz全家桶：[Topaz AI](https://cloud.189.cn/t/ENNrYzZVzMnu)
+
+​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
 #### 7. 美化系列
 
