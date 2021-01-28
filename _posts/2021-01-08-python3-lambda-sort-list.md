@@ -1,5 +1,5 @@
 ---
-title: Python|使用lambda表达式排序列表
+title: Python3使用lambda表达式排序列表
 ---
 
 > 用list排序时碰到，就简单讲讲。

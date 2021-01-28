@@ -1,9 +1,9 @@
 ---
 title: 本地搭建Github Pages的Jekyll环境
-editdate: 2020-08-26
+editdate: 2021-01-28
 ---
 
-从 [这里](https://pages.github.com/versions/) 可以找到 Github Pages 各依赖的版本（Dependency versions）。
+Github Pages [各依赖的版本](https://pages.github.com/versions/)（Dependency versions）。
 
 找到 `ruby` 的版本，到 Ruby 的 [官网](https://rubyinstaller.org/) 下载对应版本的安装器安装（直接安装到盘的根目录），安装时注意带上 Devkit。
 
@@ -17,25 +17,13 @@ gem install github-pages
 
 会自动安装 Github Pages 最新的所有依赖。
 
-​    
-
-输入
-
 ```powershell
 gem list
 ```
 
-查看已安装的所有gem。
-
-​    
+可以查看已安装的所有gem。
 
 Github Pages 的依赖更新后，可以输入
-
-```powershell
-gem update github-pages
-```
-
-更新相关的gems。或者输入
 
 ```powershell
 gem uninstall -aIx
