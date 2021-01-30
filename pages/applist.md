@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-27
+个人整理，长期更新。**最后编辑**：2021-01-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -234,9 +234,11 @@ permalink: /applist/
 
 ​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
+​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
+
 #### 2. 娱乐类
 
-​	漫画阅读器：[tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
+​	漫画阅读器：[Tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
 
 ​	EPUB阅读器：NeatReader（到应用商店获取）
 
