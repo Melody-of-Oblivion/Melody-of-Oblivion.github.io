@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-27
+个人整理，长期更新。**最后编辑**：2021-02-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -32,7 +32,7 @@ permalink: /applist/
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
-​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/) [^2] / [EverythingToolbar](https://github.com/stnkl/EverythingToolbar/releases)
+​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
 
 ​	思维导图：[MindMaster](https://www.ghpym.com/mindmaster.html) / [XMind ZEN 2020](https://www.ghpym.com/xmindzen.html)
 
@@ -62,10 +62,6 @@ permalink: /applist/
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](https://arctime.org/download.html)
 
-​	Adobe2019全家桶：[Adobe CC 2019](magnet:?xt=urn:btih:9CA9C8196310403C8C9475CF341C152F4E14F845) [^3]
-
-​	图像元数据编辑器：[MagicEXIF](http://www.magicexif.com/start)
-
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
 
 ​	电子书格式转换：[Neat Converter](https://www.neat-reader.cn/downloads/converter)
@@ -73,8 +69,6 @@ permalink: /applist/
 ​	图片工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
 
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
-
-​	EXIF编辑器：[MagicEXIF](http://www.magicexif.com/start)
 
 ​	照片滤镜：[CameraBag Pro](https://wws.lanzous.com/iux8Jjzr3kj)
 
@@ -84,7 +78,7 @@ permalink: /applist/
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [SPlayer](http://www.splayer.org/)
 
-​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases)
+​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases)
 
 ​	录屏软件：[OBS](https://obsproject.com/download)
 
@@ -94,9 +88,9 @@ permalink: /applist/
 
 ​	Gal钩子获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases)
 
-​	Gal资源提取：[GARbro](https://github.com/morkt/GARbro/releases)
+​	Gal提取：[GARbro](https://github.com/morkt/GARbro/releases)
 
-​	系统区域模拟：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
+​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
 
 ​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
 
@@ -104,13 +98,13 @@ permalink: /applist/
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^4]
+​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^2]
 
 ​	音效增强：[FxSound 2 Pro](https://wws.lanzous.com/iXquFjpe47e)
 
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^5]
+​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^3]
 
 ​	性能优化：[Process Lasso](http://ct.ghpym.com/dir/7369060-41220817-0c73e0)
 
@@ -184,7 +178,7 @@ permalink: /applist/
 
 ​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/)
 
-​	多协议下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases)
+​	支持多协议的下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -222,7 +216,7 @@ permalink: /applist/
 
 ​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile)
 
-​	扫码：Office Lens（到应用商店获取）
+​	扫描：Office Lens（到应用商店获取）
 
 ​	下载器：[闪电下载](https://wws.lanzous.com/ie2kljdrwef) (fz51) / [蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
 
@@ -234,9 +228,11 @@ permalink: /applist/
 
 ​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
+​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
+
 #### 2. 娱乐类
 
-​	漫画阅读器：[tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
+​	漫画阅读器：[Tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
 
 ​	EPUB阅读器：NeatReader（到应用商店获取）
 
@@ -256,13 +252,13 @@ permalink: /applist/
 
 ​	B站的VTB数据：[vtbs.moe](https://vtbs.moe/)
 
-​	舟游相关：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
+​	舟游工具：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
 
 ​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
 
 ​	意识流笔记：[YANA](https://yananotes.com/)
 
-​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^6]
+​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^4]
 
 ​	个人看板：[Personal Kanban](https://personalkanban.js.org/)
 
@@ -324,8 +320,6 @@ permalink: /applist/
 
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
 
-​	传文件：[奶牛快传](http://www.cowtransfer.com/) / [文叔叔](https://www.wenshushu.cn/)
-
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
@@ -351,10 +345,8 @@ permalink: /applist/
 ------
 
 [^1]:Quicker要注册账号。
-[^2]:Everything要注意关闭HTTP服务器功能。
-[^3]: 这个有分免费版的和付费版的。
-[^4]:下载后搜对应破解补丁破解。
-[^5]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+[^2]:这个有分免费版和付费版。
+[^3]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
-[^6]: 需要微信扫码登录。
+[^4]: 需要微信扫码登录。
 
