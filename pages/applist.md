@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-01
+个人整理，长期更新。**最后编辑**：2021-02-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -218,8 +218,6 @@ permalink: /applist/
 
 ​	扫描：Office Lens（到应用商店获取）
 
-​	下载器：[闪电下载](https://wws.lanzous.com/ie2kljdrwef) (fz51) / [蟒蛇下载](https://wws.lanzous.com/itClejab4fe) (3smj)
-
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
 ​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases)
@@ -234,7 +232,7 @@ permalink: /applist/
 
 ​	漫画阅读器：[Tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
 
-​	EPUB阅读器：NeatReader（到应用商店获取）
+​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
 
 ​	听音乐：[Listen1](https://github.com/listen1/listen1_mobile/releases)
 
