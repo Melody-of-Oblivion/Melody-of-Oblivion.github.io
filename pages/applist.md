@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-03
+个人整理，长期更新。**最后编辑**：2021-02-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -156,6 +156,8 @@ permalink: /applist/
 
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
+​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html)
+
 #### 7. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
@@ -168,7 +170,7 @@ permalink: /applist/
 
 ​	桌面分框：[Fences3](https://www.lanzous.com/b00z9m2ze)
 
-​	时钟屏保：[Fliqlo](https://fliqlo.com/#/screensaver)
+​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
 
 ​	图标替换：[FolderIconTool](https://github.com/fengyunkkx/FolderIconTool/releases)
 
