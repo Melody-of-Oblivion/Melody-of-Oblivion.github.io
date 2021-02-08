@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-05
+个人整理，长期更新。**最后编辑**：2021-02-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -94,7 +94,7 @@ permalink: /applist/
 
 ​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
 
-​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / Newsflow（微软商店安装）
+​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
@@ -218,17 +218,19 @@ permalink: /applist/
 
 ​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile)
 
-​	扫描：Office Lens（到应用商店获取）
+​	扫描：[Office Lens](https://app.mi.com/details?id=com.microsoft.office.officelens)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases)
+​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases) / [X Browser](https://app.mi.com/details?id=com.mmbox.xbrowser.pro)
 
 ​	解压缩：[ZArchiver](https://wws.lanzous.com/i9tVAizxmbe) (fcft)
 
 ​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
 ​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
+
+​	(第三方)谷歌应用市场：[Google Play](https://app.mi.com/details?id=com.android.vending) / [APKPure](https://apkpure.com/cn/apkpure-app.html) / [Aptoide](https://github.com/Aptoide/aptoide-client-v8/releases)
 
 #### 2. 娱乐类
 
