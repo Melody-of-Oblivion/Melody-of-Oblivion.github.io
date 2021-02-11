@@ -232,6 +232,8 @@ permalink: /applist/
 
 ​	(第三方)谷歌应用市场：[Google Play](https://app.mi.com/details?id=com.android.vending) / [APKPure](https://apkpure.com/cn/apkpure-app.html) / [Aptoide](https://github.com/Aptoide/aptoide-client-v8/releases)
 
+​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
+
 #### 2. 娱乐类
 
 ​	漫画阅读器：[Tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
