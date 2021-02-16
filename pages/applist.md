@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-13
+个人整理，长期更新。**最后编辑**：2021-02-16
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -157,6 +157,8 @@ permalink: /applist/
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
 ​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html)
+
+​	笔记应用：[Notion](https://www.notion.so/)
 
 #### 7. 美化系列
 
