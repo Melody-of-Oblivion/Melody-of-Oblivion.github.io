@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-16
+个人整理，长期更新。**最后编辑**：2021-02-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -101,6 +101,8 @@ permalink: /applist/
 ​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^2]
 
 ​	音效增强：[FxSound 2 Pro](https://wws.lanzous.com/iXquFjpe47e)
+
+​	音频工作站：[Cakewalk](https://www.bandlab.com/products/cakewalk)
 
 #### 4. 优化清理
 
