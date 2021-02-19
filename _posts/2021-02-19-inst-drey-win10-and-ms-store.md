@@ -1,5 +1,5 @@
 ---
-title: win10手动安装微软
+title: win10手动安装微软应用商店
 ---
 
 几种win10版本的简要介绍可以参考这篇[专栏](https://www.bilibili.com/read/cv6606369/)。
