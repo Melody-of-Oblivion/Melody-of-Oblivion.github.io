@@ -5,9 +5,11 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-19
+个人整理，长期更新。**最后编辑**：2021-02-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
+
+更多好用的软件可见：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 ![headpicture](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/other/applistpage-headpicture.jpg)
 
@@ -74,7 +76,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Tim](https://office.qq.com/download.html) / [Zenchat](https://zenkit.com/en/chat/platforms/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
+​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Zenchat](https://zenkit.com/en/chat/platforms/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [SPlayer](http://www.splayer.org/)
 
