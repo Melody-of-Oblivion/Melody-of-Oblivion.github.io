@@ -228,7 +228,7 @@ permalink: /applist/
 
 ​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases) / [X Browser](https://app.mi.com/details?id=com.mmbox.xbrowser.pro)
 
-​	解压缩：[ZArchiver](https://wws.lanzous.com/i9tVAizxmbe) (fcft)
+​	解压缩：[ZArchiver](https://545c.com/dir/17401394-29204439-110f26)
 
 ​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
