@@ -134,7 +134,7 @@ hr {
   border: 0;
   border-top: .5px solid #eee;
   border-bottom: .5px solid #3d3d3d;
-  margin: 1rem auto;
+  margin: 1rem auto;height: 1px;
 }
 
 strong {
@@ -424,6 +424,15 @@ tbody tr:nth-child(odd) th {
   h3 {
     font-size: 1.1rem;
   }
+
+  hr {
+    border: 0;
+    height: 1.5rem;
+    margin: 1rem auto;
+    background-image: url(../img/hr-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
 
 .post {
@@ -464,6 +473,15 @@ tbody tr:nth-child(odd) th {
 
   h3 {
     font-size: 1.1rem;
+  }
+
+  hr {
+    border: 0;
+    height: 1.5rem;
+    margin: 1rem auto;
+    background-image: url(../img/hr-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
   }
 }
 
