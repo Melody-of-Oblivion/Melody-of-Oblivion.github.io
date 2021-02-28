@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-26
+个人整理，长期更新。**最后编辑**：2021-02-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -179,10 +179,6 @@ permalink: /applist/
 ​	桌面分框：[Fences3](https://www.lanzous.com/b00z9m2ze)
 
 ​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
-
-​	图标替换：[FolderIconTool](https://github.com/fengyunkkx/FolderIconTool/releases)
-
-​	Bing壁纸：[Bing Wallpaper2](https://github.com/Dustray/BingWallpaper2/releases)
 
 #### 8. 下载器
 
