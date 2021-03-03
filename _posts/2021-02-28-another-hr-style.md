@@ -1,14 +1,15 @@
 ---
 title: 另一种hr分割线样式方法
+editdate: 2021-03-03
 ---
 
 ```scss
 // 代码仅供参考
 hr {
     border: 0;
-    height: 2px;
+    height: 2px; //分割线高度
     margin: 1rem auto;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); //渐变色
 }
 ```
 
@@ -26,9 +27,9 @@ hr {
 // 代码仅供参考
 hr {
     border: 0;
-    height: 1.5rem;
+    height: 1.5rem; //能够完全显示图片的高度
     margin: 1rem auto;
-    background-image: url();
+    background-image: url(); //图片路径
     background-position: center;
     background-repeat: no-repeat;
 }
