@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-28
+个人整理，长期更新。**最后编辑**：2021-03-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -42,9 +42,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [Affinity Photo](https://cloud.189.cn/t/uMJ7Ff6vMRVn)
-
-​	音频编辑：[Audacity](https://www.audacityteam.org/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
@@ -106,6 +104,8 @@ permalink: /applist/
 
 ​	音频工作站：[Cakewalk](https://www.bandlab.com/products/cakewalk)
 
+​	Steam工具箱：[Steam++](http://www.steamtool.net/)
+
 #### 4. 优化清理
 
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^3]
@@ -149,8 +149,6 @@ permalink: /applist/
 ​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
-
-​	文件恢复：[Recuva](https://www.ccleaner.com/recuva)
 
 ​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
@@ -226,15 +224,13 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	浏览器：[Kiwi Browser](https://github.com/kiwibrowser/src/releases) / [X Browser](https://app.mi.com/details?id=com.mmbox.xbrowser.pro)
-
 ​	解压缩：[ZArchiver](https://545c.com/dir/17401394-29204439-110f26)
 
 ​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
 ​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
 
-​	(第三方)谷歌应用市场：[Google Play](https://app.mi.com/details?id=com.android.vending) / [APKPure](https://apkpure.com/cn/apkpure-app.html) / [Aptoide](https://github.com/Aptoide/aptoide-client-v8/releases)
+​	第三方谷歌应用市场：[APKPure](https://apkpure.com/cn/apkpure-app.html) / [Aptoide](https://github.com/Aptoide/aptoide-client-v8/releases)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
@@ -352,7 +348,7 @@ permalink: /applist/
 
 ------
 
-[^1]:Quicker要注册账号。
+[^1]:要注册账号。
 [^2]:这个有分免费版和付费版。
 [^3]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
