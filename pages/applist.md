@@ -76,7 +76,7 @@ permalink: /applist/
 
 ​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Zenchat](https://zenkit.com/en/chat/platforms/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [QQ影音](https://player.qq.com/) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [SPlayer](http://www.splayer.org/)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases)
 
