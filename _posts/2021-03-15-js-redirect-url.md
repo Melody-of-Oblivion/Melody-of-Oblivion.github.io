@@ -16,7 +16,7 @@ JS获取URL可以参考之前的[文章](https://melody-of-oblivion.github.io/20
 
 ​    
 
-# ②window.location.href="url"
+# ②window.location.href = "url"
 
 **类似点击 a 标签的链接**。
 
