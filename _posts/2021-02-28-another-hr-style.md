@@ -1,6 +1,6 @@
 ---
 title: 另一种hr分割线样式方法
-editdate: 2021-03-24
+editdate: 2021-03-25
 ---
 
 ```scss
@@ -27,9 +27,9 @@ hr {
 // 代码仅供参考
 hr {
     border: 0;
-    height: 1.6rem; //能够完全显示图片的高度
+    height: xxx; //能够完全显示图片的高度
     margin: 1rem auto;
-    background-image: url(); //图片路径
+    background-image: url(xxx); //图片路径
     background-position: center;
     background-repeat: no-repeat;
 }
