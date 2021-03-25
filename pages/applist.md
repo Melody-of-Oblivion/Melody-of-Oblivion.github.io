@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-03-11
+个人整理，长期更新。**最后编辑**：2021-03-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -36,7 +36,7 @@ permalink: /applist/
 
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
 
-​	思维导图：[MindMaster](https://www.ghpym.com/mindmaster.html) / [XMind ZEN 2020](https://www.ghpym.com/xmindzen.html)
+​	思维导图： [XMind ZEN 2020](https://ghpym.lanzous.com/b00zd6odc#)
 
 ​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
@@ -74,7 +74,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Zenchat](https://zenkit.com/en/chat/platforms/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
+​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/)
 
@@ -110,7 +110,7 @@ permalink: /applist/
 
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^3]
 
-​	性能优化：[Process Lasso](http://ct.ghpym.com/dir/7369060-41220817-0c73e0)
+​	性能优化：[Process Lasso](https://545c.com/dir/17401394-28329602-9fe960)
 
 ​	SSD优化：[Abelssoft SSD Fresh Plus](https://wws.lanzous.com/iPvtEim0p9e)
 
@@ -254,8 +254,6 @@ permalink: /applist/
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
-​	B站的VTB数据：[vtbs.moe](https://vtbs.moe/)
-
 ​	舟游工具：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
 
 ​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
@@ -303,8 +301,6 @@ permalink: /applist/
 ​	图片来源搜索：[SauceNAO](http://saucenao.com/)
 
 ​	PDF工具：[Smallpdf](https://smallpdf.com/cn) / [LightPDF](https://lightpdf.com/zh/)
-
-​	图床：[sm.ms](https://sm.ms/)
 
 ​	开源替代品：[Open-source alternatives](https://opensource.builders/)
 
