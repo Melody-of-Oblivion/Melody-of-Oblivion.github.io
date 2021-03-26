@@ -59,10 +59,11 @@ RSS订阅在页面底部哦~
 
 欢迎推荐。
 
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=429460399&auto=0&height=66"></iframe>
 
 [amachiromaker](https://picrew.me/image_maker/168503)：
 
-![amachiro1](https://share-cdn.picrew.me/shareImg/org/202102/168503_6a9CBp9e.png)
+<img src="https://share-cdn.picrew.me/shareImg/org/202102/168503_6a9CBp9e.png" alt="amachiro1" style="zoom:50%;" />
 
-![amachiro2](https://share-cdn.picrew.me/shareImg/org/202102/168503_PNDlEmvx.png)
+<img src="https://share-cdn.picrew.me/shareImg/org/202102/168503_PNDlEmvx.png" alt="amachiro2" style="zoom:50%;" />
