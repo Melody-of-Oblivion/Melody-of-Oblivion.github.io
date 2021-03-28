@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-03-25
+个人整理，长期更新。**最后编辑**：2021-03-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -259,6 +259,8 @@ permalink: /applist/
 ​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
 
 ​	意识流笔记：[YANA](https://yananotes.com/)
+
+​	新番资讯：[UZURAINFO](http://uzurainfo.han-be.com/index.html) / [YuC's AnimeList](https://yuc.wiki/)
 
 ​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^4]
 
