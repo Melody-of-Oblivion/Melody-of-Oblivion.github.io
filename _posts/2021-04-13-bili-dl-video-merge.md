@@ -43,4 +43,4 @@ if(re.match('\d', Folder)):
         os.rename(r'output.mp4', video_name + '.mp4')
 ```
 
-已编译的ffmpeg可以在[这里](https://www.gyan.dev/ffmpeg/builds/)找到下载，放到和`.py`同一个路径下即可。
+已编译的ffmpeg可以在[这里](https://www.gyan.dev/ffmpeg/builds/)找到下载，放到和`.py`同一个路径下即可，打开.py后选择av号命名的文件夹即可。
