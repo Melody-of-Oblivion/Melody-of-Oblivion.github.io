@@ -302,7 +302,7 @@ permalink: /applist/
 
 ​	图片来源搜索：[SauceNAO](http://saucenao.com/)
 
-​	PDF工具：[Smallpdf](https://smallpdf.com/cn) / [LightPDF](https://lightpdf.com/zh/)
+​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedODF](https://speedpdf.com/zh-cn/)
 
 ​	开源替代品：[Open-source alternatives](https://opensource.builders/)
 
