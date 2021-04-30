@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-03-28
+个人整理，长期更新。**最后编辑**：2021-04-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -196,7 +196,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
-​	手游模拟器：[MuMu](http://mumu.163.com/20200515/25905_880856.html) / [雷电模拟器](https://cloud.189.cn/t/BzUJJnrEZRNb#ong4) (ong4) / [NoxPlayer](https://www.bignox.com/)
+​	手游模拟器：[MuMu](http://mumu.163.com/20200515/25905_880856.html) / [雷电模拟器](https://cloud.189.cn/t/BzUJJnrEZRNb#ong4) (ong4) / [NoxPlayer](https://www.bignox.com/) / [雷神模拟器](http://www.lsplayer.com/#/)
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
