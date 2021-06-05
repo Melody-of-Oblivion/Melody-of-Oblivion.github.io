@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-30
+个人整理，长期更新。**最后编辑**：2021-06-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -124,7 +124,7 @@ permalink: /applist/
 
 ​	翻译工具：[有道词典](http://cidian.youdao.com/)
 
-​	解压缩软件：[Bandizip](https://www.bandisoft.com/bandizip/) / [Winrar](https://ldqk.lanzoux.com/i4Zx6j5421g) / [7-Zip](https://www.7-zip.org/download.html)
+​	解压缩软件：[Bandizip](https://www.bandisoft.com/bandizip/) / [Winrar](https://ldqk.lanzoux.com/i4Zx6j5421g) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/)
 
 ​	屏幕色温自动调节：[f.lux](https://justgetflux.com/)
 
