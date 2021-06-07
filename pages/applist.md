@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-06-05
+个人整理，长期更新。**最后编辑**：2021-06-07
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -154,8 +154,6 @@ permalink: /applist/
 
 ​	Git：[Git](https://git-scm.com/) / [Github Desktop](https://desktop.github.com/)
 
-​	Topaz全家桶：[Topaz AI](https://cloud.189.cn/t/ENNrYzZVzMnu)
-
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
 ​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html)
@@ -174,7 +172,7 @@ permalink: /applist/
 
 ​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/exp/)
 
-​	桌面分框：[Fences3](https://www.lanzous.com/b00z9m2ze)
+​	桌面分框：[Fences3](https://www.lanzoui.com/b00z9m2ze)
 
 ​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
 
@@ -204,7 +202,7 @@ permalink: /applist/
 
 #### 10. 信息查看
 
-​	娱乐软件：[鲁大师](https://www.lanzous.com/b00zbih5c)
+​	娱乐软件：[鲁大师](https://www.lanzoui.com/b00zbih5c)
 
 ​	硬盘检测：[CrystalDiskInfo](http://crystalmark.info/ja/software/crystaldiskinfo/)
 
