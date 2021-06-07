@@ -36,8 +36,6 @@ permalink: /applist/
 
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
 
-​	思维导图： [XMind ZEN 2020](https://ghpym.lanzous.com/b00zd6odc#)
-
 ​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 #### 2. 编辑工具
@@ -178,9 +176,9 @@ permalink: /applist/
 
 #### 8. 下载器
 
-​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/)
+​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads)
 
-​	支持多协议的下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases)
+​	支持多协议的下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -194,7 +192,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
-​	手游模拟器：[MuMu](http://mumu.163.com/20200515/25905_880856.html) / [雷电模拟器](https://cloud.189.cn/t/BzUJJnrEZRNb#ong4) (ong4) / [NoxPlayer](https://www.bignox.com/) / [雷神模拟器](http://www.lsplayer.com/#/)
+​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [MuMu手游助手](https://mumu.163.com/update/) / [雷电模拟器](https://cloud.189.cn/t/BzUJJnrEZRNb#ong4) (ong4) / [NoxPlayer](https://www.bignox.com/) / [雷神模拟器](http://www.lsplayer.com/#/)
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
