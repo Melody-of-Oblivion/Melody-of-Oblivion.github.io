@@ -11,8 +11,6 @@ permalink: /applist/
 
 更多好用的软件可见：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
-![headpicture](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/other/applistpage-headpicture.jpg)
-
 ---
 
 <u>▌索引：</u>  
@@ -236,7 +234,7 @@ permalink: /applist/
 
 ​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_mobile/releases) / [musicolet](https://krosbits.in/musicolet/download/)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_mobile/releases)
 
 ​	第三方P站App：[PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 

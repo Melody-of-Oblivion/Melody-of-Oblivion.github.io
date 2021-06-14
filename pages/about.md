@@ -3,6 +3,8 @@ title: 关于
 permalink: /about/
 ---
 
+![headpicture](https://cdn.jsdelivr.net/gh/Melody-of-Oblivion/MoOpics@main/images/other/applistpage-headpicture.jpg)
+
 # ▌概要
 
 *<u>个人小破站，内容更新中。</u>* 
