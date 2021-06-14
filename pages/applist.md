@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-06-07
+个人整理，长期更新。**最后编辑**：2021-06-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -236,7 +236,7 @@ permalink: /applist/
 
 ​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
 
-​	听音乐：[Listen1](https://github.com/listen1/listen1_mobile/releases)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_mobile/releases) / [musicolet](https://krosbits.in/musicolet/download/)
 
 ​	第三方P站App：[PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
