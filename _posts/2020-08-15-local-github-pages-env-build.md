@@ -1,6 +1,6 @@
 ---
 title: 本地搭建Github Pages的Jekyll环境
-editdate: 2021-01-28
+editdate: 2021-06-24
 ---
 
 Github Pages [各依赖的版本](https://pages.github.com/versions/)（Dependency versions）。
@@ -10,6 +10,20 @@ Github Pages [各依赖的版本](https://pages.github.com/versions/)（Dependen
 ​    
 
 安装完后，打开 ruby 自带的cmd `Start Command Prompt with Ruby`，输入
+
+```
+gem sources -l
+```
+
+查看gem的源，输入
+
+```
+gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
+```
+
+删除 https://rubygems.org/ 的源并换为 https://gems.ruby-china.com/。
+
+输入
 
 ```powershell
 gem install github-pages
