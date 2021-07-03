@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-06-14
+个人整理，长期更新。**最后编辑**：2021-06-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -157,6 +157,8 @@ permalink: /applist/
 ​	笔记应用：[Notion](https://www.notion.so/)
 
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
+
+​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
 #### 7. 美化系列
 
