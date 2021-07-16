@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-07-05
+个人整理，长期更新。**最后编辑**：2021-07-16
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -56,7 +56,7 @@ permalink: /applist/
 
 ​	格式转换软件：[格式工厂](https://www.ghpym.com/formatfactory-2.html)
 
-​	字幕软件：[Aegisub](http://www.aegisub.org/) / [ArcTime](https://arctime.org/download.html)
+​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
 
@@ -79,6 +79,8 @@ permalink: /applist/
 ​	录屏软件：[OBS](https://obsproject.com/download)
 
 ​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows)
+
+​	多种格式阅读器：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases)
 
@@ -237,10 +239,6 @@ permalink: /applist/
 ​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
 
 ​	音乐播放器：[Listen1](https://github.com/listen1/listen1_mobile/releases)
-
-​	第三方P站App：[PixEz-Flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
-
-​	画画：[MediBang Paint](https://medibangpaint.com/zh_CN/app-download/)
 
 ---
 
