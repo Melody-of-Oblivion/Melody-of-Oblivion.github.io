@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-07-16
+个人整理，长期更新。**最后编辑**：2021-08-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -35,6 +35,8 @@ permalink: /applist/
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
 
 ​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
+
+​	截屏：[Snipaste](https://zh.snipaste.com/)
 
 #### 2. 编辑工具
 
