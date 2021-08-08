@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-08-04
+个人整理，长期更新。**最后编辑**：2021-08-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -165,6 +165,8 @@ permalink: /applist/
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
+
+​	SSH客户端：[MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) / [nxshell](https://github.com/nxshell/nxshell/releases)
 
 #### 7. 美化系列
 
