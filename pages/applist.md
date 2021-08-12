@@ -68,7 +68,7 @@ permalink: /applist/
 
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
 
-​	照片滤镜：[CameraBag Pro](https://wws.lanzous.com/iux8Jjzr3kj)
+​	照片滤镜：[CameraBag Pro](https://www.lanzoux.com/iux8Jjzr3kj)
 
 #### 3. 娱乐相关
 
@@ -100,7 +100,7 @@ permalink: /applist/
 
 ​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^2]
 
-​	音效增强：[FxSound 2 Pro](https://wws.lanzous.com/iXquFjpe47e)
+​	音效增强：[FxSound 2 Pro](https://wwe.lanzoui.com/i9T3Mrldusj)
 
 ​	音频工作站：[Cakewalk](https://www.bandlab.com/products/cakewalk)
 
@@ -112,7 +112,7 @@ permalink: /applist/
 
 ​	性能优化：[Process Lasso](https://545c.com/dir/17401394-28329602-9fe960)
 
-​	SSD优化：[Abelssoft SSD Fresh Plus](https://wws.lanzous.com/iPvtEim0p9e)
+​	SSD优化：[Abelssoft SSD Fresh Plus](https://www.lanzoux.com/iPvtEim0p9e)
 
 #### 5. 浏览器
 
