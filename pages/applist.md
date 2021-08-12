@@ -68,8 +68,6 @@ permalink: /applist/
 
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
 
-​	照片滤镜：[CameraBag Pro](https://www.lanzoux.com/iux8Jjzr3kj)
-
 #### 3. 娱乐相关
 
 ​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases)
@@ -174,7 +172,7 @@ permalink: /applist/
 
 ​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/exp/)
 
-​	桌面分框：[Fences3](https://www.lanzoui.com/b00z9m2ze)
+​	桌面分框：[Fences3](https://sn9.us/dir/17401394-37563291-fa6daa)
 
 ​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
 
