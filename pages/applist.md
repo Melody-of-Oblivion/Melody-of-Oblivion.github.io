@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-08-08
+个人整理，长期更新。**最后编辑**：2021-08-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -42,7 +42,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
@@ -51,8 +51,6 @@ permalink: /applist/
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans)
-
-​	办公软件：[LibreOffice](https://www.libreoffice.org/download/download/)
 
 ​	硬盘工具：[DiskGenius](http://www.diskgenius.cn/download.php)
 
@@ -124,11 +122,9 @@ permalink: /applist/
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
-​	翻译工具：[有道词典](http://cidian.youdao.com/)
+​	解压缩软件：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/)
 
-​	解压缩软件：[Bandizip](https://www.bandisoft.com/bandizip/) / [Winrar](https://ldqk.lanzoux.com/i4Zx6j5421g) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/)
-
-​	屏幕色温自动调节：[f.lux](https://justgetflux.com/)
+​	屏幕色温自动调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
@@ -166,7 +162,7 @@ permalink: /applist/
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
-​	SSH客户端：[MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) / [nxshell](https://github.com/nxshell/nxshell/releases)
+​	SSH终端：[MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) / [nxshell](https://github.com/nxshell/nxshell/releases)
 
 #### 7. 美化系列
 
@@ -212,7 +208,13 @@ permalink: /applist/
 
 ​	硬盘检测：[CrystalDiskInfo](http://crystalmark.info/ja/software/crystaldiskinfo/)
 
-​	软硬件检测：[AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b)
+​	系统信息查看：[AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b)
+
+​	CPU监控工具：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+
+​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
+
+​	网速监控显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
 
 ---
 
@@ -228,8 +230,6 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	解压缩：[ZArchiver](https://545c.com/dir/17401394-29204439-110f26)
-
 ​	记账：[expenses](https://github.com/nominalista/expenses/releases)
 
 ​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
@@ -239,8 +239,6 @@ permalink: /applist/
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
 #### 2. 娱乐类
-
-​	漫画阅读器：[Tachiyomi](https://github.com/inorichi/tachiyomi/releases) / [Cimoc](https://github.com/Haleydu/Cimoc/releases)
 
 ​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
 
@@ -253,8 +251,6 @@ permalink: /applist/
 #### 1. 服务
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
-
-​	舟游工具：[明日方舟工具箱](https://arkn.lolicon.app/#/hr) / [ArknightsData](https://kokodayo.fun/)
 
 ​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
 
@@ -302,9 +298,7 @@ permalink: /applist/
 
 ​	图片来源搜索：[SauceNAO](http://saucenao.com/)
 
-​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedODF](https://speedpdf.com/zh-cn/)
-
-​	开源替代品：[Open-source alternatives](https://opensource.builders/)
+​	PDF处理工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedODF](https://speedpdf.com/zh-cn/)
 
 ​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
 
