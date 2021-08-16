@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-08-12
+个人整理，长期更新。**最后编辑**：2021-08-16
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -333,6 +333,8 @@ permalink: /applist/
 ​	在线查看EXIF：[图虫EXIF查看器](https://exif.tuchong.com/)
 
 ​	TrackersList：[TrackersList.com](https://trackerslist.com/#/zh)
+
+​	OCR工具：[PearOCR](https://pearocr.com/)
 
 ​    
 
