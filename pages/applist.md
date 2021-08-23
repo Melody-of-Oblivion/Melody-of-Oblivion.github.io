@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-08-16
+个人整理，长期更新。**最后编辑**：2021-08-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -72,7 +72,7 @@ permalink: /applist/
 
 ​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases)
 
@@ -159,8 +159,6 @@ permalink: /applist/
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
-
-​	SSH终端：[MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) / [nxshell](https://github.com/nxshell/nxshell/releases)
 
 #### 7. 美化系列
 
