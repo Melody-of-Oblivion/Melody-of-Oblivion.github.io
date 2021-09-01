@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-08-23
+个人整理，长期更新。**最后编辑**：2021-09-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -112,11 +112,7 @@ permalink: /applist/
 
 ​	SSD优化：[Abelssoft SSD Fresh Plus](https://www.lanzoux.com/iPvtEim0p9e)
 
-#### 5. 浏览器
-
-​	[Chrome](https://www.google.cn/intl/zh-CN/chrome/) / [Firefox](https://www.mozilla.org/zh-CN/firefox/browsers/) / [Edge](https://www.microsoft.com/zh-cn/edge/)
-
-#### 6. 实用软件
+#### 5. 实用软件
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
@@ -160,7 +156,7 @@ permalink: /applist/
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
-#### 7. 美化系列
+#### 6. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
 
@@ -174,7 +170,7 @@ permalink: /applist/
 
 ​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
 
-#### 8. 下载器
+#### 7. 下载器
 
 ​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads)
 
@@ -188,7 +184,7 @@ permalink: /applist/
 
 ​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases)
 
-#### 9. 虚拟机
+#### 8. 虚拟机
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
@@ -198,7 +194,7 @@ permalink: /applist/
 
 ​	裸奔沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
 
-#### 10. 信息查看
+#### 9. 信息查看
 
 ​	娱乐软件：[鲁大师](https://www.lanzoui.com/b00zbih5c)
 
