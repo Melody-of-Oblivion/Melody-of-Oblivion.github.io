@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-09-01
+个人整理，长期更新。**最后编辑**：2021-09-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -24,8 +24,6 @@ permalink: /applist/
 
 #### 1. 效率工具
 
-​	快捷打开面板：[Quicker](https://www.getquicker.net/Download) [^1]
-
 ​	工具集：[uTools](https://www.u.tools/download.html)
 
 ​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures)
@@ -37,8 +35,6 @@ permalink: /applist/
 ​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 ​	截屏：[Snipaste](https://zh.snipaste.com/)
-
-​	OCR：[OCR助手](https://smartoldfish.gitee.io/)
 
 #### 2. 编辑工具
 
@@ -62,10 +58,6 @@ permalink: /applist/
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
 
-​	电子书格式转换：[Neat Converter](https://www.neat-reader.cn/downloads/converter)
-
-​	图片工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
-
 ​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
 
 #### 3. 娱乐相关
@@ -78,9 +70,7 @@ permalink: /applist/
 
 ​	录屏软件：[OBS](https://obsproject.com/download)
 
-​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows)
-
-​	多种格式阅读器：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases)
 
@@ -90,13 +80,11 @@ permalink: /applist/
 
 ​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
 
-​	磁力聚合搜索：[magnetW](https://github.com/xiandanin/magnetW/releases)
-
 ​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^2]
+​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^1]
 
 ​	音效增强：[FxSound 2 Pro](https://wwe.lanzoui.com/i9T3Mrldusj)
 
@@ -106,7 +94,7 @@ permalink: /applist/
 
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^3]
+​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^2]
 
 ​	性能优化：[Process Lasso](https://545c.com/dir/17401394-28329602-9fe960)
 
@@ -130,21 +118,15 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam下载CDN重定向：[Steam下载CDN重定向](https://www.dogfight360.com/blog/1531/)
-
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
 
-​	密码管理软件：[Keepass](https://keepass.info/)
-
-​	图片放大降噪：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases)
+​	密码管理软件：[Keepass](https://keepass.info/download.html)
 
 ​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
 ​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
-
-​	Git：[Git](https://git-scm.com/) / [Github Desktop](https://desktop.github.com/)
 
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
@@ -164,8 +146,6 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	SAO风格的菜单：[SAO Utils](http://sao.gpbeta.com/exp/)
-
 ​	桌面分框：[Fences3](https://sn9.us/dir/17401394-37563291-fa6daa)
 
 ​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
@@ -174,7 +154,7 @@ permalink: /applist/
 
 ​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads)
 
-​	支持多协议的下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/)
+​	支持多协议的下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -182,13 +162,13 @@ permalink: /applist/
 
 ​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
 
-​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases)
+​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk)
 
 #### 8. 虚拟机
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
-​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [MuMu手游助手](https://mumu.163.com/update/) / [雷电模拟器](https://cloud.189.cn/t/BzUJJnrEZRNb#ong4) (ong4) / [NoxPlayer](https://www.bignox.com/) / [雷神模拟器](http://www.lsplayer.com/#/)
+​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [NoxPlayer](https://www.bignox.com/)
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
@@ -230,11 +210,9 @@ permalink: /applist/
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
-#### 2. 娱乐类
+​	下载器：[FDM](https://www.freedownloadmanager.org/zh/download-fdm-for-android.htm)
 
 ​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
-
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_mobile/releases)
 
 ---
 
@@ -250,9 +228,11 @@ permalink: /applist/
 
 ​	新番资讯：[UZURAINFO](http://uzurainfo.han-be.com/index.html) / [YuC's AnimeList](https://yuc.wiki/)
 
-​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^4]
+​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^3]
 
 ​	个人看板：[Personal Kanban](https://personalkanban.js.org/)
+
+​	文字识别：[PearOCR](https://pearocr.com/)
 
 ​	云汉化平台：[ParaTranz](https://paratranz.cn/)
 
@@ -328,15 +308,12 @@ permalink: /applist/
 
 ​	TrackersList：[TrackersList.com](https://trackerslist.com/#/zh)
 
-​	OCR工具：[PearOCR](https://pearocr.com/)
-
 ​    
 
 ------
 
-[^1]:要注册账号。
-[^2]:这个有分免费版和付费版。
-[^3]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+[^1]:这个有分免费版和付费版。
+[^2]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
-[^4]: 需要微信扫码登录。
+[^3]: 需要微信扫码登录。
 
