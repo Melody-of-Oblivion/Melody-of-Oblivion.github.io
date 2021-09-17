@@ -146,7 +146,7 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	桌面分框：[Fences3](https://sn9.us/dir/17401394-37563291-fa6daa)
+​	桌面分框：[Fences3](https://sn9.us/dir/17401394-37563291-fa6daa) / [Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
 ​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
 
