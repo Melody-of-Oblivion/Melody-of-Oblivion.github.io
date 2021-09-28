@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-09-17
+个人整理，长期更新。**最后编辑**：2021-09-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -213,6 +213,12 @@ permalink: /applist/
 ​	下载器：[FDM](https://www.freedownloadmanager.org/zh/download-fdm-for-android.htm)
 
 ​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
+
+#### 2. 娱乐
+
+​	P站相关：[PXVR](https://pxvr.xyz)
+
+
 
 ---
 
