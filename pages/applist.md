@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-09-28
+个人整理，长期更新。**最后编辑**：2021-10-09
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -91,6 +91,8 @@ permalink: /applist/
 ​	音频工作站：[Cakewalk](https://www.bandlab.com/products/cakewalk)
 
 ​	Steam工具箱：[Steam++](http://www.steamtool.net/)
+
+​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
 
 #### 4. 优化清理
 
