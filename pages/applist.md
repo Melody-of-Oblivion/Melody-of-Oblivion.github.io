@@ -48,11 +48,7 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans)
 
-​	硬盘工具：[DiskGenius](http://www.diskgenius.cn/download.php)
-
 ​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
-
-​	格式转换软件：[格式工厂](https://www.ghpym.com/formatfactory-2.html)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
@@ -72,7 +68,7 @@ permalink: /applist/
 
 ​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
-​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases)
+​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases)
 
 ​	Gal钩子获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases)
 
@@ -84,11 +80,9 @@ permalink: /applist/
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)[^1]
+​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)
 
 ​	音效增强：[FxSound 2 Pro](https://wwe.lanzoui.com/i9T3Mrldusj)
-
-​	音频工作站：[Cakewalk](https://www.bandlab.com/products/cakewalk)
 
 ​	Steam工具箱：[Steam++](http://www.steamtool.net/)
 
@@ -96,9 +90,7 @@ permalink: /applist/
 
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^2]
-
-​	性能优化：[Process Lasso](https://545c.com/dir/17401394-28329602-9fe960)
+​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^1]
 
 ​	SSD优化：[Abelssoft SSD Fresh Plus](https://www.lanzoux.com/iPvtEim0p9e)
 
@@ -124,8 +116,6 @@ permalink: /applist/
 
 ​	密码管理软件：[Keepass](https://keepass.info/download.html)
 
-​	图片&GIF&视频放大降噪：[Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
-
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
 ​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
@@ -149,8 +139,6 @@ permalink: /applist/
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
 ​	桌面分框：[Fences3](https://sn9.us/dir/17401394-37563291-fa6daa) / [Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
-
-​	时钟屏保：[FlipIt](https://github.com/phaselden/FlipIt)
 
 #### 7. 下载器
 
@@ -204,8 +192,6 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	记账：[expenses](https://github.com/nominalista/expenses/releases)
-
 ​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
 
 ​	第三方谷歌应用市场：[APKPure](https://apkpure.com/cn/apkpure-app.html) / [Aptoide](https://github.com/Aptoide/aptoide-client-v8/releases)
@@ -218,7 +204,7 @@ permalink: /applist/
 
 #### 2. 娱乐
 
-​	P站相关：[PXVR](https://pxvr.xyz)
+​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
 
 
@@ -230,13 +216,13 @@ permalink: /applist/
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
-​	发给未来邮件：[EmailFuture](https://www.emailfuture.com/)
+​	漂流瓶：[EmailFuture](https://www.emailfuture.com/)
 
 ​	意识流笔记：[YANA](https://yananotes.com/)
 
 ​	新番资讯：[UZURAINFO](http://uzurainfo.han-be.com/index.html) / [YuC's AnimeList](https://yuc.wiki/)
 
-​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)[^3]
+​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)
 
 ​	个人看板：[Personal Kanban](https://personalkanban.js.org/)
 
@@ -276,9 +262,7 @@ permalink: /applist/
 
 ​	格式转换：[Convertio](https://convertio.co/zh/)
 
-​	图片来源搜索：[SauceNAO](http://saucenao.com/)
-
-​	PDF处理工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedODF](https://speedpdf.com/zh-cn/)
+​	PDF处理工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/)
 
 ​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
 
@@ -320,8 +304,5 @@ permalink: /applist/
 
 ------
 
-[^1]:这个有分免费版和付费版。
-[^2]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
-
-[^3]: 需要微信扫码登录。
+[^1]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
