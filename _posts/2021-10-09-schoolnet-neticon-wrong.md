@@ -1,5 +1,5 @@
 ---
-title: 校园网小地球解决方法
+title: 联网显示无Internet连接解决方法
 ---
 
 > 原帖出处：https://tieba.baidu.com/p/6254237746
