@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-10-09
+个人整理，长期更新。**最后编辑**：2021-10-15
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -91,8 +91,6 @@ permalink: /applist/
 #### 4. 优化清理
 
 ​	优化清理工具：[Dism++](https://www.chuyu.me/zh-Hans/index.html) / [CCleaner](https://www.ccleaner.com/) [^1]
-
-​	SSD优化：[Abelssoft SSD Fresh Plus](https://www.lanzoux.com/iPvtEim0p9e)
 
 #### 5. 实用软件
 
