@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-10-15
+个人整理，长期更新。**最后编辑**：2021-10-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -112,7 +112,7 @@ permalink: /applist/
 
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
 
-​	密码管理软件：[Keepass](https://keepass.info/download.html)
+​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download/) / [Swifty](https://getswifty.pro/)
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
@@ -127,6 +127,8 @@ permalink: /applist/
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
+
+​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases)
 
 #### 6. 美化系列
 
