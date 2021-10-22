@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-10-17
+个人整理，长期更新。**最后编辑**：2021-10-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -46,6 +46,8 @@ permalink: /applist/
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
+​	Office：[FreeOffice](https://www.freeoffice.com/) / [LibreOffice](https://zh-cn.libreoffice.org/)
+
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans)
 
 ​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
@@ -58,7 +60,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	IM聊天软件：[QQ](https://im.qq.com/download/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases)
+​	聊天软件：[Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [discord](https://discord.onl/download/)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/)
 
@@ -84,6 +86,8 @@ permalink: /applist/
 
 ​	音效增强：[FxSound 2 Pro](https://wwe.lanzoui.com/i9T3Mrldusj)
 
+​	反代Steam： [steamcommunity302](https://www.dogfight360.com/blog/686/)
+
 ​	Steam工具箱：[Steam++](http://www.steamtool.net/)
 
 ​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
@@ -106,8 +110,6 @@ permalink: /applist/
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
-​	反代Steam： [steamcommunity302](https://www.dogfight360.com/blog/686/)
-
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
@@ -121,8 +123,6 @@ permalink: /applist/
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
 ​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html)
-
-​	笔记应用：[Notion](https://www.notion.so/)
 
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
 
@@ -205,8 +205,6 @@ permalink: /applist/
 #### 2. 娱乐
 
 ​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
-
-
 
 ---
 
