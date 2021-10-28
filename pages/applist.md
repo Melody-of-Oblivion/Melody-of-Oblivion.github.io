@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-10-23
+个人整理，长期更新。**最后编辑**：2021-10-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -229,6 +229,8 @@ permalink: /applist/
 ​	云汉化平台：[ParaTranz](https://paratranz.cn/)
 
 ​	磁链转种子：[magnet2torrent](http://magnet2torrent.com/)
+
+​	编程字体选择：[CodingFont](https://www.codingfont.com/)
 
 #### 2. 资源
 
