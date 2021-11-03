@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-10-28
+个人整理，长期更新。**最后编辑**：2021-11-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -62,7 +62,7 @@ permalink: /applist/
 
 ​	聊天软件：[Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [discord](https://discord.onl/download/)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases)
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases)
 
@@ -78,7 +78,7 @@ permalink: /applist/
 
 ​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
 
-​	RSS订阅：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
+​	RSS阅读器：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
@@ -102,7 +102,7 @@ permalink: /applist/
 
 ​	解压缩软件：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/)
 
-​	屏幕色温自动调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
+​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
@@ -118,7 +118,7 @@ permalink: /applist/
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
-​	个人免费的远程协助工具：[ToDesk](https://www.todesk.com/download.html)
+​	远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
@@ -184,23 +184,17 @@ permalink: /applist/
 
 ####	1. 工具类
 
-​	背单词：[百词斩](http://www.baicizhan.com/download.html)
-
 ​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile)
 
 ​	扫描：[Office Lens](https://app.mi.com/details?id=com.microsoft.office.officelens)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	RSS订阅：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
-
-​	第三方谷歌应用市场：[APKPure](https://apkpure.com/cn/apkpure-app.html) / [Aptoide](https://github.com/Aptoide/aptoide-client-v8/releases)
+​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
-​	下载器：[FDM](https://www.freedownloadmanager.org/zh/download-fdm-for-android.htm)
-
-​	EPUB阅读器：[NeatReader](https://app.mi.com/details?id=com.gzhi.neatreader.r2.main)
+​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android)
 
 #### 2. 娱乐
 
@@ -222,7 +216,7 @@ permalink: /applist/
 
 ​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)
 
-​	个人看板：[Personal Kanban](https://personalkanban.js.org/)
+​	看板：[Personal Kanban](https://personalkanban.js.org/) / [Trello](https://trello.com/home)
 
 ​	文字识别：[PearOCR](https://pearocr.com/)
 
@@ -234,11 +228,11 @@ permalink: /applist/
 
 #### 2. 资源
 
-​	字体资源：[字由](http://www.hellofont.cn/)
+​	字体：[字由](http://www.hellofont.cn/)
 
 ​	16进制颜色：[Encycolorpedia](https://encycolorpedia.cn/)
 
-​	Windows系统镜像资源站：[MSDN,我告诉你](https://msdn.itellyou.cn/)
+​	Windows系统镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
@@ -256,7 +250,7 @@ permalink: /applist/
 
 #### 3. 工具
 
-​	工具箱：[MikuTools](https://tools.miku.ac/)
+​	工具箱：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff)
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
 
@@ -270,13 +264,11 @@ permalink: /applist/
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
-​	输入文字自动生成 PPT：[极墨PPT](http://jm.wps.cn/)
-
 ​	在线抠图：[removebg](https://www.remove.bg/zh) / [稿定抠图](https://www.gaoding.com/koutu) / [Alpix](https://aipix.net/)
 
 ​	简历制作：[超级简历](https://www.wondercv.com/)
 
-​	生成二维码：[草料二维码](https://cli.im/)
+​	生成/解码二维码：[草料二维码](https://cli.im/)
 
 ​	日语辞书：[Weblio](https://www.weblio.jp/)
 
@@ -290,13 +282,9 @@ permalink: /applist/
 
 ​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
 
-​	petpet generator：[petpet generator](https://benisland.neocities.org/petpet/)
-
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
 ​	短网址生成：[TinyURL](https://tinyurl.com/)
-
-​	在线查看EXIF：[图虫EXIF查看器](https://exif.tuchong.com/)
 
 ​	TrackersList：[TrackersList.com](https://trackerslist.com/#/zh)
 
