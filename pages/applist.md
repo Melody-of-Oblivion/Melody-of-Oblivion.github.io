@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-11-03
+个人整理，长期更新。**最后编辑**：2021-11-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -264,7 +264,7 @@ permalink: /applist/
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
-​	在线抠图：[removebg](https://www.remove.bg/zh) / [稿定抠图](https://www.gaoding.com/koutu) / [Alpix](https://aipix.net/)
+​	在线抠图：[removebg](https://www.remove.bg/zh) / [稿定抠图](https://www.gaoding.com/koutu) / [Alpix](https://aipix.net/) / [佐糖](https://picwish.cn/)
 
 ​	简历制作：[超级简历](https://www.wondercv.com/)
 
