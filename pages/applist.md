@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-11-11
+个人整理，长期更新。**最后编辑**：2021-11-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -39,6 +39,8 @@ permalink: /applist/
 #### 2. 编辑工具
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html)
+
+​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
@@ -195,6 +197,8 @@ permalink: /applist/
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
 ​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android)
+
+​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
 
 #### 2. 娱乐
 
