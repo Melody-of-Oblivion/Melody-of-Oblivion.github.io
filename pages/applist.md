@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-11-19
+个人整理，长期更新。**最后编辑**：2021-11-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -144,9 +144,7 @@ permalink: /applist/
 
 #### 7. 下载器
 
-​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads)
-
-​	支持多协议的下载器：[Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm)
+​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -192,17 +190,19 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
-
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
-​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android)
-
 ​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
+
+​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases)
 
 #### 2. 娱乐
 
 ​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
+
+​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android)
+
+​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
 
 ---
 
