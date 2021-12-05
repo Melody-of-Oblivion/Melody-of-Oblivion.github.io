@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-04
+个人整理，长期更新。**最后编辑**：2021-12-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -56,7 +56,7 @@ permalink: /applist/
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
 
-​	流程图绘制：[drawio](https://github.com/jgraph/drawio-desktop/releases)
+​	流程图绘制：[drawio-desktop](https://github.com/jgraph/drawio-desktop/releases)
 
 #### 3. 娱乐相关
 
@@ -68,7 +68,7 @@ permalink: /applist/
 
 ​	录屏软件：[OBS](https://obsproject.com/download)
 
-​	EPUB阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+​	阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases)
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases)
 
