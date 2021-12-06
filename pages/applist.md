@@ -38,11 +38,11 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [SAI](https://sai.piv.ink/)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext)
+​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext) / [思源笔记](https://b3log.org/siyuan/download.html)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
