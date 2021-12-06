@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-05
+个人整理，长期更新。**最后编辑**：2021-12-06
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -26,7 +26,9 @@ permalink: /applist/
 
 ​	工具集：[uTools](https://www.u.tools/download.html)
 
-​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures)
+​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/)
+
+​	触发角：[WinXcorners](https://github.com/vhanla/winxcorners/releases)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
@@ -40,9 +42,9 @@ permalink: /applist/
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [SAI](https://sai.piv.ink/)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext) / [思源笔记](https://b3log.org/siyuan/download.html)
+​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext) / [思源笔记](https://b3log.org/siyuan/download.html) / [Milkdown](https://milkdown.dev/)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
@@ -83,6 +85,8 @@ permalink: /applist/
 ​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
 ​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)
+
+​	f2clive录制：[fc2roku](https://www.skypower.xyz/fc2roku.html)
 
 ​	音效增强：[FxSound 2 Pro](https://wwe.lanzoui.com/i9T3Mrldusj)
 
@@ -142,7 +146,7 @@ permalink: /applist/
 
 #### 7. 下载器
 
-​	http下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)
+​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)
 
 ​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
 
@@ -160,7 +164,7 @@ permalink: /applist/
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
-​	裸奔沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
+​	沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
 
 #### 9. 信息查看
 
@@ -253,6 +257,8 @@ permalink: /applist/
 #### 3. 工具
 
 ​	工具箱：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff)
+
+​	局域网传输文件：[SnapDrop](https://snapdrop.net/)
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
 
