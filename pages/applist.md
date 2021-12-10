@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-07
+个人整理，长期更新。**最后编辑**：2021-12-10
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -68,7 +68,9 @@ permalink: /applist/
 
 ​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases)
 
-​	录屏软件：[OBS](https://obsproject.com/download)
+​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases)
+
+​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html)
 
 ​	阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases)
 
@@ -134,6 +136,8 @@ permalink: /applist/
 
 ​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases)
 
+​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
+
 #### 6. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
@@ -154,7 +158,7 @@ permalink: /applist/
 
 ​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
 
-​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk)
+​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk/releases)
 
 #### 8. 虚拟机
 
