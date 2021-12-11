@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-10
+个人整理，长期更新。**最后编辑**：2021-12-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -14,9 +14,12 @@ permalink: /applist/
 ---
 
 <u>▌索引：</u>  
-<a href="#1">电脑软件</a>  
-<a href="#2">手机应用</a>  
-<a href="#3">实用网页</a> 
+
+[电脑软件](#1)
+
+[手机应用](#2)
+
+[实用网页](#3)
 
 ---
 
@@ -36,7 +39,7 @@ permalink: /applist/
 
 ​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/)
 
 #### 2. 编辑工具
 
@@ -60,13 +63,15 @@ permalink: /applist/
 
 ​	流程图绘制：[drawio-desktop](https://github.com/jgraph/drawio-desktop/releases)
 
+​	图像工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
+
 #### 3. 娱乐相关
 
 ​	聊天软件：[Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [discord](https://discord.onl/download/)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases)
 
-​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases)
+​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases)
 
@@ -142,7 +147,7 @@ permalink: /applist/
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
 
-​	动态壁纸软件：[Wallpaper Engine](https://545c.com/dir/17401394-31825581-c2136b) / [lively](https://github.com/rocksdanister/lively/releases)
+​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
@@ -150,9 +155,7 @@ permalink: /applist/
 
 #### 7. 下载器
 
-​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)
-
-​	Thunder9精简版：[ThunderS](https://kkocdko.github.io/post/201907240022/)
+​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases) / [LIII](https://github.com/aliakseis/LIII/releases)
 
 ​	B站视频下载：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases)
 
@@ -190,7 +193,7 @@ permalink: /applist/
 
 ####	1. 工具类
 
-​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile) / [Wallpaper Engine](https://www.wallpaperengine.io/android/zh-hans)
+​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile) / [Wallpaper Engine](https://www.wallpaperengine.io/android/zh-hans) / [muzei](https://github.com/muzei/muzei/releases)
 
 ​	扫描：[Office Lens](https://app.mi.com/details?id=com.microsoft.office.officelens)
 
@@ -209,6 +212,10 @@ permalink: /applist/
 ​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android)
 
 ​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
+
+​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe/releases)
+
+​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [NClientV2](https://github.com/Dar9586/NClientV2/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases)
 
 ---
 
@@ -296,9 +303,9 @@ permalink: /applist/
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
-​	短网址生成：[TinyURL](https://tinyurl.com/)
+​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly)
 
-​	TrackersList：[TrackersList.com](https://trackerslist.com/#/zh)
+​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
 ​    
 
