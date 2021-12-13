@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-11
+个人整理，长期更新。**最后编辑**：2021-12-13
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -264,6 +264,8 @@ permalink: /applist/
 ​	选择开源许可：[choosealicense.com](https://choosealicense.com/)
 
 ​	声音素材库：[Mixkit](https://mixkit.co/)
+
+​	中华古籍资源库：[中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
 #### 3. 工具
 
