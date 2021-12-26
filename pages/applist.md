@@ -145,6 +145,8 @@ permalink: /applist/
 
 ​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
 
+​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie/releases)
+
 #### 6. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
