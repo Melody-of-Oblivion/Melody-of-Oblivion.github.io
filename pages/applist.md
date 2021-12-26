@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-19
+个人整理，长期更新。**最后编辑**：2021-12-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -204,6 +204,8 @@ permalink: /applist/
 ​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
 
 ​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases)
+
+​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/)
 
 #### 2. 娱乐
 
