@@ -205,7 +205,7 @@ permalink: /applist/
 
 ​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases)
 
-​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/)
+​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/)
 
 #### 2. 娱乐
 
