@@ -27,9 +27,9 @@ permalink: /applist/
 
 #### 1. 效率工具
 
-​	工具集：[uTools](https://www.u.tools/download.html)
+​	工具集：[uTools](https://u.tools/)
 
-​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/)
+​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads)
 
 ​	触发角：[WinXcorners](https://github.com/vhanla/winxcorners/releases)
 
@@ -53,7 +53,7 @@ permalink: /applist/
 
 ​	Office：[FreeOffice](https://www.freeoffice.com/) / [LibreOffice](https://zh-cn.libreoffice.org/)
 
-​	制谱软件：[musescore3](https://musescore.org/zh-hans)
+​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
 ​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
@@ -69,7 +69,7 @@ permalink: /applist/
 
 ​	图片浏览器：[pineapple-pictures](https://github.com/BLumia/pineapple-pictures/releases) / [qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/)
 
-​	聊天软件：[Telegram desktop](https://github.com/telegramdesktop/tdesktop/releases) / [discord](https://discord.onl/download/)
+​	聊天软件：[Telegram desktop](https://desktop.telegram.org/) / [discord](https://discord.onl/download/)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [KMPlayer](https://www.kmplayer.com/pc64x)
 
@@ -83,7 +83,7 @@ permalink: /applist/
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases)
 
-​	Gal钩子获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases)
+​	Gal钩子获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
 
 ​	Gal提取：[GARbro](https://github.com/morkt/GARbro/releases)
 
@@ -155,7 +155,7 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	桌面分框：[Fences3](https://sn9.us/dir/17401394-37563291-fa6daa) / [Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
+​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
 #### 7. 下载器
 
@@ -172,6 +172,8 @@ permalink: /applist/
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
 ​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [NoxPlayer](https://www.bignox.com/)
+
+​	Hyper-V检测：[CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/)
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
@@ -197,7 +199,7 @@ permalink: /applist/
 
 ####	1. 工具类
 
-​	动态壁纸：[星空壁纸引擎](https://android.myapp.com/myapp/detail.htm?apkName=yyc.xk&ADTAG=mobile) / [Wallpaper Engine](https://www.wallpaperengine.io/android/zh-hans) / [muzei](https://github.com/muzei/muzei/releases)
+​	动态壁纸：[星空壁纸引擎](https://a.app.qq.com/o/simple.jsp?pkgname=yyc.xk) / [muzei](https://github.com/muzei/muzei/releases)
 
 ​	扫描：[Office Lens](https://app.mi.com/details?id=com.microsoft.office.officelens)
 
@@ -222,6 +224,8 @@ permalink: /applist/
 ​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe/releases)
 
 ​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [NClientV2](https://github.com/Dar9586/NClientV2/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases)
+
+​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/#download)
 
 ---
 
@@ -255,15 +259,13 @@ permalink: /applist/
 
 ​	字体：[字由](http://www.hellofont.cn/)
 
-​	16进制颜色：[Encycolorpedia](https://encycolorpedia.cn/)
+​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
 ​	Windows系统镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
 ​	背景生成：[CoolBackgrounds](https://coolbackgrounds.io/)
-
-​	看图：[Pixivic](https://pixivic.com/)
 
 ​	天梯图：[PC显卡](https://www.mydrivers.com/zhuanti/tianti/gpu/index.html) / [PC处理器](https://www.mydrivers.com/zhuanti/tianti/cpu/index.html) / [手机处理器](https://www.mydrivers.com/zhuanti/tianti/01/index.html)
 
@@ -307,13 +309,11 @@ permalink: /applist/
 
 ​	图片格式转换：[webp2jpg](https://renzhezhilu.gitee.io/webp2jpg-online/)
 
-​	Google Play的Apk下载：[APK Downloader](https://apps.evozi.com/apk-downloader/)
-
 ​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
-​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly)
+​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [QSSB](https://qs.sb/)
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
