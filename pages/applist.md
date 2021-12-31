@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-12-30
+个人整理，长期更新。**最后编辑**：2021-12-31
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -113,7 +113,7 @@ permalink: /applist/
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
-​	解压缩软件：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [Asar7z](https://www.tc4shell.com/en/7zip/asar/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
@@ -207,7 +207,7 @@ permalink: /applist/
 
 ​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
 
-​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases)
+​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases) / [libretorrent](https://gitlab.com/proninyaroslav/libretorrent/-/releases) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi/releases)
 
 ​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/)
 
