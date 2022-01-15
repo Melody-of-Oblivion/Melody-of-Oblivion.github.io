@@ -97,7 +97,7 @@ permalink: /applist/
 
 ​	f2clive录制：[fc2roku](https://www.skypower.xyz/fc2roku.html)
 
-​	音效增强：[FxSound 2 Pro](https://wwe.lanzoui.com/i9T3Mrldusj)
+​	音效增强：[FxSound](https://www.fxsound.com/)
 
 ​	反代Steam： [steamcommunity302](https://www.dogfight360.com/blog/686/)
 
