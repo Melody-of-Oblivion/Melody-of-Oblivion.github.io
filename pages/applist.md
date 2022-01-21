@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-19
+个人整理，长期更新。**最后编辑**：2021-01-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -29,9 +29,7 @@ permalink: /applist/
 
 ​	工具集：[uTools](https://u.tools/)
 
-​	鼠标手势：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads)
-
-​	触发角：[WinXcorners](https://github.com/vhanla/winxcorners/releases)
+​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
@@ -43,7 +41,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [SAI](https://sai.piv.ink/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
 
@@ -69,13 +67,13 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	图片浏览器：[pineapple-pictures](https://github.com/BLumia/pineapple-pictures/releases) / [qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/)
+​	图片浏览器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/)
 
 ​	聊天软件：[Telegram desktop](https://desktop.telegram.org/) / [discord](https://discord.onl/download/)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [KMPlayer](https://www.kmplayer.com/pc64x)
 
-​	音乐播放器：[网易云音乐](https://music.163.com/#/download) / [Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases)
 
@@ -85,7 +83,7 @@ permalink: /applist/
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases)
 
-​	Gal钩子获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
+​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
 
 ​	Gal提取：[GARbro](https://github.com/morkt/GARbro/releases)
 
@@ -103,13 +101,17 @@ permalink: /applist/
 
 ​	反代Steam： [steamcommunity302](https://www.dogfight360.com/blog/686/)
 
+​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
+
 ​	Steam工具箱：[Steam++](http://www.steamtool.net/)
 
 ​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
 
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/) [^1]
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)
+
+>CCleaner断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
 
 #### 5. 实用软件
 
@@ -125,11 +127,9 @@ permalink: /applist/
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
-​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
-
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
 
-​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download/) / [Swifty](https://getswifty.pro/)
+​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download/) / [Swifty](https://getswifty.pro/) / [KeepassXC](https://github.com/keepassxreboot/keepassxc/releases)
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
@@ -148,6 +148,8 @@ permalink: /applist/
 ​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie/releases)
+
+​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases)
 
 #### 6. 美化系列
 
@@ -225,7 +227,7 @@ permalink: /applist/
 
 ​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe/releases)
 
-​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [NClientV2](https://github.com/Dar9586/NClientV2/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases)
+​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases)
 
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/#download)
 
@@ -283,7 +285,7 @@ permalink: /applist/
 
 ​	工具箱：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff)
 
-​	局域网传输文件：[SnapDrop](https://snapdrop.net/)
+​	局域网传输文件：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/)
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
 
@@ -321,7 +323,7 @@ permalink: /applist/
 
 ​    
 
-------
+----
 
-[^1]:断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
+
 
