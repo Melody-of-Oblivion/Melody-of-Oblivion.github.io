@@ -2,7 +2,7 @@
 title: 安装Cheat Engine
 ---
 
-Cheat Engine的网站：https://www.cheatengine.org/
+Cheat Engine的网站：[https://www.cheatengine.org/](https://www.cheatengine.org/)
 
 在 [Downloads](https://www.cheatengine.org/downloads.php) 页面能够下载最新的.exe安装包和下方的翻译文件的压缩包。
 
