@@ -45,7 +45,7 @@ permalink: /applist/
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/#windows) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext) / [思源笔记](https://b3log.org/siyuan/download.html) / [Milkdown](https://milkdown.dev/)
+​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext) / [思源笔记](https://b3log.org/siyuan/download.html) / [Milkdown](https://milkdown.dev/)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
 
@@ -242,8 +242,6 @@ permalink: /applist/
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
 ​	漂流瓶：[EmailFuture](https://www.emailfuture.com/)
-
-​	意识流笔记：[YANA](https://yananotes.com/)
 
 ​	新番资讯：[UZURAINFO](http://uzurainfo.han-be.com/index.html) / [YuC's AnimeList](https://yuc.wiki/)
 
