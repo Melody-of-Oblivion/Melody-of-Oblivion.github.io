@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-29
+个人整理，长期更新。**最后编辑**：2021-01-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -103,7 +103,7 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam工具箱：[Steam++](http://www.steamtool.net/)
+​	Steam工具箱：[Steam++](https://steampp.net/)
 
 ​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
 
@@ -120,6 +120,8 @@ permalink: /applist/
 ​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [Asar7z](https://www.tc4shell.com/en/7zip/asar/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
+
+​	提示休息：[Stretchly](https://github.com/hovancik/stretchly/releases)
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
