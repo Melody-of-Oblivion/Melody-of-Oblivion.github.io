@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-01-30
+个人整理，长期更新。**最后编辑**：2021-02-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -210,6 +210,8 @@ permalink: /applist/
 ​	扫描：[Office Lens](https://app.mi.com/details?id=com.microsoft.office.officelens)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
+
+​	记账：[expenses](https://github.com/nominalista/expenses/releases) / [鲨鱼记账](http://www.shayujizhang.com/)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
