@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-02
+个人整理，长期更新。**最后编辑**：2021-02-04
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -199,7 +199,7 @@ permalink: /applist/
 
 ​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
 
-​	网速监控显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
+​	任务栏显示信息：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) / [Perfmonbar](https://github.com/XhmikosR/perfmonbar/releases)
 
 ---
 
