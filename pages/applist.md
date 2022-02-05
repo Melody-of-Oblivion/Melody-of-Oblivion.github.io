@@ -201,7 +201,7 @@ permalink: /applist/
 
 ​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
 
-​	任务栏显示信息：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) / [Perfmonbar](https://github.com/XhmikosR/perfmonbar/releases)
+​	任务栏显示信息：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
 
 ---
 
