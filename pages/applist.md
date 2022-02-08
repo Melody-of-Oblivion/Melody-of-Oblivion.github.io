@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-05
+个人整理，长期更新。**最后编辑**：2021-02-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -38,6 +38,8 @@ permalink: /applist/
 ​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 ​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/)
+
+​	文件复制：[FastCopy](https://fastcopy.jp/)
 
 #### 2. 编辑工具
 
