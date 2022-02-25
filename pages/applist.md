@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-13
+个人整理，长期更新。**最后编辑**：2021-02-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -168,6 +168,8 @@ permalink: /applist/
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
 ​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
+
+​	Steam客户端背景：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
 #### 7. 下载器
 
