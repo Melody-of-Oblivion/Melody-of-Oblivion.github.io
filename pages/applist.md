@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-02-28
+个人整理，长期更新。**最后编辑**：2021-03-10
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -77,7 +77,7 @@ permalink: /applist/
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [KMPlayer](https://www.kmplayer.com/pc64x)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases)
 
