@@ -2,13 +2,21 @@
 title: 使用XUnity.AutoTranslator翻译驱动妖精AIdeal Rays先行测试版
 ---
 
+
+
+
+
+# 准备
+
 先下载需要的文件：
 
 - [BepInEx_be](https://builds.bepinex.dev/projects/bepinex_be)：下载 **BepInEx_UnityIL2CPP_x64_{xxxx}.zip**
 
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases)：下载 **XUnity.AutoTranslator-IL2CPP-BepInEx-{版本}.zip** 和 **TMP_Font_AssetBundles.zip**
 
-​    
+
+
+# 开始
 
 解压 **BepInEx_be.zip** 的内容到游戏根目录（AldealRays.exe所在的位置）
 
@@ -47,7 +55,9 @@ FallbackFontTextMeshPro=arialuni_sdf_u2019 ;替换字体文件
 
 再启动游戏应该就可以开始翻译了。
 
-----
+
+
+# 其他
 
 XUnity.AutoTranslator几个快捷键：
 
