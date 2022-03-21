@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-03-20
+个人整理，长期更新。**最后编辑**：2021-03-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -285,7 +285,7 @@ permalink: /applist/
 
 ​	天梯图：[PC显卡](https://www.mydrivers.com/zhuanti/tianti/gpu/index.html) / [PC处理器](https://www.mydrivers.com/zhuanti/tianti/cpu/index.html) / [手机处理器](https://www.mydrivers.com/zhuanti/tianti/01/index.html)
 
-​	代码图片生成：[Codeimg](https://codeimg.io/)
+​	代码图片生成：[Codeimg](https://codeimg.io/) / [Ray.so](https://ray.so/)
 
 ​	选择开源许可：[choosealicense.com](https://choosealicense.com/)
 
