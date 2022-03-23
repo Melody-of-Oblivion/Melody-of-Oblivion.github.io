@@ -69,6 +69,8 @@ permalink: /applist/
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
+​	文本编辑器：[Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
+
 #### 3. 娱乐相关
 
 ​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/)
