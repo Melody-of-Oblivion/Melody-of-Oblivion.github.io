@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-03-29
+个人整理，长期更新。**最后编辑**：2021-03-31
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -220,8 +220,6 @@ permalink: /applist/
 ####	1. 工具类
 
 ​	动态壁纸：[星空壁纸引擎](https://a.app.qq.com/o/simple.jsp?pkgname=yyc.xk) / [muzei](https://github.com/muzei/muzei/releases)
-
-​	扫描：[Office Lens](https://app.mi.com/details?id=com.microsoft.office.officelens)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
