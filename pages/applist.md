@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-03-31
+个人整理，长期更新。**最后编辑**：2021-04-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -43,7 +43,7 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
 
