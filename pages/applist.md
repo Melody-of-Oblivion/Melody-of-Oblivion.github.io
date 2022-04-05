@@ -181,7 +181,7 @@ permalink: /applist/
 
 ​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases) / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader)
 
-​	视频下载：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases) / [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+​	视频下载：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi/releases) / [B23Downloader](https://github.com/vooidzero/B23Downloader/releases)
 
 ​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
 
