@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-07
+个人整理，长期更新。**最后编辑**：2021-04-09
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -47,7 +47,7 @@ permalink: /applist/
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
 
 ​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [Obsidian](https://obsidian.md/) / [MarkText](https://github.com/marktext/marktext) / [思源笔记](https://b3log.org/siyuan/download.html) / [Milkdown](https://milkdown.dev/)
 
@@ -91,7 +91,7 @@ permalink: /applist/
 
 ​	阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases)
 
-​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases)
+​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases) / [ErogeHelper](https://github.com/ErogeHelper/ErogeHelper/releases)
 
 ​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
 
