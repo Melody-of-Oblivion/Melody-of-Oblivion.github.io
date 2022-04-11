@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-09
+个人整理，长期更新。**最后编辑**：2021-04-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -278,6 +278,8 @@ permalink: /applist/
 ​	编程字体选择：[CodingFont](https://www.codingfont.com/)
 
 ​	个人碎片知识库：[Cubox](https://cubox.pro/)
+
+​	在线LaTeX公式编辑器：[LaTeX公式编辑器](https://www.latexlive.com/)
 
 #### 2. 资源
 
