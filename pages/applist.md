@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-13
+个人整理，长期更新。**最后编辑**：2021-04-15
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -235,7 +235,7 @@ permalink: /applist/
 
 ​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/)
 
-​	扫描：[Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
+​	扫描：[Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) / [全能扫描官](https://www.huposcanner.com/)
 
 ​	毒盘秒传转存：[狐悠](https://madonnalily.lanzoux.com/b093rxw4j)
 
