@@ -349,6 +349,8 @@ permalink: /applist/
 
 ​	Epub阅读：[Polar](https://getpolarized.io/) / [Neat Reader](https://www.neat-reader.cn/webapp)
 
+​	魔法橡皮擦：[Magiceraser](https://www.magiceraser.io/)
+
 ​    
 
 ----
