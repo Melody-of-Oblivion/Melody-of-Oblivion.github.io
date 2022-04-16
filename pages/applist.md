@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-15
+个人整理，长期更新。**最后编辑**：2021-04-16
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -305,6 +305,8 @@ permalink: /applist/
 
 ​	中华古籍资源库：[中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
+​	Sci-Hub：[ru](https://sci-hub.ru/) / [se](https://sci-hub.se/) / [st](https://sci-hub.st/) / [ren](https://sci-hub.ren/)
+
 #### 3. 工具
 
 ​	工具箱：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff)
@@ -350,6 +352,10 @@ permalink: /applist/
 ​	Epub阅读：[Polar](https://getpolarized.io/) / [Neat Reader](https://www.neat-reader.cn/webapp)
 
 ​	魔法橡皮擦：[Magiceraser](https://www.magiceraser.io/)
+
+​	文本转语音：[Azure](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview=) / [智影](https://zenvideo.qq.com/)
+
+​	软件替代：[AlternativeTo](https://alternativeto.net/)
 
 ​    
 
