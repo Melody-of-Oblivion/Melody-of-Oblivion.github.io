@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-16
+个人整理，长期更新。**最后编辑**：2021-04-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -178,6 +178,8 @@ permalink: /applist/
 ​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
 ​	Steam客户端背景：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
+
+​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
 
 #### 7. 下载器
 
