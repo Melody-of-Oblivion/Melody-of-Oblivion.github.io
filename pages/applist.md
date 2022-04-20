@@ -291,7 +291,7 @@ permalink: /applist/
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
-​	Windows系统镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/)
+​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/) / [HelloWindows](https://hellowindows.cn/)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
