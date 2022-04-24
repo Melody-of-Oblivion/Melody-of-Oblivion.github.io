@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-20
+个人整理，长期更新。**最后编辑**：2021-04-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -245,7 +245,7 @@ permalink: /applist/
 
 ​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
-​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android) / [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily)
+​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android) / [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) / [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)
 
 ​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
 
