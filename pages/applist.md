@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-04-24
+个人整理，长期更新。**最后编辑**：2021-05-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -195,7 +195,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
-​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [NoxPlayer](https://www.bignox.com/) / [雷神模拟器](http://www.lsplayer.com/#/)
+​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [NoxPlayer](https://www.bignox.com/)
 
 ​	Hyper-V检测：[CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/)
 
