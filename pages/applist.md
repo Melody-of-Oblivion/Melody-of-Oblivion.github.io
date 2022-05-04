@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-05-02
+个人整理，长期更新。**最后编辑**：2021-05-04
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -180,6 +180,8 @@ permalink: /applist/
 ​	Steam客户端背景：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
 ​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
+
+​	美化素材：[致美化](https://zhutix.com/)
 
 #### 7. 下载器
 
