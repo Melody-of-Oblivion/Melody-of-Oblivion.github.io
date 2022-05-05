@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-05-04
+个人整理，长期更新。**最后编辑**：2021-05-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -258,6 +258,8 @@ permalink: /applist/
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/#download)
 
 ​	微博客户端：[微博国际版](https://www.coolapk.com/apk/com.weico.international) / [See](https://github.com/funcenter/See/releases)
+
+​	贴吧：[TiebaLite](https://github.com/HuanCheng65/TiebaLite/releases)
 
 ---
 
