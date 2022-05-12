@@ -10,6 +10,8 @@ title: windows播放器设置
 
 [madVR](http://www.madvr.com/)
 
+[mpcVR](https://github.com/Aleksoid1978/VideoRenderer)
+
 配置教程见：[贴吧置顶帖](https://tieba.baidu.com/p/7171344019)
 
 ​    
@@ -29,3 +31,9 @@ VCB mpv配置入门：[webarchive](https://web.archive.org/web/20210401044201/ht
 GUI版：[mpv.net_CM](https://github.com/hooke007/mpv.net_CM) / [mpv easy player](https://www.rjno1.com/mpv-easy-player/)
 
 懒人包：[MPV_lazy](https://github.com/hooke007/MPV_lazy)
+
+
+
+# MPC-BE
+
+[MPC-BE入门](https://cedar-mouse-855.notion.site/MPC-BE-48be590b0c9a443f80336ea1c6673bed)
