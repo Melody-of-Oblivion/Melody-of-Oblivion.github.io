@@ -1,5 +1,6 @@
 ---
 title: windows播放器设置
+edit-date: 2022-05-12
 ---
 
 # PotPlayer + LAV Filter + madVR
