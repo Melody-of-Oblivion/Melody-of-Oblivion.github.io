@@ -32,7 +32,7 @@ GUI版：[mpv.net_CM](https://github.com/hooke007/mpv.net_CM) / [mpv easy player
 
 懒人包：[MPV_lazy](https://github.com/hooke007/MPV_lazy)
 
-
+​    
 
 # MPC-BE
 
