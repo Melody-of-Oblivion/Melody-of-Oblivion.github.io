@@ -1,6 +1,6 @@
 ---
 title: windows播放器设置
-editdate: 2022-05-12
+editdate: 2022-05-17
 ---
 
 # PotPlayer + LAV Filter + madVR
@@ -14,6 +14,8 @@ editdate: 2022-05-12
 [mpcVR](https://github.com/Aleksoid1978/VideoRenderer)
 
 配置教程见：[贴吧置顶帖](https://tieba.baidu.com/p/7171344019)
+
+mpcVR配置参考：[帖子](https://tieba.baidu.com/p/7614576721)
 
 ​    
 
