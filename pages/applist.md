@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-05-18
+个人整理，长期更新。**最后编辑**：2021-05-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -168,6 +168,8 @@ permalink: /applist/
 ​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP/releases) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
+
+​	服务器SSH终端：[Electerm](https://github.com/electerm/electerm/releases) / [NxShell](https://github.com/nxshell/nxshell/releases) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
 #### 6. 美化系列
 
