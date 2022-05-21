@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-05-20
+个人整理，长期更新。**最后编辑**：2021-05-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -151,7 +151,7 @@ permalink: /applist/
 
 ​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
 
-​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html)
+​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev/)
 
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
 
