@@ -119,6 +119,8 @@ permalink: /applist/
 
 ​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
 
+​	Epic第三方CLI客户端：[Legendary](https://github.com/derrod/legendary/releases)
+
 #### 4. 优化清理
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)
@@ -139,7 +141,7 @@ permalink: /applist/
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
-​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
@@ -151,7 +153,7 @@ permalink: /applist/
 
 ​	远程协助工具：[ToDesk](https://www.todesk.com/download.html)
 
-​	电脑操控安卓手机：[AnLink](https://www.anl.ink/)
+​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/)
 
 ​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev/)
 
@@ -183,11 +185,9 @@ permalink: /applist/
 
 ​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
-​	Steam客户端背景：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
+​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
 ​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
-
-​	美化素材：[致美化](https://zhutix.com/)
 
 #### 7. 下载器
 
@@ -235,7 +235,7 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	记账：[expenses](https://github.com/nominalista/expenses/releases) / [鲨鱼记账](http://www.shayujizhang.com/)
+​	记账：[expenses](https://github.com/nominalista/expenses/releases) / [鲨鱼记账](http://www.shayujizhang.com/) / [Timi记账](https://www.coolapk.com/apk/13621)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
@@ -274,8 +274,6 @@ permalink: /applist/
 #### 1. 服务
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
-
-​	漂流瓶：[EmailFuture](https://www.emailfuture.com/)
 
 ​	新番资讯：[UZURAINFO](http://uzurainfo.han-be.com/index.html) / [YuC's AnimeList](https://yuc.wiki/)
 
@@ -318,6 +316,8 @@ permalink: /applist/
 ​	中华古籍资源库：[中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
 ​	Sci-Hub：[ru](https://sci-hub.ru/) / [se](https://sci-hub.se/) / [st](https://sci-hub.st/) / [ren](https://sci-hub.ren/)
+
+​	美化素材：[致美化](https://zhutix.com/)
 
 #### 3. 工具
 
