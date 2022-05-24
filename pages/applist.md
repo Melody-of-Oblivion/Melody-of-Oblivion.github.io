@@ -79,13 +79,13 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/)
+​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://imageglass.org/releases) / [VJPED](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview/releases)
 
 ​	聊天软件：[Discord](https://discord.onl/download/)
 
 ​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [KMPlayer](https://www.kmplayer.com/pc64x)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [KMPlayer](https://www.kmplayer.com/pc64x) / [MPC-BE](https://sourceforge.net/projects/mpcbe/)
 
 ​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases)
 
@@ -105,7 +105,7 @@ permalink: /applist/
 
 ​	RSS阅读器：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
-​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases) / [Gif123](https://gif123.aardio.com/)
 
 ​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)
 
@@ -177,6 +177,8 @@ permalink: /applist/
 
 ​	服务器SSH终端：[Electerm](https://github.com/electerm/electerm/releases) / [NxShell](https://github.com/nxshell/nxshell/releases) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
+​	文件服务器：[miniserve](https://github.com/svenstaro/miniserve/releases) / [hfs](https://github.com/rejetto/hfs/releases) / [chfs](http://iscute.cn/chfs)
+
 #### 6. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
@@ -225,7 +227,7 @@ permalink: /applist/
 
 ​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
 
-​	任务栏显示信息：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
+​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) / [XMeters](https://entropy6.com/xmeters/download/)
 
 ---
 
