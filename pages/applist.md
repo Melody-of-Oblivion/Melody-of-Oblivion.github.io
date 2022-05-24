@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-05-23
+个人整理，长期更新。**最后编辑**：2021-05-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -46,6 +46,8 @@ permalink: /applist/
 #### 2. 编辑工具
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
+
+​	像素画：[Aseprite](https://github.com/aseprite/aseprite/releases)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Atom](https://atom.io/)
 
@@ -296,6 +298,8 @@ permalink: /applist/
 #### 2. 资源
 
 ​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/)
+
+​	免费英文字体：[FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/)
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
