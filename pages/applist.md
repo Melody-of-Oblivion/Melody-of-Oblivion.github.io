@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2021-05-24
+个人整理，长期更新。**最后编辑**：2021-05-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -76,6 +76,8 @@ permalink: /applist/
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
 ​	文本编辑器：[Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
+
+​	思维导图：[知犀](https://www.zhixi.com/download)
 
 #### 3. 娱乐相关
 
