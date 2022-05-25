@@ -123,7 +123,7 @@ permalink: /applist/
 
 ​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
 
-​	Epic第三方CLI客户端：[Legendary](https://github.com/derrod/legendary/releases)
+​	游戏平台第三方客户端：[Legendary](https://github.com/derrod/legendary/releases) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads)
 
 #### 4. 优化清理
 
