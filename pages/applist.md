@@ -129,8 +129,6 @@ permalink: /applist/
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)
 
->CCleaner断网后输入注册码C2YW-XZT7-A4SE-UD89-YZPC即可注册，覆盖安装新版本可保留激活。
-
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
 #### 5. 实用软件
