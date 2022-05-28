@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-05-25
+个人整理，长期更新。**最后编辑**：2022-05-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -323,7 +323,7 @@ permalink: /applist/
 
 ​	Sci-Hub：[ru](https://sci-hub.ru/) / [se](https://sci-hub.se/) / [st](https://sci-hub.st/) / [ren](https://sci-hub.ren/)
 
-​	美化素材：[致美化](https://zhutix.com/)
+​	美化素材：[致美化](https://zhutix.com/) / [枫の主题社](https://winmoes.com/) / [DP社区](https://www.dp712.com/)
 
 #### 3. 工具
 
