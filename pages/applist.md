@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-05-28
+个人整理，长期更新。**最后编辑**：2022-05-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -235,7 +235,7 @@ permalink: /applist/
 
 ####	1. 工具类
 
-​	动态壁纸：[星空壁纸引擎](https://a.app.qq.com/o/simple.jsp?pkgname=yyc.xk) / [muzei](https://github.com/muzei/muzei/releases)
+​	动态壁纸：[星空壁纸引擎](https://a.app.qq.com/o/simple.jsp?pkgname=yyc.xk)
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
@@ -245,7 +245,7 @@ permalink: /applist/
 
 ​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
 
-​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases) / [libretorrent](https://gitlab.com/proninyaroslav/libretorrent/-/releases) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi/releases)
+​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi/releases)
 
 ​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/)
 
@@ -299,9 +299,7 @@ permalink: /applist/
 
 #### 2. 资源
 
-​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/)
-
-​	免费英文字体：[FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/)
+​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/)
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
@@ -339,13 +337,11 @@ permalink: /applist/
 
 ​	一站式产品设计工具：[MasterGo](https://mastergo.com/)
 
-​	B站视频封面图提取：[封面提取](http://b.qiuyeye.cn/index.html)
-
 ​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
-​	在线抠图：[Alpix](https://aipix.net/) / [佐糖](https://picwish.cn/)
+​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/)
 
 ​	简历制作：[超级简历](https://www.wondercv.com/)
 
@@ -357,7 +353,7 @@ permalink: /applist/
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
 
-​	图片格式转换：[webp2jpg](https://renzhezhilu.gitee.io/webp2jpg-online/)
+​	图片格式转换：[webp2jpg](https://renzhezhilu.gitee.io/webp2jpg-online/) / [imagesTool](https://imagestool.com/)
 
 ​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
 
