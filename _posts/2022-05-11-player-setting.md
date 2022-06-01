@@ -1,6 +1,6 @@
 ---
 title: windows播放器设置
-editdate: 2022-05-17
+editdate: 2022-06-01
 ---
 
 # PotPlayer + LAV Filter + madVR
@@ -27,11 +27,9 @@ mpcVR配置参考：[帖子](https://tieba.baidu.com/p/7614576721)
 
 生成mpv配置：[Glow](https://glowmpv.github.io/)
 
-VCB mpv配置入门：[webarchive](https://web.archive.org/web/20210401044201/https://vcb-s.com/archives/7594)
-
 [文档不靠谱汉化](https://hooke007.github.io/)
 
-GUI版：[mpv.net_CM](https://github.com/hooke007/mpv.net_CM) / [mpv easy player](https://www.rjno1.com/mpv-easy-player/)
+GUI版：[mpv.net_CM](https://github.com/hooke007/mpv.net_CM) / [mpv easy player](https://github.com/422658476/MPV-EASY-Player)
 
 懒人包：[MPV_lazy](https://github.com/hooke007/MPV_lazy)
 
