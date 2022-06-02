@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-05-30
+个人整理，长期更新。**最后编辑**：2022-06-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -81,7 +81,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://imageglass.org/releases) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview/releases) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html)
+​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://imageglass.org/releases) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview/releases) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/)
 
 ​	聊天软件：[Discord](https://discord.onl/download/)
 
@@ -171,7 +171,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie/releases)
 
-​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases)
+​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases) / [netSend](https://github.com/williamnie/netSend/releases)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP/releases) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
