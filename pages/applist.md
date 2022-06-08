@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-06-06
+个人整理，长期更新。**最后编辑**：2022-06-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -135,6 +135,8 @@ permalink: /applist/
 
 #### 5. 实用软件
 
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/)
+
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
 ​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [Asar7z](https://www.tc4shell.com/en/7zip/asar/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h)
@@ -180,6 +182,8 @@ permalink: /applist/
 ​	服务器SSH终端：[Electerm](https://github.com/electerm/electerm/releases) / [NxShell](https://github.com/nxshell/nxshell/releases) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
 ​	文件服务器：[miniserve](https://github.com/svenstaro/miniserve/releases) / [hfs](https://github.com/rejetto/hfs/releases) / [chfs](http://iscute.cn/chfs)
+
+​	复制粘贴中转：[DropPoint](https://github.com/GameGodS3/DropPoint/releases)
 
 #### 6. 美化系列
 
