@@ -51,14 +51,6 @@ RSS订阅在页面底部哦~
 
 ~~（这样写应该没问题吧）~~
 
-------
-
-# ▌其他
-
-个人的网抑云歌单：[日文歌单](https://music.163.com/#/playlist?id=2094404414&userid=440561064) / [纯音乐歌单](https://music.163.com/#/playlist?id=2094396381&userid=440561064)
-
-欢迎推荐。
-
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=429460399&auto=0&height=66"></iframe>
 
