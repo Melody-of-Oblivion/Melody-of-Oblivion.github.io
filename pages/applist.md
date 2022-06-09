@@ -27,15 +27,13 @@ permalink: /applist/
 
 #### 1. 效率工具
 
-​	工具集：[uTools](https://u.tools/)
+​	工具集：[uTools](https://u.tools/) / [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 ​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [MouseInc](https://shuax.com/)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
-
-​	微软效率工具：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 ​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/)
 
