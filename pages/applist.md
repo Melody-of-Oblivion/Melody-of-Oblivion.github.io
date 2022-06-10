@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-06-09
+个人整理，长期更新。**最后编辑**：2022-06-10
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -300,6 +300,8 @@ permalink: /applist/
 ​	个人碎片知识库：[Cubox](https://cubox.pro/)
 
 ​	在线LaTeX公式编辑器：[LaTeX公式编辑器](https://www.latexlive.com/)
+
+​	浏览器跑分：[BASEMARK](https://web.basemark.com/)
 
 #### 2. 资源
 
