@@ -125,6 +125,8 @@ permalink: /applist/
 
 ​	游戏平台第三方客户端：[Legendary](https://github.com/derrod/legendary/releases) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads)
 
+​	LegendaryGUI客户端：[Rare](https://github.com/Dummerle/Rare) / [HEIRLOOM](https://github.com/AutumnRivers/heirloom)
+
 #### 4. 优化清理
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)
