@@ -1,11 +1,11 @@
 ---
 title: windows播放器设置
-editdate: 2022-06-01
+editdate: 2022-06-10
 ---
 
 # PotPlayer + LAV Filter + madVR
 
-[PotPlayer](https://potplayer.daum.net/?lang=zh_CN)
+[PotPlayer](https://potplayer.daum.net/?lang=zh_CN) / [PotPlayer测试版](https://www.videohelp.com/software/PotPlayer)
 
 [LAV Filter](https://www.videohelp.com/software/LAV-Filters)
 
