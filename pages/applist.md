@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-06-16
+个人整理，长期更新。**最后编辑**：2022-06-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -198,6 +198,8 @@ permalink: /applist/
 ​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
 ​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
+
+​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
 
 #### 7. 下载器
 
