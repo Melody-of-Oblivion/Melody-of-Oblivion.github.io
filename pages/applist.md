@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-06-26
+个人整理，长期更新。**最后编辑**：2022-06-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -203,7 +203,7 @@ permalink: /applist/
 
 #### 7. 下载器
 
-​	下载器：[IDM](https://545c.com/dir/17401394-32947851-02c5dc) / [NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [FDM](https://www.freedownloadmanager.org/zh/download.htm) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases) / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/)
+​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases) / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/)
 
 ​	媒体下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi/releases) / [B23Downloader](https://github.com/vooidzero/B23Downloader/releases) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload/releases)
 
