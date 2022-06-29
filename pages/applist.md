@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-06-27
+个人整理，长期更新。**最后编辑**：2022-06-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -139,7 +139,7 @@ permalink: /applist/
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
-​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [Asar7z](https://www.tc4shell.com/en/7zip/asar/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [Asar7z](https://www.tc4shell.com/en/7zip/asar/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
