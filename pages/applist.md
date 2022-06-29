@@ -185,6 +185,8 @@ permalink: /applist/
 
 ​	复制粘贴中转：[DropPoint](https://github.com/GameGodS3/DropPoint/releases)
 
+​	字体管理：[nexusfont](https://www.xiles.app/)
+
 #### 6. 美化系列
 
 ​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
