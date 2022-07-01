@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-06-29
+个人整理，长期更新。**最后编辑**：2022-07-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -337,7 +337,7 @@ permalink: /applist/
 
 #### 3. 工具
 
-​	工具箱：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/)
+​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/)
 
 ​	局域网传输文件：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/)
 
@@ -371,7 +371,7 @@ permalink: /applist/
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
-​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [QSSB](https://qs.sb/)
+​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [QSSB](https://qs.sb/) / [达龙短网址](https://s.011.run/)
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
