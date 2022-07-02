@@ -129,7 +129,7 @@ permalink: /applist/
 
 #### 4. 优化清理
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1]
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
@@ -205,7 +205,7 @@ permalink: /applist/
 
 #### 7. 下载器
 
-​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases) / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/)
+​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)[^2] / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/)
 
 ​	媒体下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi/releases) / [B23Downloader](https://github.com/vooidzero/B23Downloader/releases) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload/releases)
 
@@ -389,5 +389,5 @@ permalink: /applist/
 
 ----
 
-
-
+[^1]: 网上可以搜学习方法。
+[^2]: 下载WithJava的安装后可以删除自带的jre文件夹，自己下载安装新的OracleJDK。
