@@ -39,8 +39,6 @@ permalink: /applist/
 
 ​	文件复制：[FastCopy](https://fastcopy.jp/)
 
-​	快捷键提示：[XiaoChao](https://github.com/BetterWorld-Liuser/XiaoChao/releases)
-
 #### 2. 编辑工具
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
