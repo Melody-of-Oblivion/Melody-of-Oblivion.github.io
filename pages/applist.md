@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-07-01
+个人整理，长期更新。**最后编辑**：2022-07-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -135,7 +135,7 @@ permalink: /applist/
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases)
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
