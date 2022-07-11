@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-07-10
+个人整理，长期更新。**最后编辑**：2022-07-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -353,7 +353,7 @@ permalink: /applist/
 
 ​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/)
 
-​	简历制作：[超级简历](https://www.wondercv.com/)
+​	简历：[超级简历](https://www.wondercv.com/) / [简历下载](https://jianlixiazai.cn/)
 
 ​	生成/解码二维码：[草料二维码](https://cli.im/)
 
