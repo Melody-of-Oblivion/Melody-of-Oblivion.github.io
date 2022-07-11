@@ -163,6 +163,8 @@ permalink: /applist/
 
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
 
+​	MS工具箱：[云图工具箱](https://wintool.cc/)
+
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
 ​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro/releases)
