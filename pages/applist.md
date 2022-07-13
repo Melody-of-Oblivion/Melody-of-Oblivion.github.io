@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-07-11
+个人整理，长期更新。**最后编辑**：2022-07-13
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -155,7 +155,7 @@ permalink: /applist/
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
-​	远程协助工具：[ToDesk](https://www.todesk.com/download.html)
+​	远程协助工具：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en)
 
 ​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/)
 
