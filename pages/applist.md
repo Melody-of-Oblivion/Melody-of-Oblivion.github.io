@@ -59,6 +59,8 @@ permalink: /applist/
 
 ​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
 
+​	WinPE工具：[微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965)
+
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
