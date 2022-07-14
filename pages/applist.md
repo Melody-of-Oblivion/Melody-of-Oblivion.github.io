@@ -57,9 +57,7 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
-​	启动盘工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases)
-
-​	WinPE工具：[微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [Edgeless](https://home.edgeless.top/#download) / [HotPE](https://www.hotpe.top/) / [优启通](https://www.upe.net/)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
