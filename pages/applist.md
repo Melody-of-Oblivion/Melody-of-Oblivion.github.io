@@ -35,7 +35,7 @@ permalink: /applist/
 
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch/releases)
 
 ​	文件复制：[FastCopy](https://fastcopy.jp/)
 
