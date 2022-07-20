@@ -1,6 +1,6 @@
 ---
 title: 小甲鱼零基础Py学习记录
-editdate: 2022-07-19
+editdate: 2022-07-20
 ---
 
 
@@ -349,7 +349,7 @@ not > and > or
 
 算术运算 > 比较运算 > 逻辑运算
 
-# P15
+# P15~P19
 
 ## 分支语句
 
@@ -360,5 +360,193 @@ elif condition:
     pass
 else:
     pass
+```
+
+```python
+# 条件表达式
+条件成立执行 if condition else 条件不成立执行
+
+a = 3
+b = 5
+small = a if a < b else b # 3
+```
+
+```python
+score = 66
+level = ('D' if 0 <= score < 60 else
+		'C' if 60 <= score < 80 else
+        'B' if 80 <= score < 90 else
+        'A' if 90 <= socre < 100 else
+        'S' if score == 100 else
+        '范围0~100') # 小括号表示多行为一句代码
+print(level) # C
+```
+
+分支嵌套
+
+## 循环语句
+
+py有 **while** 和 **for** 两种循环语句
+
+```python
+while condition:
+    statement()
+```
+
+### 跳出循环
+
+#### break
+
+**break** 语句退出循环，退出时不会执行break后面的语句
+
+#### continue
+
+跳过本轮循环，条件满足开始下一轮循环
+
+```python
+i = 0
+while i < 10:
+    i += 1
+    if i % 2 == 0:
+        continue
+    print(i) # 1 3 5 7 9
+```
+
+> break 和 continue 均只作用于一层循环体
+
+​    
+
+**else**
+
+循环条件不为真时执行（循环结束时执行）
+
+```python
+day = 1
+while day <= 7:
+    answer = input('今天有好好学习吗？')
+    if answer != '有':
+        break
+    day += 1
+else:
+    print('Bravo!')
+```
+
+​    
+
+循环嵌套
+
+```python
+# 九九乘法表参考
+a = 1
+while a <= 9:
+    b = 1
+    while b <= a:
+        if b == a:
+            print(str(b) + '×' + str(a) + '=' + str(b * a))
+        else:
+            print(str(b) + '×' + str(a) + '=' + str(b * a), end = '  ')
+        b += 1
+    a += 1
+```
+
+​    
+
+```python
+for 变量 in 可迭代对象:
+	statement()
+```
+
+```python
+sum = 0
+for each in range(1, 1000000 + 1): # 左闭右开
+    sum += each
+print(sum)
+```
+
+```python
+# range用法
+## range(stop)
+for i in range(10):
+    print(i) # 0 1 2 3 4 5 6 7 8 9
+## range(start, stop)
+for i in range(5, 10):
+    print(i) # 5 6 7 8 9
+## range(start, stop, step)
+for i in range(1, 10, 2):
+    print(i) # 1 3 5 7 9
+for i in range(10, 5, -2):
+    print(i) # 10 8 6
+```
+
+搭配break continue语句，找出10以内的素数
+
+```python
+for n in range(2, 10):
+    for m in range(2, n): # n == 2时循环会直接结束
+        if n % m == 0:
+            break
+    else:
+        print(n, '是一个素数')
+```
+
+# P20~P26
+
+[] 创建列表，可以包含不同类型的元素
+
+**序列** 在py中是最常见的数据结构，字符串、列表都是序列
+
+通过**下标索引**访问元素：列表[下标]
+
+访问最后一个元素：列表[**-1**] （逆序访问-1, -2...）
+
+**列表切割**
+
+列表[:3]
+
+列表[3:]
+
+列表[start:stop:step] 对整个列表 start 和 stop 可省略，列表[::step]
+
+倒序输出可以：列表[::-1]
+
+​    
+
+**增删改查**
+
+列表.append() 追加一个对象
+
+列表.extend() 追加一个可迭代对象(必须)
+
+```python
+# 切片添加
+s = [1, 2, 3, 4, 5]
+s[len(s):] = [6]
+# s.extend([6])
+print(s) # [1, 2, 3, 4, 5, 6]
+```
+
+列表插入元素
+
+```python
+s = [1, 3, 4, 5]
+s.insert(1, 2)
+# 插入开头 s.insert(0, x)
+# 插入末尾 s.insert(len(s), x)
+print(s) # [1, 2, 3, 4, 5]
+```
+
+列表删除元素
+
+```python
+# 删除已知元素 - remove方法
+s = [1, 2, 3, 14, 4]
+s.remove(14)
+print(s) # [1, 2, 3, 4]
+# 删除未知元素 - pop方法
+s = [1, 2, 3, 14, 4]
+s.pop(3)
+print(s) # [1, 2, 3, 4]
+# 清空
+s.clear()
 ```
 
