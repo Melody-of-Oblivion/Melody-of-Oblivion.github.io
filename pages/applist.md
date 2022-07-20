@@ -69,6 +69,8 @@ permalink: /applist/
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine/releases) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor/releases)
 
+​	图像放大：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) / [AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer/releases) / [ArSrNaESRGAN](https://www.arsrna.cn/app/esrgan/)
+
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
 ​	文本编辑器：[Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases)
