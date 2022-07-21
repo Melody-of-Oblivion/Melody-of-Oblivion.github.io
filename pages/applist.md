@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-07-20
+个人整理，长期更新。**最后编辑**：2022-07-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -191,7 +191,7 @@ permalink: /applist/
 
 #### 6. 美化系列
 
-​	任务栏透明化：[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)
+​	任务栏透明化：[TranslucentTB ](https://github.com/TranslucentTB/TranslucentTB/releases) / [TrayS](https://github.com/cgbsmy/TrayS/releases)
 
 ​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
 
@@ -239,7 +239,7 @@ permalink: /applist/
 
 ​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
 
-​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) / [XMeters](https://entropy6.com/xmeters/download/)
+​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) / [XMeters](https://entropy6.com/xmeters/download/) / [TrayS](https://github.com/cgbsmy/TrayS/releases)
 
 ---
 
