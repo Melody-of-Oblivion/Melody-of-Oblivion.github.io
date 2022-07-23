@@ -1,6 +1,6 @@
 ---
 title: 小甲鱼零基础Py学习记录
-editdate: 2022-07-21
+editdate: 2022-07-23
 ---
 
 
@@ -578,4 +578,358 @@ s = [3, 1, 9, 6, 8, 3, 5, 3]
 s.sort() # [1, 3, 3, 3, 5, 6, 8, 9]
 s.reverse() # [9, 8, 6, 5, 3, 3, 3, 1]
 ```
+
+```python
+s = [3, 1, 9, 6, 8, 3, 5, 3]
+s.sort(reverse = True) # [9, 8, 6, 5, 3, 3, 3, 1]
+```
+
+查找元素数量
+
+```python
+s.count(3) # 3
+```
+
+查找元素下标索引
+
+```python
+s = [3, 1, 9, 6, 8, 3, 5, 3]
+s.index(3) # 0，第一个的下标
+s.index(3, 1, 7) # 5，(元素, 开始, 结束)
+```
+
+列表复制
+
+```python
+s_cp1 = s.copy()
+s_cp2 = s[:] # [3, 1, 9, 6, 8, 3, 5, 3]
+# 这两种方法都是浅拷贝(shallow copy)
+```
+
+​    
+
+列表的加乘
+
+```python
+s = [1, 2, 3]
+t = [4, 5, 6]
+s + t # [1, 2, 3, 4, 5, 6]
+s * 3 # [1, 2, 3, 1, 2, 3, 1, 2, 3]
+```
+
+**嵌套列表** (nested list)
+
+```python
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+# 等价
+matrix = [[1, 2, 3],
+          [4, 5, 6],
+          [7, 8, 9]]
+```
+
+```python
+# 访问嵌套列表
+for i in matrix:
+    for each in i:
+        print(each)
+for i in matrix:
+    for each in i:
+        print(each, end = ' ')
+    print()
+```
+
+```python
+# 下标索引访问
+matrix[0] # [1, 2, 3]
+matrix[0][0] # 1
+```
+
+循环创建嵌套列表
+
+```python
+A = [0] * 3
+for i in range(3):
+    A[i] = [0] * 3
+```
+
+```python
+# 错误写法
+B = [[0] * 3] * 3
+# B[1][1] = 1 -> B == [[0, 1, 0], [0, 1, 0], [0, 1, 0]]
+```
+
+​    
+
+**is运算符**
+
+```python
+x = 'String'
+y = 'String'
+x is y # True
+x = [1, 2, 3]
+y = [1, 2, 3]
+x is y # False
+```
+
+与py的存储机制有关
+
+```python
+A[0] is A[1] # False
+B[0] is B[1] # True
+```
+
+B列表写法只是对单个列表引用，而非物理上拷贝
+
+​    
+
+```python
+x = [1, 2, 3]
+y = x # 一个变量的赋值传递给另一个变量，称为引用
+x[1] = 1
+y # [1, 1, 3]
+```
+
+需要两个独立的列表就要用拷贝来实现
+
+```python
+x = [1, 2, 3]
+y = x.copy() # or y = x[:]
+x[1] = 1
+y # [1, 2, 3]
+```
+
+```python
+x = [[1, 2, 3], [4, 5, 6]]
+y = x.copy()
+x[1][1] = 0
+y # [[1, 2, 3], [4, 0, 6]]
+```
+
+浅拷贝只拷贝表层的列表引用，一样引用的内层的列表
+
+**深拷贝**
+
+```python
+import copy
+x = [[1, 2, 3], [4, 5, 6]]
+y = copy.copy(x) # 浅拷贝
+y = copy.deepcopy(x) # 深拷贝
+x[1][1] = 0
+y # [[1, 2, 3], [4, 5, 6]]
+```
+
+深拷贝将引用的子对象一并进行了拷贝
+
+​    
+
+**列表推导式** (list comprehension expression)
+
+例：将列表元素x2
+
+```python
+oho = [1, 2, 3, 4, 5]
+for i in range(len(oho)):
+    oho[i] = oho[i] * 2
+print(oho) # [2, 4, 6, 8, 10]
+```
+
+列表推导式
+
+```python
+oho = [1, 2, 3, 4, 5]
+oho = [i * 2 for i in oho] # [2, 4, 6, 8, 10]
+```
+
+C语言的列表推导式比Py虚拟机的for循环快
+
+**[expression for target in iterable]**
+
+```python
+x = [i for i in range(10)] # 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+```
+
+```python
+x = [c * 2 for c in 'String'] # ['SS', 'tt', 'rr', 'ii', 'nn', 'gg']
+```
+
+```python
+# 将字符转换为unicode
+x = [ord(c) for c in 'String'] # [83, 116, 114, 105, 110, 103]
+```
+
+```python
+matrix = [[1, 2, 3],
+          [4, 5, 6],
+          [7, 8, 9]]
+col2 = [row[1] for row in matrix] # [2, 5, 8]
+diag = [matrix[i][i] for i in range(len(matrix))] # [1, 5, 9]
+diag2 = [matrix[i][len(matrix) - 1 - i] for i in range(len(matrix))] # [3, 5, 7]
+```
+
+循环通过迭代来逐个修改列表元素，列表推导式是直接创建新列表，再赋值给变量名。
+
+创建嵌套列表
+
+```py
+s = [[0] * 3 for i in range(3)] # [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+```
+
+**[expression for target in iterable if condition]**
+
+```python
+even = [i for i in range(10) if i % 2 == 0] # [0, 2, 4, 6, 8]
+[i for i in range(10) if i % 2 == 0] # [1, 3, 5, 7, 9]
+# 顺序：for => if => expression
+```
+
+```python
+# 筛选单词
+words = ['Pretty', 'Fantastic', 'Excellent', 'Great', 'Fish', 'Brillant']
+fword = [word for word in words if word[0] == 'F'] # ['Fantastic', 'Fish']
+# fword = [word for word in words if word.startswith('F')]
+```
+
+**[expression for target1 in iterable1**
+
+​					**for target2 in iterable2**
+
+​														**...]**
+
+```python
+# 展开嵌套列表
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+flatten = [col for row in matrix for col in row] # [1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+
+外层循环放前，嵌套循环放后
+
+```python
+# 笛卡尔乘积
+_ = [x + y for x in 'abcd' for y in 'ABCD']
+```
+
+_ = [] # 临时或无关紧要的变量
+
+```python
+[[x, y] for x in range(10) if x % 2 == 0 for y in range(10) if y % 3 == 0]
+```
+
+列表推导式版九九乘法表
+
+```python
+[(str(y) + '×' + str(x) + '=' + str(x * y)) for x in range(1, 10) for y in range(1, x + 1)]
+```
+
+程序设计原则：KISS (Keep it Simple & Stupid)
+
+# P27
+
+除了字符串和列表，元组也是一个序列
+
+元组像列表可以容纳多种类型对象，也有字符串不可变的特性
+
+列表 - []
+
+元组 = ()
+
+```python
+rhyme = (1, 2, 3, 4, 5, '上山打老虎')
+rhyme = 1, 2, 3, 4, 5, '上山打老虎'
+```
+
+元组也可以通过下标索引获取元素，也支持切片操作
+
+count() index()可用
+
+\+ \* 拼接、重复可用
+
+元组嵌套
+
+```python
+s = 1, 2, 3
+t = 4, 5, 6
+w = s, t # ((1, 2, 3), (4, 5, 6))
+```
+
+```python
+# 循环迭代
+for i in w:
+    for each in i:
+        print(each)
+```
+
+```python
+# 列表推导式
+[each * 2 for i in w for each in i]
+# 没有元组推导式
+```
+
+生成单元素元组
+
+```python
+x = (520,)
+```
+
+**元组的打包和解包**
+
+元组的生成也叫打包
+
+```python
+t = (123, 'Fish', 3.14)
+x, y, z = t
+print(x, y, z) # 123 Fish 3.14，解包
+# 解包也适用于其他序列
+t = [123, 'Fish', 3.14]
+x, y, z = t # 123 Fish 3.14
+
+x, y, z = '一二三' # 一 二 三
+
+a, b, *c = '1234567' # 1 2 ['3', '4', '5', '6', '7']
+```
+
+py多重赋值
+
+```python
+x, y = 10, 20
+# 实现：元组打包解包
+_ = (10, 20)
+x, y = _
+```
+
+元组内的元素不可变，但是元素指向了可变的列表就可变
+
+```python
+s = [1, 2, 3]
+t = [4, 5, 6]
+w = (s, t) # ([1, 2, 3], [4, 5, 6])
+w[1][2] = 0 #  ([1, 2, 3], [4, 5, 0])
+```
+
+# P28~P33
+
+```python
+# 判断回文数
+x = '12321'
+'是回文数' if x == x[::-1] else '不是回文数' # 是回文数
+```
+
+大小写切换：
+
+- capitalize()，首字母变大写
+- casefold()，全小写
+- title()，每个单词首字母大写
+- swapcase()，所有字母大小写反转
+- upper()，全大写
+- lower()，全小写（仅英文）
+
+由于字符串不可变，都是按规则生成一个新字符串
+
+左中右对齐：
+
+- center(width, fillchar = '')，居中
+- ljust(width, fillchar = '')，左对齐
+- rjust(width, fillchar = '')，右对齐
+- rfill(width)，左补零
+
+width小于源字符串长度则输出源字符串，fillchar默认空格填充
 

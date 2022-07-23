@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-07-21
+个人整理，长期更新。**最后编辑**：2022-07-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -126,6 +126,8 @@ permalink: /applist/
 ​	游戏平台第三方客户端：[Legendary](https://github.com/derrod/legendary/releases) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads)
 
 ​	LegendaryGUI客户端：[Rare](https://github.com/Dummerle/Rare) / [HEIRLOOM](https://github.com/AutumnRivers/heirloom)
+
+​	Flash：[CleanFlashPlayer](https://github.com/darktohka/clean-flash-builds/releases)
 
 #### 4. 优化清理
 
