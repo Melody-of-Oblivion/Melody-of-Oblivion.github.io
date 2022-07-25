@@ -1,6 +1,6 @@
 ---
 title: 小甲鱼零基础Py学习记录
-editdate: 2022-07-23
+editdate: 2022-07-25
 ---
 
 
@@ -913,7 +913,7 @@ x = '12321'
 '是回文数' if x == x[::-1] else '不是回文数' # 是回文数
 ```
 
-大小写切换：
+**大小写切换**：
 
 - capitalize()，首字母变大写
 - casefold()，全小写
@@ -924,7 +924,7 @@ x = '12321'
 
 由于字符串不可变，都是按规则生成一个新字符串
 
-左中右对齐：
+**左中右对齐**：
 
 - center(width, fillchar = '')，居中
 - ljust(width, fillchar = '')，左对齐
@@ -932,4 +932,184 @@ x = '12321'
 - rfill(width)，左补零
 
 width小于源字符串长度则输出源字符串，fillchar默认空格填充
+
+**查找**：
+
+- count(sub[, start[, end]])，查找sub子字符串在字符串中出现的次数
+
+  ```python
+  x = '上海自来水来自海上'
+  x.count('海') # 2
+  x.count('海', 0, 5) # 1
+  ```
+
+- find(sub[, start[, end]])，查找sub子字符串在字符串中的索引下标值，左往右
+
+- rfind(sub[, start[, end]])，右往左
+
+  ```python
+  x.find('海') # 1
+  x.rfind('海') # 7
+  ```
+
+- index(sub[, start[, end]])，与find类似
+
+- rindex(sub[, start[, end]])
+
+  ```python
+  x.find('龟') # -1
+  x.index('龟') # 抛出异常
+  ```
+
+**替换**：
+
+- expandtabs([tabsize=])，将代码中的Tab改为空格
+
+  ```python
+  code = '''
+  	print('1')
+    print('2')'''
+  newcode = code.expandtabs(4)
+  ```
+
+- replace(old, new, count = -1)，默认count=-1替换全部
+
+- translate(table)，
+
+  ```python
+  table = str.maketrans('ABCDEFG', '1234567') # 建立一个转换规则表格将A~G替换为1~7
+  'GFEDCBA'.translate(table) # 7654321
+  table = str.maketrans('ABCDEFG', '1234567', 'love') # 第三个参数忽略字符串
+  'GFEloveDCBA'.translate(table) # 7654321
+  ```
+
+**判断** (返回布尔类型)：
+
+- startswith(prefix[, start[, end]])，**[]** 表示可选参数
+
+- endswith(suffix[, start[, end]])
+
+  ```python
+  # 元组形式传参
+  x = '我爱Python'
+  x.startswith(('你', '我', '他')) # True
+  ```
+
+- istitle()，判断所有单词是否都是大写开头
+
+  ```python
+  x = 'I love'
+  x.istitle() # False
+  ```
+
+- isupper()，是否全大写
+
+  ```py
+  x.isupper() # False
+  x.upper().isupper() # True
+  ```
+
+- islower()，是否全小写
+
+- isalpha()，是否只由字母构成（空格也False）
+
+- isspace()，是否为空白字符串（空格，tab，\n都是）
+
+- isprintable()，字符串是否都可打印（\转义字符不可打印，会返回False）
+
+- isdecimal()
+
+- isdigit()
+
+- isnumeric()
+
+- isalnum()，isalpha()，isdecimal()，isdigit()，isnumeric()任意一个为True就为True
+
+- isidentifier()，判断字符串是否是一个合法的py标识符（变量名就需要是一个合法的py标识符，不能有空格，不能以数字开头）
+
+判断一个字符串是否为py的保留标识符：
+
+```python
+import keyword
+keyword.iskeyword('if') # True
+```
+
+**截取字符串**：
+
+- strip(chars=None)
+
+- lstrip(chars=None)
+
+- rstrip(chars=None)，定义了chars则按方向去除对应的**单个字符**
+
+  ```python
+  'www.i.com'.lstrip('wcom.') # i.com，左边开始单个字符查找是否有对应的删除，没有就判断下一个字符
+  ```
+
+- removeprefix(prefix)
+
+- removesuffix(suffix)，移除对应字符串
+
+**拆分&拼接**：
+
+- partition(sep)，左往右寻找分割符，结果为元组
+
+- rpartition(sep)，右往左
+
+  ```python
+  'www.i.com'.partition('.') # ('www', '.', 'i.com')
+  'www.i.com'.rpartition('.') # ('www.i', '.', 'com')
+  ```
+
+- split(sep = None, maxsplit = -1)，分割，默认则不分割，结果为列表，maxsplit为分割次数
+
+- rsplit(sep = None, maxsplit = -1)，右往左
+
+- splitlines(keepends = False)，按行（换行符）分割，keepends指定结果是否包含换行符
+
+- join(iterable)，拼接字符串
+
+**格式化字符串**：
+
+- format()
+
+  ```python
+  '1+1={}, 2的平方={}, 3的立方={}'.format(1+1, 2*2, 3*3*3)
+  # {}内加数字指定参数，参数被视为一个元组，可以用下标索引
+  '{1} {0}'.format('一', '二') # '二 一'
+  '{0}{0}{1}{1}'.format('是', '非') # '是是非非'
+  # 关键字参数索引
+  '{name}'.format(name = 'Python') # 'Python'
+  '{name} {0}'.format('开摆', name = 'Python') # 关键字索引要在下标索引后面
+  # 输出{}本身
+  '{}, {}'.format(1, '{}')
+  '{}, {{}}'.format(1) # '1, {}'
+  ```
+
+- [[fill]align]\[sign]\[#]\[O]\[width]\[grouping_option]\[.precision]\[type]
+
+  ```python
+  '{:^10}'.format(250) # '   250    '，:左边是位置，关键字索引，右边是格式化选项，^居中，10是宽度
+  '{1:>10}{0:<10}'.format(520, 250) # '       250520       '
+  '{:010}'.format(520) # '0000000520'，补零，自动感知正负号，只能数字
+  '{:0=10}'.format(520)
+  '{:+} {:-} {:+}'.format(520, -250 , -111) # '+520 -250 -111'，不写也一样，' '空格在正数前面加空格，负数补-
+  '{:,} {:_}'.format(1000, 1234) # '1,000 1_234'，千分位符号，位数不够不显示
+  # 精度选项 [.precision] [type]
+  '{0:.2f} {0:.2g} {1:.3}'.format(3.141, 'I love') # '3.14 3.1 I l'，f小数点后位数，g全部位数，不能对整数使用，b二进制，c返回Unicode字符，d十进制，o八进制，x十六进制，e科学计数，%转百分数
+  '{:#b}'.format(80) # '0b1010000'，# 加了'0b'的前缀，'0o'八，'0x'十六
+  '{:.{prec}f}'.format(3.1415, prec = 2) # '3.14'
+  '{:{fill}{align}{width}.{prec}{type}}'.format(3.1415, fill='0', align='^', width=10, prec=2, type='f') # '0003.14000'
+  ```
+
+- f字符串 (f-string)，format方法的语法糖，**Py3.6+**才有
+
+  前缀 F/f
+
+  ```python
+  year = 2022
+  f'{year}' # '2022'，关键字索引
+  f'1+1={1+1}, 2的平方={2*2}, 3的立方={3*3*3}'
+  f'{-520:010}' # '-000000520'，把数值移到:左边
+  ```
 
