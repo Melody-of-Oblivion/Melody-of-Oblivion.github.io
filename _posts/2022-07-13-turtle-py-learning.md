@@ -1,6 +1,6 @@
 ---
 title: 小甲鱼零基础Py学习记录
-editdate: 2022-07-25
+editdate: 2022-07-27
 ---
 
 
@@ -1112,4 +1112,227 @@ keyword.iskeyword('if') # True
   f'1+1={1+1}, 2的平方={2*2}, 3的立方={3*3*3}'
   f'{-520:010}' # '-000000520'，把数值移到:左边
   ```
+
+# P34~P36
+
+序列可分为可变序列和不可变序列
+
+```python
+s = [1, 2, 3]
+id(s)
+s *= 2 # 增量赋值，[1, 2, 3, 1, 2, 3]
+id(s) # 两次id(s)相同
+```
+
+Py中每个对象都有三个基本属性：唯一标识、类型、值
+
+不可以被修改，也不会重复
+
+id()返回指定对象唯一标识的整数值
+
+```python
+t = (1, 2, 3)
+id(t)
+t *= 2
+id(t) # 两次id(s)不同
+```
+
+**is 和 is not**
+
+用于检测对象的id值是否相等，也被称作同一性运算符
+
+```python
+x = [1, 2, 3]
+y = [1, 2, 3]
+x is y # False
+```
+
+**in 和 not in**
+
+判断包含
+
+```python
+'AB' in 'ABCDE' # True
+```
+
+**del**
+
+删除指定对象
+
+```python
+x = [1, 2, 3, 4, 5]
+del x[1:4] # [1, 5]
+y = [1, 2, 3, 4, 5]
+y[1:4] = [] # [1, 5]
+# clear方法
+x.clear() # []
+del x[:]
+```
+
+**列表、元组、字符串相互转换**
+
+list()
+
+tuple()
+
+str()
+
+```python
+list('string') # ['s', 't', 'r', 'i', 'n', 'g']
+tuple('string') # ('s', 't', 'r', 'i', 'n', 'g')
+str([1, 2, 3]) # '[1, 2, 3]'
+str((1, 2, 3) # '(1, 2, 3)'
+```
+
+**min() & max()**
+
+(iterable, *[, key, default])
+
+(arg1, arg2, *args[, key])
+
+比较的是编码值的大小
+
+```python
+min([1, 2, 3]) # 1
+max('AgL') # 'g'，字母顺序，大写在小写前
+min('', default='default') # 'default'，为空输出default的内容
+min(1, 0, 6, 7, 2, 4) # 0
+```
+
+**len() & sum()**
+
+len()的位数有限，n位的平台就是 2^(n-1)-1
+
+```python
+s = [1, 2, 3, 4]
+sum(s) # 10
+sum(s, start=100) # sum(s, 100)，110
+```
+
+**sorted() & reversed()**
+
+```python
+s = [1, 2, 3, 0, 6]
+sorted(s) # [0, 1, 2, 3, 6]，与列表的sort方法类似，但是返回的是一个全新列表
+```
+
+默认按编码值升序排列
+
+sorted()也支持key和reverse参数
+
+相对于列表的sort方法，sorted()函数范围更广
+
+```python
+sorted('String') # ['S', 'g', 'i', 'n', 'r', 't']
+sorted((1, 0, 2, 4, 6, 8, 0)) # [0, 0, 1, 2, 4, 6, 8]
+```
+
+reversed()类似列表的reverse方法，但是返回的是一个**反向迭代器**
+
+```python
+list(reversed([1, 2, 3, 4, 5])) # [5, 4, 3, 2, 1]
+```
+
+**all() & any()**
+
+```python
+x = [1, 1, 0]
+y = [1, 2, 1]
+all(x) # False，非全为真
+all(y) # True
+any(x) # True，有为真
+any(y) # True
+```
+
+**enumerate()**
+
+返回一个枚举对象，将可迭代对象的每个元素和从0开始的序号构成一个二元组的列表
+
+```python
+list(enumerate([1, 2, 3])) # [(0, 1), (1, 2), (2, 3)]
+```
+
+有start参数
+
+```python
+list(enumerate([1, 2, 3], 10)) # [(10, 1), (11, 2), (12, 3)]
+```
+
+**zip()**
+
+创建一个聚合多个可迭代对象的迭代器
+
+将每个可迭代对象的每个元素合成一个元组
+
+```python
+x = [1, 2, 3]
+y = [4, 5, 6]
+z = 'abcd'
+list(zip(x, y)) # [(1, 4), (2, 5), (3, 6)]
+list(zip(x, y, z)) # [(1, 4, 'a'), (2, 5, 'b'), (3, 6, 'c')]，以最短的为准
+```
+
+```python
+import itertools
+list(itertools.zip_longest(x, y, z)) # [(1, 4, 'a'), (2, 5, 'b'), (3, 6, 'c'), (None, None, 'd')]
+```
+
+**map()**
+
+根据提供函数对指定可迭代对象的每个元素进行计算，返回运算结果的迭代器
+
+```python
+list(map(ord, 'abc')) # [97, 98, 99]
+list(map(pow, [2, 3, 5], [2, 3, 1])) # [4, 27, 5]，指定函数为2参数的
+```
+
+**filter()**
+
+根据提供函数对指定可迭代对象的每个元素进行计算，返回运算结果**为真**的迭代器
+
+```python
+list(filter(str.islower, 'AbCdEfG')) # ['b', 'd', 'f']
+```
+
+​    
+
+迭代器、可迭代对象
+
+一个迭代器**肯定是**一个可迭代对象
+
+可迭代对象可以重复操作，而迭代器是一次性的
+
+```python
+m = map(ord, 'abc')
+list(m) # [97, 98, 99]
+list(m) # []
+```
+
+​    
+
+**iter()**
+
+将可迭代对象变为迭代器
+
+```python
+x = [1, 2, 3, 4, 5]
+y = iter(x)
+type(x) # <class 'list'>
+type(y) # <class 'list_iterator'>
+```
+
+**next()**
+
+逐个提取迭代器的元素
+
+```python
+next(y) # 1
+next(y) # 2
+next(y) # 3
+next(y) # 4
+next(y) # 5
+next(y) # 迭代器没元素，抛出异常
+
+next(y, '没了') # 迭代器没元素时打印 '没了'
+```
 
