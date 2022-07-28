@@ -1,6 +1,6 @@
 ---
 title: 小甲鱼零基础Py学习记录
-editdate: 2022-07-27
+editdate: 2022-07-28
 ---
 
 
@@ -1334,5 +1334,209 @@ next(y) # 5
 next(y) # 迭代器没元素，抛出异常
 
 next(y, '没了') # 迭代器没元素时打印 '没了'
+```
+
+# P37~P39
+
+字典是py中唯一实现映射关系的内置类型
+
+映射类型数据的获取上，字典会远远快于列表
+
+```python
+x = {'1', '2'}
+type(x) # <class 'set'>，集合
+y = {'a':1, 'b':2}
+type(y) # <class 'dict'>，字典
+```
+
+{键 (key):值 (value)}
+
+序列是通过位置偏移来存储数据，而字典是通过键来读写
+
+读写值是通过键，而不是下标值
+
+```python
+y['a'] # 1
+y['c'] = 3
+y # {'a': 1, 'b': 2, 'c': 3}
+```
+
+**创建字典的六种方法**：
+
+- A = {'a':1, 'b':2}
+
+- B = dict(a=1, b=2) # 键名不能加引号
+
+- 列表作为参数，元素是元组的键值对
+
+  ```python
+  C = dict([('a', 1), ('b', 2)]) # {'a': 1, 'b': 2}
+  ```
+
+- D = dict({'a':1, 'b':2})
+
+- E = dict({'a':1}, b=2)
+
+- 利用zip()函数返回多个可迭代对象的迭代器
+
+  ```python
+  x = ['a', 'b']
+  y = [1, 2]
+  F = dict(list(zip(x, y)))
+  ```
+
+这六种写法等价
+
+```python
+A == B == C == D == E == F # True
+```
+
+​    
+
+**增**
+
+fromkeys(iterable[, values])方法，用可迭代对象创建新的字典，初始化为values的值
+
+```python
+d = dict.fromkeys('fish', 250) # {'f': 250, 'i': 250, 's': 250, 'h': 250}
+d['f'] = 0 # 改
+d['o'] = 1 # 增
+```
+
+序列中元素可以重复，而字典中的键不会重复
+
+**删**
+
+pop(key[, default])方法
+
+```python
+d.pop('s') # 250，返回pop的键队应的值，d中's'消失
+```
+
+pop的键不存在则会抛出异常，设置default参数在键不存在时返回
+
+popitem()方法，py3.7之前是随机删除一个键值对，3.7之后删除最后一个加入的键值对
+
+```python
+d.popitem() # ('o', 1)
+```
+
+del关键字
+
+```python
+del d['i'] # {'f': 0, 'h': 250}
+del d # 删除字典
+```
+
+clear()方法
+
+```python
+d = dict.fromkeys('fish', 250)
+d.clear() # {}
+```
+
+**改**
+
+通过键修改值
+
+```python
+d = dict.fromkeys('fish') # {'f': None, 'i': None, 's': None, 'h': None}
+d['s'] = 15 # {'f': None, 'i': None, 's': 15, 'h': None}
+```
+
+update([other])方法，可以传入多个键值对、另外一个字典、包含键值对的可迭代对象
+
+```python
+d.update(i=10, h=11) # {'f': None, 'i': 10, 's': 15, 'h': 11}
+d.update({'f':9}) # {'f': 9, 'i': 10, 's': 15, 'h': 11}
+```
+
+**查**
+
+```python
+d['i'] # 10
+```
+
+get(key[, default])方法，default参数指定找不到键时的返回
+
+```python
+d.get('c', 'None') # 'None'
+```
+
+setdefault()，存在则返回值，不存在则设定值
+
+```python
+d.setdefault('f', 'code') # 9
+d.setdefault('o', 'code') # 'code'
+d # {'f': 9, 'i': 10, 's': 15, 'h': 11, 'o': 'code'}
+```
+
+items()、keys()、values()方法
+
+分别用于获取字典的键值对、键、值三者的视图对象
+
+视图对象：字典的动态视图，字典内容改变时，视图对象的内容也会改变
+
+```python
+k = d.keys() # dict_keys(['f', 'i', 's', 'h', 'o'])
+v = d.values() # dict_values([9, 10, 15, 11, 'code'])
+i = d.items() # dict_items([('f', 9), ('i', 10), ('s', 15), ('h', 11), ('o', 'code')])
+d.pop('o')
+k # dict_keys(['f', 'i', 's', 'h'])
+v # dict_values([9, 10, 15, 11])
+i # dict_items([('f', 9), ('i', 10), ('s', 15), ('h', 11)])
+```
+
+浅拷贝
+
+```python
+e = d.copy()
+```
+
+键值对的数量
+
+```python
+len(d) # 4
+```
+
+in/not in 判断键是否存在
+
+```python
+'f' in d # True
+```
+
+list()得到列表
+
+```python
+list(d) # ['f', 'i', 's', 'h']，由键构成
+# 同
+list(d.keys())
+list(d.values()) # [9, 10, 15, 11]
+iter(d) # 创建一个键的迭代器
+```
+
+py3.8往后字典有了顺序，可以用reversed()函数逆序
+
+```python
+list(reversed(d.values())) # [11, 15, 10, 9]
+```
+
+**嵌套**
+
+```python
+dict = {'A': {'a':1, 'b':2, 'c':3}, 'B': [1, 2, 3]}
+dict['A']['b'] # 2
+dict['B'][2] # 3
+```
+
+**字典推导式**
+
+```python
+d = {'a':1, 'b':2, 'c':3}
+b = {v:k for k,v in d.items()} # {1: 'a', 2: 'b', 3: 'c'}
+c = {v:k for k,v in d.items() if v > 1} # {2: 'b', 3: 'c'}
+{x:ord(x) for x in 'fish'} # {'f': 102, 'i': 105, 's': 115, 'h': 104}
+{x:y for x in [1, 3, 5] for y in [2, 4, 6]} # {1: 6, 3: 6, 5: 6}
+# 键的值会被覆盖，只会保留后覆盖的
 ```
 
