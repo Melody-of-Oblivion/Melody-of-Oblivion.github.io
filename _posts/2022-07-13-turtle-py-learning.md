@@ -1,6 +1,6 @@
 ---
 title: 小甲鱼零基础Py学习记录
-editdate: 2022-07-28
+editdate: 2022-07-29
 ---
 
 
@@ -1539,4 +1539,204 @@ c = {v:k for k,v in d.items() if v > 1} # {2: 'b', 3: 'c'}
 {x:y for x in [1, 3, 5] for y in [2, 4, 6]} # {1: 6, 3: 6, 5: 6}
 # 键的值会被覆盖，只会保留后覆盖的
 ```
+
+# P40~P41
+
+```python
+type({}) # <class 'dict'>
+type({'a'}) # <class 'set'>
+type({'a':1}) # <class 'dict'>
+```
+
+集合中所有元素都应该是独一无二的，并且无序
+
+创建集合三种方法：
+
+- ```python
+  {'a', 'b', 'c'}
+  ```
+
+- 集合推导式
+
+  ```python
+  {s for s in 'string'} # {'r', 's', 'g', 'i', 't', 'n'}，无序
+  ```
+
+- 使用类型构造器set()
+
+  ```python
+  set('string') # {'r', 's', 'g', 'i', 't', 'n'}
+  ```
+
+**无序性**
+
+由于集合无序，不能使用下标索引的方式访问
+
+in/not in 可用
+
+```python
+'g' in set('string') # True
+```
+
+访问元素可用迭代的方式
+
+```python
+for each in set('string'):
+    print(each) # r s g i t n
+```
+
+**唯一性**
+
+去重
+
+```python
+set([1, 1, 2, 3, 5]) # {1, 2, 3, 5}
+s = [1, 1, 2, 3, 5]
+len(s) == len(set(s)) # False，判断列表元素是否有重复
+```
+
+​    
+
+集合的方法：
+
+```python
+# 浅拷贝
+s = {1, 2, 3}
+t = s.copy() # {1, 2, 3}
+# 检测两个集合是否不相关
+set('fish').isdisjoint(set('python')) # False，有相关
+set('fish').isdisjoint(set('java')) # True
+set('fish').isdisjoint('java') # 传入可迭代对象也可以
+# 检测是否为子集
+set('fish').issubset('fishh') # True
+# 检测是否为超集
+set('fish').issuperset('fis') # True
+# 并集
+set('fish').union('dish') # {'s', 'd', 'i', 'h', 'f'}
+set('fish').union('dish', {1, 2, 3}) # 多参数
+# 交集
+set('fish').intersection('dish') # {'s', 'h', 'i'}
+set('fish').intersection('dish', 'php') # {'h'}，多参数
+# 差集，属于A集合但不属于B集合
+set('fish').difference('dish') # {'f'}
+# 对称差集，排除AB集合共有元素之后剩余的元素
+set('fish').symmetric_difference('dish') # {'f', 'd'}，只能单参数
+```
+
+py也有对应的运算符
+
+```python
+# 子集
+s = {1, 2, 3}
+s <= {1, 2, 3, 4} # True
+s < {1, 2, 3, 4} # 真子集
+# 超集
+s >= {1, 2} # True
+s > {1, 2} # 真超集
+# 并集
+s | {4} | {5} # {1, 2, 3, 4, 5}
+# 交集
+s & {2, 3} & {1, 3} # {3}
+# 差集
+s - {2, 3} # {1}
+# 对称差集
+s ^ {2, 3, 4} # {1, 4}
+```
+
+使用运算符时，符号两边必须都是集合类型的数据，而方法的参数可用使用可迭代对象
+
+   
+
+py集合分为可变和不可变两种对象
+
+set() / frozenset()
+
+```python
+s = frozenset('123456') # frozenset({'1', '6', '2', '4', '3', '5'})
+```
+
+上面的方法不会影响集合的内容，对frozenset也适用
+
+会对集合内容改动的方法：
+
+**update(*others)** others表示支持多个参数
+
+```python
+s = set([1])
+s.update([2, 3], '445') # {1, 2, 3, '4', '5'}，相当于union并集对应的方法
+```
+
+**intersection_update(*others)**
+
+**difference_update(*others)** 
+
+**symmetric_difference_update(*others)** 
+
+子集、差集、对称差集的方式更新集合
+
+```python
+s.intersection_update([1, 2, 3]) # {1, 2, 3}
+s.difference_update([2, 3]) # {1}
+s.symmetric_difference_update([2, 3]) # {1, 2, 3}
+```
+
+单纯往集合添加数据可以用add()方法
+
+```python
+s.add('45') # {1, 2, 3, '45'}，不同于update()方法迭代对象添加，add是直接添加
+```
+
+移除元素
+
+remove(elem) / discard(elem)
+
+如果元素不存在，remove()方法会抛出异常，而discard()方法会静默处理
+
+pop() 随机从集合中弹出一个元素
+
+```python
+s = set('123') # {'1', '3', '2'
+s.pop() # '1'
+s.pop() # '3'
+s.pop() # '2'
+s # set()
+```
+
+```python
+s = set('123')
+s.clear() # set()
+```
+
+​    
+
+**可哈希**
+
+为了能够正确创建，字典的键和集合的元素都得是可哈希的，如果可哈希，则要求在程序生命周期内的哈希值都是不变的
+
+**hash(obj)** 函数可以获取对象的哈希值
+
+```python
+hash(1) # 1
+hash(1.0) # 1
+hash(1.001) # 2305843009213441
+```
+
+值大小相同时哈希值也相同
+
+一般不可变的对象是可哈希的，而可变的对象是不可哈希的
+
+字符串、元组都不可变，列表，集合都可变
+
+嵌套集合
+
+```python
+x = frozenset([1, 2, 3])
+y = {x, 4, 5} # {frozenset({1, 2, 3}), 4, 5}
+```
+
+将列表变成集合，可以提高运行的效率：
+
+集合有散列表的支持，而列表没有，代价是要牺牲存储空间
+
+
 
