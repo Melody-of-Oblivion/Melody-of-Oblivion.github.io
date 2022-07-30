@@ -1738,5 +1738,49 @@ y = {x, 4, 5} # {frozenset({1, 2, 3}), 4, 5}
 
 集合有散列表的支持，而列表没有，代价是要牺牲存储空间
 
+# P42~P53
 
+函数
+
+- 代码重用，减少冗余代码
+- 降低结构复杂度
+- 提高可读性
+
+```python
+def myfunc():
+    pass
+```
+
+```python
+def myfunc(name):
+    print(f'I love {name}.')
+myfunc('Py') # I love Py.
+```
+
+```python
+def myfunc(name, times):
+    for i in range(times):
+    	print(f'I love {name}.')
+myfunc('Py', 2) # I love Py. I love Py.
+```
+
+形参/实参
+
+```python
+# 返回值
+def div(x, y):
+    if y == 0:
+        return '除数不能为0'
+    else:
+    	return x / y
+div(4, 2) # 2.0
+```
+
+函数没通过return显式返回内容，也会在执行完后返回一个None：
+
+```python
+def myfunc():
+    pass
+print(myfunc()) # None
+```
 
