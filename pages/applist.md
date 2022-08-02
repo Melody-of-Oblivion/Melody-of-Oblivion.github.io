@@ -139,7 +139,7 @@ permalink: /applist/
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [CentBrowser](https://www.centbrowser.cn/history.html) / [CentBrowser测试版](https://static.centbrowser.cn/win_beta/5.0.1002.182/)
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
