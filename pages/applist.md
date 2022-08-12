@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-08-08
+个人整理，长期更新。**最后编辑**：2022-08-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -151,7 +151,7 @@ permalink: /applist/
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
-​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [Hibit Uninstaller](https://hibitsoft.ir/Uninstaller.html)
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
