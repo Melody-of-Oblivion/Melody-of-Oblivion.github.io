@@ -131,11 +131,27 @@ permalink: /applist/
 
 ​	加速器：[UU](https://uu.163.com/) / [biubiu](https://www.biubiu001.com/windowsDownload/)
 
-#### 4. 优化清理
+#### 4. 系统清理/美化工具
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1]
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
+
+​	任务栏透明化：[TranslucentTB ](https://github.com/TranslucentTB/TranslucentTB/releases) / [TrayS](https://github.com/cgbsmy/TrayS/releases)
+
+​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
+
+​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
+
+​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
+
+​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
+
+​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
+
+​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
+
+​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases)
 
 #### 5. 实用软件
 
@@ -195,23 +211,7 @@ permalink: /applist/
 
 ​	背单词：[ToastFish](https://github.com/Uahh/ToastFish/releases)
 
-#### 6. 美化系列
-
-​	任务栏透明化：[TranslucentTB ](https://github.com/TranslucentTB/TranslucentTB/releases) / [TrayS](https://github.com/cgbsmy/TrayS/releases)
-
-​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
-
-​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
-
-​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
-
-​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
-
-​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
-
-​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
-
-#### 7. 下载器
+#### 6. 下载器
 
 ​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)[^2] / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/)
 
@@ -221,7 +221,7 @@ permalink: /applist/
 
 ​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk/releases)
 
-#### 8. 虚拟机
+#### 7. 虚拟机
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads) / [VMware Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
@@ -233,7 +233,7 @@ permalink: /applist/
 
 ​	沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
 
-#### 9. 信息查看
+#### 8. 信息查看
 
 ​	娱乐软件：[鲁大师](https://www.lanzoui.com/b00zbih5c)
 
