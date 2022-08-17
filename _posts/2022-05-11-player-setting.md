@@ -1,6 +1,6 @@
 ---
 title: windows播放器设置
-editdate: 2022-06-10
+editdate: 2022-08-17
 ---
 
 # PotPlayer + LAV Filter + madVR
@@ -11,11 +11,23 @@ editdate: 2022-06-10
 
 [madVR](http://www.madvr.com/)
 
+教程可参考：
+
+[贴吧](https://tieba.baidu.com/p/7171344019)
+
+[VCB](https://vcb-s.com/archives/7228)
+
+​    
+
 [mpcVR](https://github.com/Aleksoid1978/VideoRenderer)
 
-配置教程见：[贴吧置顶帖](https://tieba.baidu.com/p/7171344019)
-
 mpcVR配置参考：[帖子](https://tieba.baidu.com/p/7614576721)
+
+mpcvr注意：
+
+进阶皮肤选择**不使用**时，按步骤在"视频"选择MPC渲染器，正常使用；选择**D3D 9/11**，播放视频时上下栏不能正常显示；选择**使用窗口化图层**并将mpcvr加入全局滤镜强制使用，会导致打开部分mp3时报错 <u>"Unhandled exception..."</u>；选择**使用OpenGL**并将mpcvr加入全局滤镜强制使用，可能导致打开视频后黑屏。
+
+而使用madvr时进阶皮肤那里可以设置为D3D 9。
 
 ​    
 
