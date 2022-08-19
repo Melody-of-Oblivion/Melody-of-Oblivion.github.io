@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-08-17
+个人整理，长期更新。**最后编辑**：2022-08-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -152,6 +152,8 @@ permalink: /applist/
 ​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
 
 ​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases)
+
+​	文件资源管理器：[Files](https://files.community/)
 
 #### 5. 实用软件
 
