@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-08-19
+个人整理，长期更新。**最后编辑**：2022-08-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -43,7 +43,7 @@ permalink: /applist/
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
 
-​	像素画：[Aseprite](https://github.com/aseprite/aseprite/releases)
+​	像素画：[Aseprite](https://github.com/aseprite/aseprite/releases) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama/releases)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
@@ -161,7 +161,7 @@ permalink: /applist/
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
-​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [Asar7z](https://www.tc4shell.com/en/7zip/asar/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
