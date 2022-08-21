@@ -323,6 +323,8 @@ permalink: /applist/
 
 ​	在线md简历制作：[木及简历](https://www.mujicv.com/index.html)
 
+​	搜题：[简答题](https://www.jiandati.com/)
+
 #### 2. 资源
 
 ​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/)
