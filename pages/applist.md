@@ -371,7 +371,7 @@ permalink: /applist/
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
-​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/)
+​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/) / [BgSub](https://bgsub.cn/webapp/)
 
 ​	简历：[超级简历](https://www.wondercv.com/) / [简历下载](https://jianlixiazai.cn/)
 
