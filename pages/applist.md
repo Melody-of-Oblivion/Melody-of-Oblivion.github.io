@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-08-21
+个人整理，长期更新。**最后编辑**：2022-08-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -121,7 +121,7 @@ permalink: /applist/
 
 ​	Steam工具箱：[Steam++](https://steampp.net/)
 
-​	漫画管理/阅读器：[YACReader](https://yacreader.com/downloads)
+​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html)
 
 ​	游戏平台第三方客户端：[Legendary](https://github.com/derrod/legendary/releases) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads)
 
