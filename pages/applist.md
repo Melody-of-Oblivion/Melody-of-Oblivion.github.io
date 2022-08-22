@@ -121,7 +121,7 @@ permalink: /applist/
 
 ​	Steam工具箱：[Steam++](https://steampp.net/)
 
-​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html)
+​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
 
 ​	游戏平台第三方客户端：[Legendary](https://github.com/derrod/legendary/releases) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads)
 
