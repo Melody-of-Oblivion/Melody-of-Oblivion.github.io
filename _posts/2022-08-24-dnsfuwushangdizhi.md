@@ -2,6 +2,4 @@
 title: DNS服务提供商地址
 ---
 
-阿里云：https://dns.alidns.com/dns-query
-
-腾讯云DNSPOD：https://doh.pub/dns-query
+参考：https://opssh.cn/fenxiang/179.html
