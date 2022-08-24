@@ -289,7 +289,7 @@ permalink: /applist/
 
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/#download)
 
-​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji)
+​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor)
 
 ​	贴吧：[TiebaLite](https://github.com/HuanCheng65/TiebaLite/releases)
 
