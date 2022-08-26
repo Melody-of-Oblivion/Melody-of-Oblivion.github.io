@@ -181,7 +181,7 @@ permalink: /applist/
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
-​	远程协助工具：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en)
+​	远程协助工具：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en) / [Parsec](https://parsec.app/downloads)
 
 ​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/)
 
