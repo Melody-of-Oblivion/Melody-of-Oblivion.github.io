@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-08-24
+个人整理，长期更新。**最后编辑**：2022-08-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -274,6 +274,8 @@ permalink: /applist/
 ​	扫描：[Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) / [布丁扫描](https://www.huposcanner.com/)
 
 ​	毒盘秒传转存：[狐悠](https://madonnalily.lanzoux.com/b093rxw4j)
+
+​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer)
 
 #### 2. 娱乐
 
