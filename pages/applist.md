@@ -151,7 +151,7 @@ permalink: /applist/
 
 ​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
 
-​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases)
+​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
 ​	文件资源管理器：[Files](https://files.community/)
 
