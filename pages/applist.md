@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-04
+个人整理，长期更新。**最后编辑**：2022-09-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -193,7 +193,7 @@ permalink: /applist/
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
-​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro/releases)
+​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro/releases) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/releases)
 
 ​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
 
@@ -201,7 +201,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie/releases)
 
-​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases) / [netSend](https://github.com/williamnie/netSend/releases)
+​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases) / [netSend](https://github.com/williamnie/netSend/releases) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP/releases) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
