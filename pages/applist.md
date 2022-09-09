@@ -119,7 +119,7 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam工具箱：[Steam++](https://steampp.net/)
+​	Steam工具箱：[Watt Toolkit](https://steampp.net/)
 
 ​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
 
