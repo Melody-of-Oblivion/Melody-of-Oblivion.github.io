@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-12
+个人整理，长期更新。**最后编辑**：2022-09-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -215,6 +215,8 @@ permalink: /applist/
 
 ​	背单词：[ToastFish](https://github.com/Uahh/ToastFish/releases)
 
+​	获取窗口句柄：[Spy++](https://wwz.lanzouy.com/i9Dbo0bobx5a)
+
 #### 6. 下载器
 
 ​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [XDM](https://xtremedownloadmanager.com/#downloads) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)[^2] / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent/releases)
@@ -291,7 +293,7 @@ permalink: /applist/
 
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/#download)
 
-​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor)
+​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh 密码:8e37)
 
 ​	贴吧：[TiebaLite](https://github.com/HuanCheng65/TiebaLite/releases)
 
