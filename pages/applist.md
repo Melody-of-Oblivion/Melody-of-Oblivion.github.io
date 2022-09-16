@@ -35,7 +35,7 @@ permalink: /applist/
 
 ​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch/releases)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch/releases) / [VeryCapture](https://verycapture.com/cn/download.html)
 
 ​	文件复制：[FastCopy](https://fastcopy.jp/)
 
@@ -156,6 +156,8 @@ permalink: /applist/
 ​	文件资源管理器：[Files](https://files.community/)
 
 ​	窗口隐藏：[Invisiwind](https://github.com/radiantly/Invisiwind/releases) / [WindowSharingHider](https://github.com/shalzuth/WindowSharingHider/releases)
+
+​	win服务管理：[WPD](https://wpd.app/) / [Easy Service Optimizer](https://www.sordum.org/8637/easy-service-optimizer-v1-2/)
 
 #### 5. 实用软件
 
