@@ -291,7 +291,7 @@ permalink: /applist/
 
 ​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases)
 
-​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/#download)
+​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/)
 
 ​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh 密码:8e37)
 
