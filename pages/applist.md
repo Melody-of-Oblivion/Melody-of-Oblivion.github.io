@@ -159,7 +159,7 @@ permalink: /applist/
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [CentBrowser](https://www.centbrowser.cn/history.html) / [CentBrowser测试版](https://static.centbrowser.cn/win_beta/5.0.1002.182/) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [CentBrowser](https://www.centbrowser.cn/history.html) / [CentBrowser测试版](https://static.centbrowser.cn/win_beta/5.0.1002.182/) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL) / [星愿浏览器](https://www.twinkstar.com/)
 
 ​	PPT工具箱：[iSlide](https://www.islide.cc/download)
 
@@ -271,7 +271,7 @@ permalink: /applist/
 
 ​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi/releases)
 
-​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/) / [Kiwi Browser](https://kiwibrowser.com/)
+​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/) / [Kiwi Browser](https://kiwibrowser.com/) / [雨见浏览器](https://www.yjllq.com/)
 
 ​	扫描：[Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) / [布丁扫描](https://www.huposcanner.com/)
 
