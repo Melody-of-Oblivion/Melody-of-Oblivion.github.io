@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-16
+个人整理，长期更新。**最后编辑**：2022-09-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -137,7 +137,7 @@ permalink: /applist/
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
-​	任务栏透明化：[TranslucentTB ](https://github.com/TranslucentTB/TranslucentTB/releases) / [TrayS](https://github.com/cgbsmy/TrayS/releases)
+​	任务栏透明化：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS/releases) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI/releases) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
 
 ​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
 
@@ -146,8 +146,6 @@ permalink: /applist/
 ​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
 
 ​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
-
-​	win任务栏：[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
 
 ​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
 
