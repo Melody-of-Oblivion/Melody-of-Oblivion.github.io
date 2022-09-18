@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-17
+个人整理，长期更新。**最后编辑**：2022-09-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -271,7 +271,7 @@ permalink: /applist/
 
 ​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi/releases)
 
-​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/) / [Kiwi Browser](https://kiwibrowser.com/) / [雨见浏览器](https://www.yjllq.com/)
+​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/) / [Kiwi Browser](https://kiwibrowser.com/) / [雨见浏览器](https://www.yjllq.com/) / [狐猴浏览器](https://lemurbrowser.com/app/zh/index.html)
 
 ​	扫描：[Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) / [布丁扫描](https://www.huposcanner.com/)
 
