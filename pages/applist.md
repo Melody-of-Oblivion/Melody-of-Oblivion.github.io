@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-18
+个人整理，长期更新。**最后编辑**：2022-09-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -216,6 +216,8 @@ permalink: /applist/
 ​	背单词：[ToastFish](https://github.com/Uahh/ToastFish/releases)
 
 ​	获取窗口句柄：[Spy++](https://wwz.lanzouy.com/i9Dbo0bobx5a)
+
+​	抓包工具：[Fiddler](https://www.telerik.com/fiddler)
 
 #### 6. 下载器
 
