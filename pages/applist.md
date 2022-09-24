@@ -217,7 +217,7 @@ permalink: /applist/
 
 ​	获取窗口句柄：[Spy++](https://wwz.lanzouy.com/i9Dbo0bobx5a)
 
-​	抓包工具：[Fiddler](https://www.telerik.com/fiddler)
+​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
 
 #### 6. 下载器
 
