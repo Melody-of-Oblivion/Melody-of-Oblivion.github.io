@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-24
+个人整理，长期更新。**最后编辑**：2022-09-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -69,7 +69,7 @@ permalink: /applist/
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine/releases) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor/releases) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app/releases)
 
-​	图像放大：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) / [AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer/releases) / [ArSrNaESRGAN](https://www.arsrna.cn/app/esrgan/)
+​	图像放大：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) / [AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer/releases) / [ArSrNaESRGAN](https://www.arsrna.cn/app/esrgan/) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/releases) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui/releases)
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
