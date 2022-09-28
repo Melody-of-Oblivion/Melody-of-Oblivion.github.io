@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-09-25
+个人整理，长期更新。**最后编辑**：2022-09-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -297,7 +297,7 @@ permalink: /applist/
 
 ​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh 密码:8e37)
 
-​	贴吧：[TiebaLite](https://github.com/HuanCheng65/TiebaLite/releases)
+​	第三方贴吧客户端：[TiebaLite](https://wwz.lanzouy.com/b01vuifkb) (49ik)
 
 ---
 
