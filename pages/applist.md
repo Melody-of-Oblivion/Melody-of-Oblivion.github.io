@@ -133,7 +133,7 @@ permalink: /applist/
 
 #### 4. 系统清理/美化工具
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1]
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer/releases)
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
