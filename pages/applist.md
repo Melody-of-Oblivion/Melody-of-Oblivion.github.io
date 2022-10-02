@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-01
+个人整理，长期更新。**最后编辑**：2022-10-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -161,7 +161,7 @@ permalink: /applist/
 
 ​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [CentBrowser](https://www.centbrowser.cn/history.html) / [CentBrowser测试版](https://static.centbrowser.cn/win_beta/5.0.1002.182/) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL) / [星愿浏览器](https://www.twinkstar.com/)
 
-​	PPT工具箱：[iSlide](https://www.islide.cc/download)
+​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
 ​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip)
 
