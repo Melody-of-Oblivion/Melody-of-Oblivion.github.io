@@ -279,7 +279,7 @@ permalink: /applist/
 
 ​	毒盘秒传转存：[狐悠](https://madonnalily.lanzoux.com/b093rxw4j)
 
-​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer)
+​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer) / [质感文件](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/)
 
 #### 2. 娱乐
 
