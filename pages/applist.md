@@ -416,4 +416,4 @@ permalink: /applist/
 ----
 
 [^1]: 网上可以搜学习方法。
-[^2]: 下载WithJava的安装后可以删除自带的jre文件夹，自己下载安装新的OracleJDK。g
+[^2]: 下载WithJava的安装后可以删除自带的jre文件夹，自己下载安装新的OracleJDK。
