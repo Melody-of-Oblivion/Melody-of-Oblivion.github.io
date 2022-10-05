@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-02
+个人整理，长期更新。**最后编辑**：2022-10-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -307,7 +307,7 @@ permalink: /applist/
 
 ​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
 
-​	新番资讯：[UZURAINFO](http://uzurainfo.han-be.com/index.html) / [YuC's AnimeList](https://yuc.wiki/)
+​	新番表：[YuC's AnimeList](https://yuc.wiki/) / [ACG Secrets.HK](https://acgsecrets.hk/bangumi/)
 
 ​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)
 
