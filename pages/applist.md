@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-05
+个人整理，长期更新。**最后编辑**：2022-10-07
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -29,7 +29,7 @@ permalink: /applist/
 
 ​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases)
 
-​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [MouseInc](https://shuax.com/)
+​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
