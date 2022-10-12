@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-10
+个人整理，长期更新。**最后编辑**：2022-10-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -369,7 +369,7 @@ permalink: /applist/
 
 ​	格式转换：[Convertio](https://convertio.co/zh/) / [Online-Convert](https://www.online-convert.com/)
 
-​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/)
+​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/) / [CleverPDF](https://www.cleverpdf.com/)
 
 ​	一站式产品设计工具：[MasterGo](https://mastergo.com/)
 
