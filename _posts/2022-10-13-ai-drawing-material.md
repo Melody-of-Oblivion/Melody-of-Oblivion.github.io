@@ -55,3 +55,7 @@ https://pan.baidu.com/s/1g0GAYgZ_HBSr-OnUz7V63g?pwd=8ngt
 waifu1.3模型
 
 https://pan.baidu.com/s/1mznhd2yvJ2SH4M-KVxQNhg?pwd=vqet
+
+​    
+
+tag生成器：[PromptCombiner](https://github.com/luzamm/PromptCombiner/releases)
