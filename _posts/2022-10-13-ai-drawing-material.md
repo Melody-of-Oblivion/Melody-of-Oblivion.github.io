@@ -35,3 +35,23 @@ https://ai.nya.la/
 魔咒百科：
 
 https://aitag.top/
+
+​    
+
+其他一些模型，不知道效果怎么样
+
+二刺螈
+
+https://pan.baidu.com/s/1kgHo0L-9UkrsO_xob1t0Pw?pwd=wxuj
+
+SD1.3阉割与完整版
+
+https://pan.baidu.com/s/1I97hoPDv1UFm4cTiPSwb1Q?pwd=00ca
+
+hentai模型
+
+https://pan.baidu.com/s/1g0GAYgZ_HBSr-OnUz7V63g?pwd=8ngt 
+
+waifu1.3模型
+
+https://pan.baidu.com/s/1mznhd2yvJ2SH4M-KVxQNhg?pwd=vqet
