@@ -32,9 +32,9 @@ https://ai.nya.la/
 
 ​    
 
-魔咒百科：
+[魔咒百科](https://aitag.top/)
 
-https://aitag.top/
+[手抄本法术书](https://docs.google.com/spreadsheets/d/14Gg1kIGWdZGXyCC8AgYVT0lqI6IivLzZOdIT3QMWwVI/htmlview?pru=AAABg_C29cU)
 
 ​    
 
