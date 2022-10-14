@@ -59,3 +59,5 @@ https://pan.baidu.com/s/1mznhd2yvJ2SH4M-KVxQNhg?pwd=vqet
 ​    
 
 tag生成器：[PromptCombiner](https://github.com/luzamm/PromptCombiner/releases)
+
+在线tag生成器：[NovelAiTag](https://thereisnospon.github.io/NovelAiTag/)
