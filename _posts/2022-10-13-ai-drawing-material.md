@@ -24,6 +24,8 @@ animefull-final-pruned
 
 [colab部署中文版](https://colab.research.google.com/drive/1jr2hwih87DSqixyNM_fmg5qWidUArCQP?usp=sharing)
 
+​    
+
 网页版：
 
 https://novelai.net/stories
@@ -37,6 +39,8 @@ https://ai.nya.la/
 [手抄本法术书](https://docs.google.com/spreadsheets/d/14Gg1kIGWdZGXyCC8AgYVT0lqI6IivLzZOdIT3QMWwVI/htmlview?pru=AAABg_C29cU)
 
 [B乎咒术解析](https://www.zhihu.com/question/558019952/answer/2710009035)
+
+[元素法典](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs)
 
 ​    
 
