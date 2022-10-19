@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-16
+个人整理，长期更新。**最后编辑**：2022-10-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -152,6 +152,8 @@ permalink: /applist/
 ​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
 ​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
+
+​	win11透明磨砂：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
 
 ​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
