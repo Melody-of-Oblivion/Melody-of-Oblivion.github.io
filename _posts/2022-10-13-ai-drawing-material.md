@@ -1,5 +1,6 @@
 ---
 title: AI画图相关
+editdate: 2022-10-26
 ---
 
 Novelai Leak模型磁链：
@@ -41,6 +42,8 @@ https://ai.nya.la/
 [B乎咒术解析](https://www.zhihu.com/question/558019952/answer/2710009035)
 
 [元素法典](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs)
+
+[参同真解扩展研究](https://zhuanlan.zhihu.com/p/572780162)
 
 ​    
 
