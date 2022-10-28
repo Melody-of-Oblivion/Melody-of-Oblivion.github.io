@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-25
+个人整理，长期更新。**最后编辑**：2022-10-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -225,6 +225,8 @@ permalink: /applist/
 
 ​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
 
+​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg/releases) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) / [V2rayN](https://github.com/2dust/v2rayN/releases)
+
 #### 6. 下载器
 
 ​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)[^2] / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent/releases) / [XDM](https://github.com/subhra74/xdm-experimental-binaries/releases)
@@ -286,6 +288,8 @@ permalink: /applist/
 ​	毒盘秒传转存：[狐悠](https://madonnalily.lanzoux.com/b093rxw4j)
 
 ​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer) / [质感文件](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/)
+
+​	代理：[V2eayNG](https://github.com/2dust/v2rayNG/releases) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
 
 #### 2. 娱乐
 
