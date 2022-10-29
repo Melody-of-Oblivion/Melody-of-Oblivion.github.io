@@ -147,7 +147,7 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases)
+​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases) / [ModernBoxes](https://gitee.com/MchBlog/modern-box/releases)
 
 ​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
