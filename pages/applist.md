@@ -27,7 +27,7 @@ permalink: /applist/
 
 #### 1. 效率工具
 
-​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases) / [uTools](https://www.u.tools/)
+​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases) / [uTools](https://www.u.tools/) / [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 
 ​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [GestureSign](https://zh.gesturesign.win/#/)
 
