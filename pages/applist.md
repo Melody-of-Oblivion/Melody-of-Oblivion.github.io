@@ -293,7 +293,7 @@ permalink: /applist/
 
 ​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer) / [质感文件](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/)
 
-​	代理：[V2eayNG](https://github.com/2dust/v2rayNG/releases) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
+​	代理：[V2rayNG](https://github.com/2dust/v2rayNG/releases) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
 
 #### 2. 娱乐
 
