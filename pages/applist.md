@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-10-31
+个人整理，长期更新。**最后编辑**：2022-11-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -430,4 +430,4 @@ permalink: /applist/
 ----
 
 [^1]: 网上可以搜学习方法。
-[^2]: 下载WithJava的安装后可以删除自带的jre文件夹，自己下载安装新的OracleJDK。
+[^2]: 下载WithJava安装后可以删除自带的jre文件夹的内容，自行[下载](https://adoptium.net/zh-CN/temurin/releases/)新的JRE的zip压缩包替换。
