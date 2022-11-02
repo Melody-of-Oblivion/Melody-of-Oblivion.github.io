@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-02
+个人整理，长期更新。**最后编辑**：2022-11-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -69,7 +69,7 @@ permalink: /applist/
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine/releases) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor/releases) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app/releases) / [图压](https://tuya.xinxiao.tech/)
 
-​	图像放大：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/releases) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui/releases)
+​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/releases) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan/releases) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui/releases) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI/releases)
 
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
