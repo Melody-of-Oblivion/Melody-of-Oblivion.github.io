@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-03
+个人整理，长期更新。**最后编辑**：2022-11-06
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -140,6 +140,8 @@ permalink: /applist/
 ​	Flash：[CleanFlashPlayer](https://github.com/darktohka/clean-flash-builds/releases)
 
 ​	加速器：[UU](https://uu.163.com/) / [biubiu](https://www.biubiu001.com/windowsDownload/)
+
+​	虚拟光驱：[Daemon Tool](https://wwz.lanzouy.com/b01vzoqha) (2pxj)
 
 #### 4. 系统清理/美化工具
 
@@ -314,8 +316,6 @@ permalink: /applist/
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/)
 
 ​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh 密码:8e37)
-
-​	第三方贴吧客户端：[TiebaLite](https://wwz.lanzouy.com/b01vuifkb) (49ik)
 
 ---
 
