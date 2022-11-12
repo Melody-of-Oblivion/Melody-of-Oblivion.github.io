@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-08
+个人整理，长期更新。**最后编辑**：2022-11-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -90,6 +90,8 @@ permalink: /applist/
 #### 3. 娱乐相关
 
 ​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://imageglass.org/releases) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview/releases) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/) / [XnView](https://www.xnview.com/en/xnview/) / [nomacs](https://nomacs.org/download/) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures/releases) / [JPEGView-Image-Viewer-and-Editor](https://www.open-source.tech/JPEGView-Image-Viewer-and-Editor/) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
+
+​	图片管理软件：[Billfish](https://www.billfish.cn/download/) / [digiKam](https://www.digikam.org/download/) / [Allusion](https://github.com/allusion-app/Allusion/releases)
 
 ​	解码器：[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/)
 
