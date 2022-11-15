@@ -41,6 +41,8 @@ permalink: /applist/
 
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
+​	启动器：[Maye](https://github.com/25H/Maya/releases) / [MayeLite](https://github.com/25H/MayeLite/releases)
+
 #### 2. 编辑工具
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
