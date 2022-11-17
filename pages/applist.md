@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-16
+个人整理，长期更新。**最后编辑**：2022-11-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -159,7 +159,7 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases) / [ModernBoxes](https://gitee.com/MchBlog/modern-box/releases)
+​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases) / [ModernBoxes](https://gitee.com/MchBlog/modern-box/releases) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
 
 ​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
 
