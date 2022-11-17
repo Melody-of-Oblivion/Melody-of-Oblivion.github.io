@@ -33,7 +33,7 @@ permalink: /applist/
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
-​	快速搜索文件：[Everything](https://www.voidtools.com/zh-cn/downloads/)
+​	文件搜索：[Everything](https://www.voidtools.com/zh-cn/downloads/) / [Fluent Search](https://fluentsearch.net/)
 
 ​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch/releases) / [VeryCapture](https://verycapture.com/cn/download.html)
 
