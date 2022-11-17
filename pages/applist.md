@@ -147,6 +147,8 @@ permalink: /applist/
 
 ​	虚拟光驱：[Daemon Tool](https://wwz.lanzouy.com/b01vzoqha) (2pxj)
 
+​	3DS模拟器：[citra](https://citra-emu.org/download/)
+
 #### 4. 系统清理/美化工具
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer/releases)
