@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-17
+个人整理，长期更新。**最后编辑**：2022-11-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -85,7 +85,7 @@ permalink: /applist/
 
 ​	音源分离：[SpleeterGUI](https://makenweb.com/#spleetergui)
 
-​	文件缩小：[Leanify](https://github.com/JayXon/Leanify)
+​	文件缩小：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 
 ​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker/releases)
 
