@@ -441,4 +441,4 @@ permalink: /applist/
 
 [^1]: 网上可以搜学习方法。
 [^2]: 下载WithJava安装后可以删除自带的jre文件夹的内容，自行[下载](https://adoptium.net/zh-CN/temurin/releases/)新的JRE的zip压缩包替换。
-[^3 ]: Nougat是安卓7，Pie是安卓9。
+[^3]: Nougat是安卓7，Pie是安卓9。
