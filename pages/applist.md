@@ -421,7 +421,7 @@ permalink: /applist/
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
-​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [QSSB](https://qs.sb/) / [达龙短网址](https://s.011.run/)
+​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run/)
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
@@ -434,8 +434,6 @@ permalink: /applist/
 ​	软件替代：[AlternativeTo](https://alternativeto.net/)
 
 ​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/)
-
-​	检测网页更新：[Check酱](https://www.bilibili.com/video/BV1K94y1m7tt/)
 
 ​    
 
