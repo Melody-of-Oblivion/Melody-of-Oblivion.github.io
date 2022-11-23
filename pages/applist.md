@@ -155,7 +155,7 @@ permalink: /applist/
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
-​	任务栏透明化：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS/releases) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI/releases) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
+​	任务栏透明化：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS/releases) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI/releases) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases) / [草特码](https://gitee.com/xu-wanbin1/dll/releases)
 
 ​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
 
@@ -244,6 +244,8 @@ permalink: /applist/
 ​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
 
 ​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg/releases) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) / [V2rayN](https://github.com/2dust/v2rayN/releases)
+
+​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz/releases)
 
 #### 6. 下载器
 
@@ -389,7 +391,7 @@ permalink: /applist/
 
 #### 3. 工具
 
-​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/) / [一个工具箱](http://www.atoolbox.net/)
+​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/) / [一个工具箱](http://www.atoolbox.net/) / [刘明野的工具箱](https://tool.liumingye.cn/)
 
 ​	局域网传输文件：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/)
 
