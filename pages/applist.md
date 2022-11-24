@@ -407,8 +407,6 @@ permalink: /applist/
 
 ​	一站式产品设计工具：[MasterGo](https://mastergo.com/)
 
-​	平面设计工具：[Fotor](https://www.fotor.com.cn/)
-
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
 ​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/) / [BgSub](https://bgsub.cn/webapp/)
