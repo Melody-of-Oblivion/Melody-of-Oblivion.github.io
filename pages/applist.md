@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-23
+个人整理，长期更新。**最后编辑**：2022-11-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -29,7 +29,7 @@ permalink: /applist/
 
 ​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases) / [uTools](https://www.u.tools/) / [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 
-​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [GestureSign](https://zh.gesturesign.win/#/)
+​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [GestureSign](https://zh.gesturesign.win/#/) / [MouseInc](https://wwz.lanzouy.com/iyd8M0gr6y9i)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
@@ -327,7 +327,7 @@ permalink: /applist/
 
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/)
 
-​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh 密码:8e37)
+​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh) (8e37)
 
 ​	串流：[Moonlight](https://moonlight-stream.org/) / [SteamLink](https://store.steampowered.com/remoteplay)
 
