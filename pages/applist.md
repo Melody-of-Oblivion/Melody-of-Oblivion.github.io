@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-24
+个人整理，长期更新。**最后编辑**：2022-11-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -103,7 +103,7 @@ permalink: /applist/
 
 ​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [ZY-Player](https://github.com/Hunlongyu/ZY-Player/releases) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [KMPlayer](https://www.kmplayer.com/pc64x) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net/releases) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM/releases)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net/releases) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM/releases)
 
 ​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases) / [AIMP](http://www.aimp.ru/)
 
