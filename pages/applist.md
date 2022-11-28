@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-26
+个人整理，长期更新。**最后编辑**：2022-11-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -99,7 +99,7 @@ permalink: /applist/
 
 ​	解码器：[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/)
 
-​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/)
+​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/) / [VoceChat](https://doc.voce.chat/zh-cn/)
 
 ​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
 
