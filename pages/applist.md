@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-11-29
+个人整理，长期更新。**最后编辑**：2022-12-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -27,7 +27,7 @@ permalink: /applist/
 
 #### 1. 效率工具
 
-​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases) / [uTools](https://www.u.tools/) / [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
+​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases) / [uTools](https://www.u.tools/) / [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W) / [Rubick](https://github.com/rubickCenter/rubick/releases)
 
 ​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [GestureSign](https://zh.gesturesign.win/#/) / [MouseInc](https://wwz.lanzouy.com/iyd8M0gr6y9i)
 
