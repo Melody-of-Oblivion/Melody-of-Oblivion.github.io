@@ -279,6 +279,8 @@ permalink: /applist/
 
 ​	硬盘检测：[CrystalDiskInfo](http://crystalmark.info/ja/software/crystaldiskinfo/)
 
+​	磁盘空间分析：[WizTree](https://antibody-software.com/)
+
 ​	系统信息查看：[AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b)
 
 ​	CPU监控工具：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
