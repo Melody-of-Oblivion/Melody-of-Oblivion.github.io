@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-12-02
+个人整理，长期更新。**最后编辑**：2022-12-04
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -53,7 +53,7 @@ permalink: /applist/
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4)
+​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor/releases)
 
 ​	笔记软件：[Obsidian](https://obsidian.md/) / [思源笔记](https://b3log.org/siyuan/download.html) / [joplin](https://github.com/laurent22/joplin/releases)
 
