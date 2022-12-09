@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-12-06
+个人整理，长期更新。**最后编辑**：2022-12-09
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -257,7 +257,7 @@ permalink: /applist/
 
 ​	视频下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi/releases) / [B23Downloader](https://github.com/vooidzero/B23Downloader/releases) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload/releases) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader/releases)
 
-​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
+​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases) / [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/releases)
 
 ​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk/releases)
 
@@ -327,7 +327,7 @@ permalink: /applist/
 
 ​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe/releases)
 
-​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases)
+​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases) / [MangaReader](https://github.com/youniaogu/MangaReader/releases)
 
 ​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/)
 
