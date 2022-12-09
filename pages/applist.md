@@ -397,7 +397,7 @@ permalink: /applist/
 
 #### 3. 工具
 
-​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/) / [一个工具箱](http://www.atoolbox.net/) / [刘明野的工具箱](https://tool.liumingye.cn/)
+​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/) / [一个工具箱](http://www.atoolbox.net/) / [刘明野的工具箱](https://tool.liumingye.cn/) / [即时工具](https://www.67tool.com/)
 
 ​	局域网传输文件：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/)
 
