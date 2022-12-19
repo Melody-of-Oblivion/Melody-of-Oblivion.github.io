@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-12-16
+个人整理，长期更新。**最后编辑**：2022-12-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -67,7 +67,7 @@ permalink: /applist/
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
-​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases)
+​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases) / [kaf-cli](https://github.com/ystyle/kaf-cli)
 
 ​	流程图绘制：[drawio-desktop](https://github.com/jgraph/drawio-desktop/releases)
 
