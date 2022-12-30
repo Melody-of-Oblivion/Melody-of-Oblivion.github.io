@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2022-12-26
+个人整理，长期更新。**最后编辑**：2022-12-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -101,7 +101,7 @@ permalink: /applist/
 
 ​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/) / [VoceChat](https://doc.voce.chat/zh-cn/)
 
-​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop/releases) / [Telegreat](https://telegre.at/#download)
+​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop/releases)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net/releases) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM/releases)
 
@@ -120,6 +120,8 @@ permalink: /applist/
 ​	Gal提取：[GARbro](https://github.com/morkt/GARbro/releases)
 
 ​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
+
+​	游戏管理器：[Playnite](https://playnite.link/) / [PlayniteVndb](https://github.com/Mithnar/PlayniteVndb)
 
 ​	RSS阅读器：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
