@@ -265,7 +265,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [NoxPlayer](https://www.bignox.com/) / [蓝叠国际版](https://www.bluestacks.com/download.html)[^3]
+​	手游模拟器：[MuMu模拟器](https://mumu.163.com/update/win/) / [NoxPlayer](https://www.bignox.com/) / [蓝叠国际版](https://www.bluestacks.com/download.html)
 
 ​	Hyper-V检测：[CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/)
 
@@ -449,4 +449,3 @@ permalink: /applist/
 
 [^1]: 网上可以搜学习方法。
 [^2]: 下载WithJava安装后可以删除自带的jre文件夹的内容，自行[下载](https://adoptium.net/zh-CN/temurin/releases/)新的JRE的zip压缩包替换。
-[^3]: Nougat是安卓7，Pie是安卓9。
