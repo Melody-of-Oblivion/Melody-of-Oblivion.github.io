@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-01-16
+个人整理，长期更新。**最后编辑**：2023-01-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -51,7 +51,9 @@ permalink: /applist/
 
 ​	像素画：[Aseprite](https://github.com/aseprite/aseprite/releases) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama/releases)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Notepad--](https://gitee.com/cxasm/notepad--/releases)
+
+​	文本编辑器：[Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases) / [Notepad Next](https://github.com/dail8859/NotepadNext/releases)
 
 ​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor/releases)
 
@@ -80,8 +82,6 @@ permalink: /applist/
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
-
-​	文本编辑器：[Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases) / [Notepad Next](https://github.com/dail8859/NotepadNext/releases)
 
 ​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu/releases)
 
