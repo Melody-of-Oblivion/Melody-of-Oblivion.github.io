@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-01-18
+个人整理，长期更新。**最后编辑**：2023-01-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -65,7 +65,7 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [Edgeless](https://home.edgeless.top/#download) / [HotPE](https://www.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://www.bilibilicmd.cf/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](https://www.fengpe.cn/)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [Edgeless](https://home.edgeless.top/#download) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](https://www.fengpe.cn/)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
