@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-01-20
+个人整理，长期更新。**最后编辑**：2023-01-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -51,21 +51,19 @@ permalink: /applist/
 
 ​	像素画：[Aseprite](https://github.com/aseprite/aseprite/releases) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama/releases)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Notepad--](https://gitee.com/cxasm/notepad--/releases)
-
-​	文本编辑器：[Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases) / [Notepad Next](https://github.com/dail8859/NotepadNext/releases)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases) / [Notepad Next](https://github.com/dail8859/NotepadNext/releases) / [Notepad--](https://gitee.com/cxasm/notepad--/releases)
 
 ​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor/releases)
 
 ​	笔记软件：[Obsidian](https://obsidian.md/) / [思源笔记](https://b3log.org/siyuan/download.html) / [joplin](https://github.com/laurent22/joplin/releases)
 
-​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
+​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download/)
 
 ​	Office：[FreeOffice](https://www.freeoffice.com/) / [LibreOffice](https://zh-cn.libreoffice.org/)
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [Edgeless](https://home.edgeless.top/#download) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](https://www.fengpe.cn/)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](https://www.fengpe.cn/)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
