@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-01-22
+个人整理，长期更新。**最后编辑**：2023-01-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -103,13 +103,13 @@ permalink: /applist/
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net/releases) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM/releases)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases) / [Streamlabs](https://streamlabs.com/)
 
 ​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html)
 
-​	阅读器：[Calibre](https://calibre-ebook.com/download) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken)
+​	阅读器：[Calibre](https://github.com/kovidgoyal/calibre/releases/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken)
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases) / [ErogeHelper](https://github.com/ErogeHelper/ErogeHelper/releases) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator/releases) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
 
@@ -179,8 +179,6 @@ permalink: /applist/
 
 ​	音量调节：[Volume²](https://github.com/irzyxa/Volume2/releases) / [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts/releases) / [EarTrumpet](https://eartrumpet.app/)
 
-​	hosts管理：[SwitchHosts](https://swh.app/)
-
 #### 5. 实用软件
 
 ​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
@@ -248,6 +246,8 @@ permalink: /applist/
 ​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg/releases) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) / [V2rayN](https://github.com/2dust/v2rayN/releases)
 
 ​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz/releases)
+
+​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts/releases)
 
 #### 6. 下载器
 
