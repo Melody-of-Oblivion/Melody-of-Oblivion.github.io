@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-01-25
+个人整理，长期更新。**最后编辑**：2023-01-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -242,6 +242,8 @@ permalink: /applist/
 ​	获取窗口句柄：[Spy++](https://wwz.lanzouy.com/i9Dbo0bobx5a)
 
 ​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
+
+​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager/releases)
 
 ​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg/releases) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) / [V2rayN](https://github.com/2dust/v2rayN/releases)
 
