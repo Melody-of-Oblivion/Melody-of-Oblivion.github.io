@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-01-28
+个人整理，长期更新。**最后编辑**：2023-01-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -171,7 +171,7 @@ permalink: /applist/
 
 ​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
-​	文件资源管理器：[Files](https://files.community/)
+​	文件资源管理器：[Files](https://files.community/download)
 
 ​	窗口隐藏：[Invisiwind](https://github.com/radiantly/Invisiwind/releases) / [WindowSharingHider](https://github.com/shalzuth/WindowSharingHider/releases)
 
@@ -250,6 +250,8 @@ permalink: /applist/
 ​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz/releases)
 
 ​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts/releases)
+
+​	包管理器：[WingetUI](https://github.com/marticliment/WingetUI/releases)
 
 #### 6. 下载器
 
