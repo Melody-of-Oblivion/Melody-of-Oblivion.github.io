@@ -183,11 +183,9 @@ permalink: /applist/
 
 ​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
 
-​	关闭Chrome开发者模式警告：[Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher/releases)
-
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
-​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip) / [SmartZip](https://github.com/vvyoko/SmartZip/releases)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
