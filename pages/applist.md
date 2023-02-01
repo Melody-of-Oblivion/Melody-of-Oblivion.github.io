@@ -149,6 +149,8 @@ permalink: /applist/
 
 ​	3DS模拟器：[citra](https://citra-emu.org/download/)
 
+​	NS模拟器：[Ryujinx](https://ryujinx.org/download) / [yuzu](https://yuzu-emu.org/downloads/)
+
 #### 4. 系统清理/美化工具
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer/releases)
