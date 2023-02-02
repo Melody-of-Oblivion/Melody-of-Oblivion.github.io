@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-01
+个人整理，长期更新。**最后编辑**：2023-02-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -107,7 +107,7 @@ permalink: /applist/
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases) / [Streamlabs](https://streamlabs.com/)
 
-​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html)
+​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch/releases)
 
 ​	阅读器：[Calibre](https://github.com/kovidgoyal/calibre/releases/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken)
 
