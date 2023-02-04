@@ -319,6 +319,10 @@ permalink: /applist/
 
 ​	代理：[V2rayNG](https://github.com/2dust/v2rayNG/releases) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
 
+​	手机作电脑麦克风：[WO Mic](https://wolicheng.com/womic/)
+
+​	手机作电脑摄像头：[DroidCam](https://www.dev47apps.com/)
+
 #### 2. 娱乐
 
 ​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
