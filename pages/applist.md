@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-02
+个人整理，长期更新。**最后编辑**：2023-02-04
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -187,7 +187,7 @@ permalink: /applist/
 
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
-​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [7-Zip](https://www.7-zip.org/download.html) / [Peazip](https://peazip.github.io/) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [NanaZip](https://github.com/M2Team/NanaZip) / [SmartZip](https://github.com/vvyoko/SmartZip/releases)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [Peazip](https://peazip.github.io/) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip/releases)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
