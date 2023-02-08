@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-07
+个人整理，长期更新。**最后编辑**：2023-02-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -59,7 +59,7 @@ permalink: /applist/
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download/)
 
-​	Office：[FreeOffice](https://www.freeoffice.com/) / [LibreOffice](https://zh-cn.libreoffice.org/)
+​	Office：[FreeOffice](https://www.freeoffice.com/) / [LibreOffice](https://zh-cn.libreoffice.org/) / [OnlyOffice](https://www.onlyoffice.com/zh/download-docs.aspx?from=default)
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
