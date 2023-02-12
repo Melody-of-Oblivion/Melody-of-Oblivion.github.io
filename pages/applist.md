@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-11
+个人整理，长期更新。**最后编辑**：2023-02-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -356,6 +356,8 @@ permalink: /applist/
 ​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)
 
 ​	英语句子分析：[Enpuz](http://enpuz.com/)
+
+​	打字练习：[Qwerty Learner](https://qwerty.kaiyi.cool/)
 
 ​	看板：[Personal Kanban](https://personalkanban.js.org/) / [Trello](https://trello.com/home)
 
