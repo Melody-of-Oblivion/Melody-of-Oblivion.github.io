@@ -79,6 +79,8 @@ permalink: /applist/
 
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
+​	图片拼接：[Batch Image Combiner](https://bggenerator.com/batch_image_combiner.html)
+
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
 ​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu/releases)
