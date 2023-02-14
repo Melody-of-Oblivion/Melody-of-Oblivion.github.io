@@ -5,11 +5,11 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-13
+个人整理，长期更新。**最后编辑**：2023-02-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
-更多好用的软件可见：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+更多好用的软件：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 ---
 
@@ -197,7 +197,7 @@ permalink: /applist/
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
-​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [Hibit Uninstaller](https://hibitsoft.ir/Uninstaller.html)
+​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [Hibit Uninstaller](https://hibitsoft.ir/Uninstaller.html) / [UninstallView](https://www.nirsoft.net/utils/uninstall_view.html)
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
