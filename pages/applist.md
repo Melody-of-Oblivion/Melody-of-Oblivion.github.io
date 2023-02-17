@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-14
+个人整理，长期更新。**最后编辑**：2023-02-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -229,7 +229,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie/releases)
 
-​	局域网传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases) / [netSend](https://github.com/williamnie/netSend/releases) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases) / [netSend](https://github.com/williamnie/netSend/releases) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP/releases) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
@@ -326,6 +326,8 @@ permalink: /applist/
 ​	手机作电脑麦克风：[WO Mic](https://wolicheng.com/womic/)
 
 ​	手机作电脑摄像头：[DroidCam](https://www.dev47apps.com/)
+
+​	局域网文件传输：[文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer)
 
 #### 2. 娱乐
 
