@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-17
+个人整理，长期更新。**最后编辑**：2023-02-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -105,13 +105,13 @@ permalink: /applist/
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net/releases) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM/releases)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/) / [Dopamine](https://github.com/digimezzo/dopamine-windows/releases)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases) / [Streamlabs](https://streamlabs.com/)
 
 ​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch/releases)
 
-​	阅读器：[Calibre](https://github.com/kovidgoyal/calibre/releases/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken)
+​	阅读器：[Calibre](https://github.com/kovidgoyal/calibre/releases/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download)
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases) / [ErogeHelper](https://github.com/ErogeHelper/ErogeHelper/releases) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator/releases) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
 
@@ -333,7 +333,7 @@ permalink: /applist/
 
 ​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
 
-​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android) / [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) / [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)
+​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android) / [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) / [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader) / [开源阅读](https://gedoor.github.io/)
 
 ​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
 
@@ -341,7 +341,7 @@ permalink: /applist/
 
 ​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases) / [MangaReader](https://github.com/youniaogu/MangaReader/releases)
 
-​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/) / [Auxio](https://github.com/OxygenCobalt/Auxio/releases) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://play.google.com/store/apps/details?id=remix.myplayer) / [Eddict Player](https://shanling.com/download/76)
+​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/) / [Auxio](https://github.com/OxygenCobalt/Auxio/releases) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://github.com/rRemix/APlayer/releases) / [Eddict Player](https://shanling.com/download/76)
 
 ​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh) (8e37)
 
