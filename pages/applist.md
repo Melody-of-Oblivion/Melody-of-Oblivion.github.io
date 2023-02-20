@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-19
+个人整理，长期更新。**最后编辑**：2023-02-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -161,6 +161,8 @@ permalink: /applist/
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
+​	屏幕色温调节：[f.lux](https://justgetflux.com/)
+
 ​	任务栏透明化：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS/releases) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI/releases) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases) / [草特码](https://gitee.com/xu-wanbin1/dll/releases)
 
 ​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
@@ -192,8 +194,6 @@ permalink: /applist/
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
 ​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [Peazip](https://peazip.github.io/) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip/releases)
-
-​	屏幕色温调节：[f.lux](https://justgetflux.com/) / [LightBulb](https://github.com/Tyrrrz/LightBulb/releases)
 
 ​	提示休息：[Stretchly](https://github.com/hovancik/stretchly/releases)
 
