@@ -91,7 +91,7 @@ document.addEventListener('mouseup', () => {
 
 按下组合的按键后会再次获取当前选取的文本内容，当不为空且不包含换行符时触发。
 
-​    
+----
 
 使用前先删除原先安装的 MOJiDict Helper，再以开发者模式加载解压缩的扩展。
 
