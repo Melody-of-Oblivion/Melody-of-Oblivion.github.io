@@ -223,7 +223,7 @@ permalink: /applist/
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
-​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro/releases) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/releases) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab/releases) / [gImageReader](https://github.com/manisandro/gImageReader/releases)
+​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro/releases) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/releases) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab/releases) / [gImageReader](https://github.com/manisandro/gImageReader/releases) / [dpscreenocr](https://github.com/danpla/dpscreenocr/releases)
 
 ​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
 
