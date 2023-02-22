@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-21
+个人整理，长期更新。**最后编辑**：2023-02-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -114,6 +114,8 @@ permalink: /applist/
 ​	阅读器：[Calibre](https://github.com/kovidgoyal/calibre/releases/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download)
 
 ​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases) / [ErogeHelper](https://github.com/ErogeHelper/ErogeHelper/releases) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator/releases) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
+
+​	OCR翻译：[有道词典](https://cidian.youdao.com/index.html#/)
 
 ​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
 
