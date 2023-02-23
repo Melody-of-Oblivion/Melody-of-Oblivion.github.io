@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-22
+个人整理，长期更新。**最后编辑**：2023-02-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -118,6 +118,8 @@ permalink: /applist/
 ​	OCR翻译：[有道词典](https://cidian.youdao.com/index.html#/)
 
 ​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
+
+​	剪贴板翻译：[CopyTranslator](https://copytranslator.github.io/download/#%E4%B8%8B%E8%BD%BD)
 
 ​	Gal提取：[GARbro](https://github.com/morkt/GARbro/releases)
 
