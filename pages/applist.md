@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-02-23
+个人整理，长期更新。**最后编辑**：2023-02-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -260,6 +260,8 @@ permalink: /applist/
 ​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts/releases)
 
 ​	包管理器：[WingetUI](https://github.com/marticliment/WingetUI/releases)
+
+​	私人微博：[flomo](https://flomoapp.com/) / [memos](https://github.com/usememos/memos)
 
 #### 6. 下载器
 
