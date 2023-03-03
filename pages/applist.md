@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-03-02
+个人整理，长期更新。**最后编辑**：2023-03-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -393,7 +393,7 @@ permalink: /applist/
 
 #### 2. 资源
 
-​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/)
+​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/) / [识字体网](https://www.likefont.com/)
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
