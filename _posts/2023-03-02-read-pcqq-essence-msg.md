@@ -68,3 +68,4 @@ https://qun.qq.com/essence/indexPc?gc=群号
 
 添加脚本刷新网页后，左下标识 **“群精华消息”**(`https://qun.qq.com/`) 或 **“哔哩哔哩”**(`https://b23.tv/`) 的精华消息就能直接点击在新标签页打开了。如果有其他的也能在js代码中再添加。
 
+点击 [直接安装](https://gist.github.com/monSteRhhe/3e87c159959beda93099158938a671ec/raw/a575fdddf6033998c45a9ab7f8c77314e66ba843/pcqq-essence-msg-fix.user.js)
