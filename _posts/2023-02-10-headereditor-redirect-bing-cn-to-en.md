@@ -1,5 +1,6 @@
 ---
 title: 使用国际版bing而不切换为cn版
+editdate: 2023-03-05
 ---
 
 先要安装 Header Editor 扩展
@@ -35,12 +36,12 @@ x-forward-for
 匹配类型选择 `正则表达式`，匹配规则输入
 
 ```
-^http(s?)://cn\.?bing\.com/(.*)$
+^https?://cn\.?bing\.com/(.*)$
 ```
 
 执行类型选 `常规`，重定向至 填入
 
 ```
-https://www.bing.com/$2
+https://www.bing.com/$1
 ```
 
