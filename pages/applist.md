@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-03-03
+个人整理，长期更新。**最后编辑**：2023-03-07
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -432,6 +432,8 @@ permalink: /applist/
 ​	一站式产品设计工具：[MasterGo](https://mastergo.com/)
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
+
+​	Excel工具：[ChatExcel](https://chatexcel.com/)
 
 ​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/) / [BgSub](https://bgsub.cn/webapp/)
 
