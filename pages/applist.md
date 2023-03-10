@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-03-07
+个人整理，长期更新。**最后编辑**：2023-03-10
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -27,35 +27,35 @@ permalink: /applist/
 
 #### 1. 效率工具
 
-​	工具集：[PowerToys](https://github.com/microsoft/PowerToys/releases) / [uTools](https://www.u.tools/) / [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W) / [Rubick](https://github.com/rubickCenter/rubick/releases) / [He3](https://he3.app/)
+​	工具集：[PowerToys](https://github.com/microsoft/PowerToys) / [uTools](https://www.u.tools/) / [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W) / [Rubick](https://github.com/rubickCenter/rubick) / [He3](https://he3.app/)
 
-​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners/releases) / [GestureSign](https://zh.gesturesign.win/#/) / [MouseInc](https://wwz.lanzouy.com/iyd8M0gr6y9i)
+​	鼠标手势/触发角/摩擦边：[WGestures](http://www.yingdev.com/projects/wgestures) / [StrokesPlus.net](https://www.strokesplus.net/Downloads) / [WinXcorners](https://github.com/vhanla/winxcorners) / [GestureSign](https://zh.gesturesign.win/#/) / [MouseInc](https://wwz.lanzouy.com/iyd8M0gr6y9i)
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
 ​	文件搜索：[Everything](https://www.voidtools.com/zh-cn/downloads/) / [Fluent Search](https://fluentsearch.net/)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch/releases) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm)
 
 ​	文件复制：[FastCopy](https://fastcopy.jp/)
 
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
-​	启动器：[Maye](https://github.com/25H/Maya/releases) / [MayeLite](https://github.com/25H/MayeLite/releases)
+​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite)
 
-​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook/releases)
+​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
 #### 2. 编辑工具
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
 
-​	像素画：[Aseprite](https://github.com/aseprite/aseprite/releases) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama/releases)
+​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads/releases) / [Notepad3](https://github.com/rizonesoft/Notepad3/releases) / [Notepad Next](https://github.com/dail8859/NotepadNext/releases) / [Notepad--](https://gitee.com/cxasm/notepad--/releases) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2/releases)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr/releases) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter/releases) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor/releases)
+​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor)
 
-​	笔记软件：[Obsidian](https://obsidian.md/) / [思源笔记](https://b3log.org/siyuan/download.html) / [joplin](https://github.com/laurent22/joplin/releases)
+​	笔记软件：[Obsidian](https://obsidian.md/) / [思源笔记](https://b3log.org/siyuan/download.html) / [joplin](https://github.com/laurent22/joplin)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download/)
 
@@ -63,19 +63,19 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy/releases) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](https://www.fengpe.cn/)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
-​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil/releases) / [kaf-cli](https://github.com/ystyle/kaf-cli)
+​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil) / [kaf-cli](https://github.com/ystyle/kaf-cli)
 
-​	流程图绘制：[drawio-desktop](https://github.com/jgraph/drawio-desktop/releases)
+​	流程图绘制：[drawio-desktop](https://github.com/jgraph/drawio-desktop)
 
-​	图像工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit/releases)
+​	图像工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit)
 
-​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine/releases) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor/releases) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app/releases) / [图压](https://tuya.xinxiao.tech/)
+​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/)
 
-​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/releases) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan/releases) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui/releases) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI/releases)
+​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI)
 
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
@@ -83,55 +83,55 @@ permalink: /applist/
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
-​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu/releases)
+​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 
 ​	音源分离：[SpleeterGUI](https://makenweb.com/#spleetergui)
 
 ​	文件缩小：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 
-​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker/releases)
+​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker)
 
 #### 3. 娱乐相关
 
-​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/releases) / [PicView](https://github.com/Ruben2776/PicView/releases) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://imageglass.org/releases) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview/releases) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/) / [XnView](https://www.xnview.com/en/xnview/) / [nomacs](https://nomacs.org/download/) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures/releases) / [JPEGView-Image-Viewer-and-Editor](https://www.open-source.tech/JPEGView-Image-Viewer-and-Editor/) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
+​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/) / [XnView](https://www.xnview.com/en/xnview/) / [nomacs](https://nomacs.org/download/) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Image-Viewer-and-Editor](https://www.open-source.tech/JPEGView-Image-Viewer-and-Editor/) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
 
-​	素材管理工具：[Billfish](https://www.billfish.cn/download/) / [digiKam](https://www.digikam.org/download/) / [Allusion](https://github.com/allusion-app/Allusion/releases) / [Eagle 1.8.2](https://wwvc.lanzouy.com/iq8oz0iuz34b) / [零泉](https://lingquan.cool/home)
+​	素材管理工具：[Billfish](https://www.billfish.cn/download/) / [digiKam](https://www.digikam.org/download/) / [Allusion](https://github.com/allusion-app/Allusion) / [Eagle 1.8.2](https://wwvc.lanzouy.com/iq8oz0iuz34b) / [零泉](https://lingquan.cool/home)
 
 ​	解码器：[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/)
 
 ​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/) / [VoceChat](https://doc.voce.chat/zh-cn/)
 
-​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop/releases)
+​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay/releases) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net/releases) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM/releases)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop/releases) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic/releases) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn/releases) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/) / [Dopamine](https://github.com/digimezzo/dopamine-windows/releases)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/) / [Dopamine](https://github.com/digimezzo/dopamine-windows)
 
-​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura/releases) / [Streamlabs](https://streamlabs.com/)
+​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura) / [Streamlabs](https://streamlabs.com/)
 
-​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch/releases)
+​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch)
 
-​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre/releases/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download)
+​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download)
 
 ​	PDF阅读器：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com/index.html)
 
-​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI/releases) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator/releases) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator/releases) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator/releases) / [ErogeHelper](https://github.com/ErogeHelper/ErogeHelper/releases) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator/releases) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
+​	Gal生肉翻译器：[YUKI](https://github.com/project-yuki/YUKI) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator) / [ErogeHelper](https://github.com/ErogeHelper/ErogeHelper) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
 
 ​	OCR翻译：[有道词典](https://cidian.youdao.com/index.html#/)
 
-​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder/releases) / [Textractor](https://github.com/Artikash/Textractor/releases)
+​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder) / [Textractor](https://github.com/Artikash/Textractor)
 
 ​	剪贴板翻译：[CopyTranslator](https://copytranslator.github.io/download/#%E4%B8%8B%E8%BD%BD)
 
-​	Gal提取：[GARbro](https://github.com/morkt/GARbro/releases)
+​	Gal提取：[GARbro](https://github.com/morkt/GARbro)
 
-​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator/releases)
+​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
 
 ​	游戏管理器：[Playnite](https://playnite.link/) / [PlayniteVndb](https://github.com/Mithnar/PlayniteVndb)
 
-​	RSS阅读器：[Fluent Reader](https://github.com/yang991178/fluent-reader/releases) / [Homura](https://github.com/Saul-Mirone/homura/releases) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
+​	RSS阅读器：[Fluent Reader](https://github.com/yang991178/fluent-reader) / [Homura](https://github.com/Saul-Mirone/homura) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
-​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases) / [Gif123](https://gif123.aardio.com/)
+​	gif录制工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif) / [Gif123](https://gif123.aardio.com/)
 
 ​	B站直播录制：[B站录播姬](https://rec.danmuji.org/) / [B站录播机](http://live.weibo333.com/#)
 
@@ -147,9 +147,9 @@ permalink: /applist/
 
 ​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
 
-​	Epic第三方客户端：[Legendary](https://github.com/derrod/legendary/releases) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads) / [Rare](https://github.com/Dummerle/Rare) / [HEIRLOOM](https://github.com/AutumnRivers/heirloom)
+​	Epic第三方客户端：[Legendary](https://github.com/derrod/legendary) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads) / [Rare](https://github.com/Dummerle/Rare) / [HEIRLOOM](https://github.com/AutumnRivers/heirloom)
 
-​	Flash：[CleanFlashPlayer](https://github.com/darktohka/clean-flash-builds/releases)
+​	Flash：[CleanFlashPlayer](https://github.com/darktohka/clean-flash-builds)
 
 ​	加速器：[UU](https://uu.163.com/) / [biubiu](https://www.biubiu001.com/windowsDownload/)
 
@@ -163,45 +163,45 @@ permalink: /applist/
 
 #### 4. 系统清理/美化工具
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer/releases)
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer)
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/)
 
-​	任务栏透明化：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS/releases) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI/releases) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases) / [草特码](https://gitee.com/xu-wanbin1/dll/releases)
+​	任务栏透明化：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [草特码](https://gitee.com/xu-wanbin1/dll)
 
-​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively/releases)
+​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively)
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
 
-​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases) / [ModernBoxes](https://gitee.com/MchBlog/modern-box/releases) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
+​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases) / [ModernBoxes](https://gitee.com/MchBlog/modern-box) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
 
-​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/releases)
+​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku)
 
-​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify/releases)
+​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify)
 
-​	win11透明磨砂：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
+​	win11透明磨砂：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
 
-​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar/releases) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
+​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
 ​	文件资源管理器：[Files](https://files.community/download)
 
-​	窗口隐藏：[Invisiwind](https://github.com/radiantly/Invisiwind/releases) / [WindowSharingHider](https://github.com/shalzuth/WindowSharingHider/releases)
+​	窗口隐藏：[Invisiwind](https://github.com/radiantly/Invisiwind) / [WindowSharingHider](https://github.com/shalzuth/WindowSharingHider)
 
 ​	win服务管理：[WPD](https://wpd.app/) / [Easy Service Optimizer](https://www.sordum.org/8637/easy-service-optimizer-v1-2/)
 
-​	音量调节：[Volume²](https://github.com/irzyxa/Volume2/releases) / [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts/releases) / [EarTrumpet](https://eartrumpet.app/)
+​	音量调节：[Volume²](https://github.com/irzyxa/Volume2) / [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) / [EarTrumpet](https://eartrumpet.app/)
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
 
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
-​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [Peazip](https://peazip.github.io/) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/releases) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip/releases)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [Peazip](https://peazip.github.io/) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip)
 
-​	提示休息：[Stretchly](https://github.com/hovancik/stretchly/releases)
+​	提示休息：[Stretchly](https://github.com/hovancik/stretchly)
 
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
@@ -211,11 +211,11 @@ permalink: /applist/
 
 ​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
 
-​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download/) / [Swifty](https://getswifty.pro/) / [KeepassXC](https://github.com/keepassxreboot/keepassxc/releases)
+​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download/) / [Swifty](https://getswifty.pro/) / [KeepassXC](https://github.com/keepassxreboot/keepassxc)
 
 ​	单文件封装工具：[Enigma Virtual Box](https://www.enigmaprotector.com/en/downloads.html)
 
-​	远程协助/串流：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en) / [Parsec](https://parsec.app/downloads) / [Rustdesk](https://github.com/rustdesk/rustdesk/releases) / [Moonlight](https://moonlight-stream.org/) / [SteamLink](https://store.steampowered.com/remoteplay)
+​	远程协助/串流：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en) / [Parsec](https://parsec.app/downloads) / [Rustdesk](https://github.com/rustdesk/rustdesk) / [Moonlight](https://moonlight-stream.org/) / [SteamLink](https://store.steampowered.com/remoteplay)
 
 ​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/)
 
@@ -227,53 +227,53 @@ permalink: /applist/
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
-​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl/releases) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro/releases) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/releases) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab/releases) / [gImageReader](https://github.com/manisandro/gImageReader/releases) / [dpscreenocr](https://github.com/danpla/dpscreenocr/releases)
+​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab) / [gImageReader](https://github.com/manisandro/gImageReader) / [dpscreenocr](https://github.com/danpla/dpscreenocr)
 
 ​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
 
-​	Gist：[Lepton](https://github.com/hackjutsu/Lepton/releases)
+​	Gist：[Lepton](https://github.com/hackjutsu/Lepton)
 
-​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie/releases)
+​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass/releases) / [netSend](https://github.com/williamnie/netSend/releases) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop/releases)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop)
 
-​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP/releases) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
+​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
-​	服务器SSH终端：[Electerm](https://github.com/electerm/electerm/releases) / [NxShell](https://github.com/nxshell/nxshell/releases) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
+​	服务器SSH终端：[Electerm](https://github.com/electerm/electerm) / [NxShell](https://github.com/nxshell/nxshell) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
-​	文件服务器：[miniserve](https://github.com/svenstaro/miniserve/releases) / [hfs](https://github.com/rejetto/hfs/releases) / [chfs](http://iscute.cn/chfs)
+​	文件服务器：[miniserve](https://github.com/svenstaro/miniserve) / [hfs](https://github.com/rejetto/hfs) / [chfs](http://iscute.cn/chfs)
 
-​	复制粘贴中转：[DropPoint](https://github.com/GameGodS3/DropPoint/releases)
+​	复制粘贴中转：[DropPoint](https://github.com/GameGodS3/DropPoint)
 
 ​	字体管理：[nexusfont](https://www.xiles.app/)
 
-​	背单词：[ToastFish](https://github.com/Uahh/ToastFish/releases)
+​	背单词：[ToastFish](https://github.com/Uahh/ToastFish)
 
 ​	获取窗口句柄：[Spy++](https://wwz.lanzouy.com/i9Dbo0bobx5a)
 
 ​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
 
-​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager/releases)[^2] 
+​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager)[^2] 
 
-​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg/releases) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch/releases) / [V2rayN](https://github.com/2dust/v2rayN/releases)
+​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch) / [V2rayN](https://github.com/2dust/v2rayN)
 
-​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz/releases)
+​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz)
 
-​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts/releases)
+​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-​	包管理器：[WingetUI](https://github.com/marticliment/WingetUI/releases)
+​	包管理器：[WingetUI](https://github.com/marticliment/WingetUI)
 
 ​	私人微博：[flomo](https://flomoapp.com/) / [memos](https://github.com/usememos/memos)
 
 #### 6. 下载器
 
-​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) / [Aria2](https://github.com/aria2/aria2/releases) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT/releases)[^3] / [LIII](https://github.com/aliakseis/LIII/releases) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent/releases) / [XDM](https://github.com/subhra74/xdm-experimental-binaries/releases)
+​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^3] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries)
 
-​	视频下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown/releases) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi/releases) / [B23Downloader](https://github.com/vooidzero/B23Downloader/releases) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload/releases) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader/releases)
+​	视频下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi) / [B23Downloader](https://github.com/vooidzero/B23Downloader) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader)
 
-​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases) / [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/releases)
+​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) / [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
 
-​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui/releases) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk/releases)
+​	第三方蓝奏客户端：[lanzou-gui](https://github.com/rachpt/lanzou-gui) / [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk)
 
 #### 7. 虚拟机
 
@@ -285,7 +285,7 @@ permalink: /applist/
 
 ​	手机模拟器：[Genymotion](https://www.genymotion.com/)
 
-​	沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases)
+​	沙箱：[Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
 
 #### 8. 信息查看
 
@@ -301,7 +301,7 @@ permalink: /applist/
 
 ​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
 
-​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) / [XMeters](https://entropy6.com/xmeters/download/) / [TrayS](https://github.com/cgbsmy/TrayS/releases)
+​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) / [XMeters](https://entropy6.com/xmeters/download/) / [TrayS](https://github.com/cgbsmy/TrayS)
 
 ---
 
@@ -313,13 +313,13 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	记账：[expenses](https://github.com/nominalista/expenses/releases) / [鲨鱼记账](http://www.shayujizhang.com/) / [Timi记账](https://www.coolapk.com/apk/13621)
+​	记账：[expenses](https://github.com/nominalista/expenses) / [鲨鱼记账](http://www.shayujizhang.com/) / [Timi记账](https://www.coolapk.com/apk/13621)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
 ​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
 
-​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android/releases) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi/releases)
+​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 
 ​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/) / [Kiwi Browser](https://kiwibrowser.com/) / [雨见浏览器](https://www.yjllq.com/) / [狐猴浏览器](https://lemurbrowser.com/app/zh/index.html)
 
@@ -329,27 +329,27 @@ permalink: /applist/
 
 ​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer) / [质感文件](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/) / [MiXplorer](https://mixplorer.com/#intro)
 
-​	代理：[V2rayNG](https://github.com/2dust/v2rayNG/releases) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
+​	代理：[V2rayNG](https://github.com/2dust/v2rayNG) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
 ​	手机作电脑麦克风：[WO Mic](https://wolicheng.com/womic/)
 
 ​	手机作电脑摄像头：[DroidCam](https://www.dev47apps.com/)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile/releases)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile)
 
 #### 2. 娱乐
 
-​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/releases/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter/releases)
+​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
 
 ​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android) / [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) / [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader) / [开源阅读](https://gedoor.github.io/)
 
-​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite/releases)
+​	RSS阅读器：[fluent reader lite](https://github.com/yang991178/fluent-reader-lite)
 
-​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe/releases)
+​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe)
 
-​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter/releases) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases) / [MangaReader](https://github.com/youniaogu/MangaReader/releases)
+​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [MangaReader](https://github.com/youniaogu/MangaReader) / [aniyomi](https://github.com/jmir1/aniyomi)
 
-​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/) / [Auxio](https://github.com/OxygenCobalt/Auxio/releases) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://github.com/rRemix/APlayer/releases) / [Eddict Player](https://shanling.com/download/76)
+​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/) / [Auxio](https://github.com/OxygenCobalt/Auxio) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://github.com/rRemix/APlayer) / [Eddict Player](https://shanling.com/download/76)
 
 ​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh) (8e37)
 
