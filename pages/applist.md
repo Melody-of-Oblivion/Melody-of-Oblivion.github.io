@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-03-12
+个人整理，长期更新。**最后编辑**：2023-03-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -146,6 +146,8 @@ permalink: /applist/
 ​	Steam工具箱：[Watt Toolkit](https://steampp.net/)
 
 ​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
+
+​	漫画下载器：[HakuNeko](https://github.com/manga-download/hakuneko)
 
 ​	Epic第三方客户端：[Legendary](https://github.com/derrod/legendary) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads) / [Rare](https://github.com/Dummerle/Rare) / [HEIRLOOM](https://github.com/AutumnRivers/heirloom)
 
