@@ -62,8 +62,8 @@ plugins:
   - jekyll-paginate
 
 # Post Detail
-create_date:        "发表时间"
-edit_date:          "最后编辑"
+create_date:        "发布于"
+edit_date:          "编辑于"
 
 # Socail Links
 mapping_icons:

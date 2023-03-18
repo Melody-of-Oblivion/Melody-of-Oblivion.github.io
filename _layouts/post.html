@@ -4,9 +4,9 @@ layout: default
 <div class="content post">
   <div class="post-title">{{ page.title }}</div>
   <div class="post-date">
-    <span>{{ site.create_date }}：{{ page.date | date: "%Y-%m-%d" }}</span>
+    <span>{{ site.create_date }} {{ page.date | date: "%Y-%m-%d" }}</span>
     {% if page.editdate %}
-    <span>{{ site.edit_date }}：{{ page.editdate | date: "%Y-%m-%d" }}</span>
+    <span>{{ site.edit_date }} {{ page.editdate | date: "%Y-%m-%d" }}</span>
     {% endif %}
   </div>
   {{ content }}
