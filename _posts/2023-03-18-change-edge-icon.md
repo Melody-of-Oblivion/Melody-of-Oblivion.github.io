@@ -1,6 +1,6 @@
 ---
 title: 修改Edge浏览器图标
-editdate: 2023-03-19
+editdate: 2023-03-21
 ---
 
 RT，修改为Mahiro样式图标（bushi）
@@ -9,7 +9,11 @@ RT，修改为Mahiro样式图标（bushi）
 
 ![demo](https://raw.githubusercontent.com/Melody-of-Oblivion/MoOpics/main/images/posts/mahiro-edge-icon/example.png)
 
-图标下载：[lanzou](https://wwvc.lanzouy.com/igGBn0qjmgpe)   *解压码: moo*
+图标下载：[lanzou](https://wwvc.lanzouy.com/b01wi26fa)  (8yq5)
+
+*解压码: moo*
+
+**img.7z** 是有点糊的图片做的，也够用；**new.7z** 是大图改的，出处BV1nv4y1L7qZ
 
 推荐还是把ico文件放到一个不怎么会去改动操作的地方。
 
