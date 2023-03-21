@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-03-17
+个人整理，长期更新。**最后编辑**：2023-03-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -63,7 +63,7 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
@@ -269,7 +269,7 @@ permalink: /applist/
 
 #### 6. 下载器
 
-​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries)
+​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [迅雷9精简融合版](https://wwvc.lanzouy.com/i5BmK0qnpbhi)
 
 ​	视频下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi) / [B23Downloader](https://github.com/vooidzero/B23Downloader) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader)
 
