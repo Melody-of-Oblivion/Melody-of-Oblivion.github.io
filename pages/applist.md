@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-03-22
+个人整理，长期更新。**最后编辑**：2023-04-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -219,7 +219,7 @@ permalink: /applist/
 
 ​	远程协助/串流：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en) / [Parsec](https://parsec.app/downloads) / [Rustdesk](https://github.com/rustdesk/rustdesk) / [Moonlight](https://moonlight-stream.org/) / [SteamLink](https://store.steampowered.com/remoteplay)
 
-​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/)
+​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/) /[Scrcpy](https://github.com/Genymobile/scrcpy)
 
 ​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev/)
 
