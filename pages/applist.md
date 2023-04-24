@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-04-13
+个人整理，长期更新。**最后编辑**：2023-04-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -88,6 +88,8 @@ permalink: /applist/
 ​	音源分离：[SpleeterGUI](https://makenweb.com/#spleetergui)
 
 ​	文件缩小：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
+
+​	文件转换：[FileConverter](https://github.com/Tichau/FileConverter)
 
 ​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker)
 
@@ -449,7 +451,7 @@ permalink: /applist/
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
 
-​	图片格式转换：[imagesTool](https://imagestool.com/)
+​	图片格式转换：[imagesTool](https://imagestool.com/) / [Images Tool v3.0](https://www.imagestool.cn/)
 
 ​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
 
