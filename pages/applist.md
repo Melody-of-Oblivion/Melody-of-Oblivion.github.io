@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-04-25
+个人整理，长期更新。**最后编辑**：2023-05-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -75,7 +75,7 @@ permalink: /applist/
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/)
 
-​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://upscayl.github.io/)
+​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl/)
 
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
@@ -113,7 +113,7 @@ permalink: /applist/
 
 ​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch)
 
-​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre/) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download)
+​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre/) / [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download)
 
 ​	PDF阅读器：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com/index.html)
 
