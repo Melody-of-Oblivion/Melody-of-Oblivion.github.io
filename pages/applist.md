@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-05-20
+个人整理，长期更新。**最后编辑**：2023-05-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -469,7 +469,7 @@ permalink: /applist/
 
 ​	软件替代：[AlternativeTo](https://alternativeto.net/)
 
-​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/)
+​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image)
 
 ​    
 
