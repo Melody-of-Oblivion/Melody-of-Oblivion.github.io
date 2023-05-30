@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-05-27
+个人整理，长期更新。**最后编辑**：2023-05-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -205,11 +205,11 @@ permalink: /applist/
 
 ​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip/) / [Peazip](https://peazip.github.io/) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip)
 
-​	提示休息：[Stretchly](https://github.com/hovancik/stretchly)
-
 ​	office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
 ​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [Hibit Uninstaller](https://hibitsoft.ir/Uninstaller.html) / [UninstallView](https://www.nirsoft.net/utils/uninstall_view.html)
+
+​	文件删除：[Delapp](https://github.com/differentrain/Delapp)
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
