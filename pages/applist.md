@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-06-01
+个人整理，长期更新。**最后编辑**：2023-06-08
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -167,7 +167,7 @@ permalink: /applist/
 
 #### 4. 系统清理/美化工具
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer)
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla)
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
@@ -199,7 +199,7 @@ permalink: /applist/
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
 
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
