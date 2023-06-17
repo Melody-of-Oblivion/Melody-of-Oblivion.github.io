@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-06-08
+个人整理，长期更新。**最后编辑**：2023-06-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -377,7 +377,7 @@ permalink: /applist/
 
 ​	看板：[Personal Kanban](https://personalkanban.js.org/) / [Trello](https://trello.com/home)
 
-​	文字识别：[PearOCR](https://pearocr.com/) / [CatOCR](https://catocr.com/#/)
+​	文字识别：[PearOCR](https://pearocr.com/) / [CatOCR](https://catocr.com/#/) / [OLOCR](https://olocr.com/zh-CN)
 
 ​	云汉化平台：[ParaTranz](https://paratranz.cn/)
 
