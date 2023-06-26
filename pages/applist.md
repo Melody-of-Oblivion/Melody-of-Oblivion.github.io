@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-06-17
+个人整理，长期更新。**最后编辑**：2023-06-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -51,11 +51,11 @@ permalink: /applist/
 
 ​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/michelolvera/vs-ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor)
+​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor)
 
-​	笔记软件：[Obsidian](https://obsidian.md/) / [思源笔记](https://b3log.org/siyuan/download.html) / [joplin](https://github.com/laurent22/joplin)
+​	笔记软件：[Obsidian](https://obsidian.md/) / [思源笔记](https://b3log.org/siyuan/download.html) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download/)
 
@@ -63,17 +63,15 @@ permalink: /applist/
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.top/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil) / [kaf-cli](https://github.com/ystyle/kaf-cli)
 
-​	流程图绘制：[drawio-desktop](https://github.com/jgraph/drawio-desktop)
+​	流程图：[drawio-desktop](https://github.com/jgraph/drawio-desktop)
 
-​	图像工具箱：[洋芋田图像工具箱](https://github.com/CNOliverZhang/PotatofieldImageToolkit)
-
-​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/)
+​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage) / [rimage_gui](https://github.com/Mikachu2333/rimage_gui)
 
 ​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl/)
 
@@ -83,9 +81,9 @@ permalink: /applist/
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
-​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
+​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) / [Freeplane](https://docs.freeplane.org/) / [Excalidraw](https://excalidraw.com/) / [Handraw](https://handraw.top/) / [LN思维导图](http://www.lesliexin.com/pc/lne_lnmindmap.html) / [AmyMind](https://amymind.com/)
 
-​	音源分离：[SpleeterGUI](https://makenweb.com/#spleetergui)
+​	人声分离：[SpleeterGUI](https://makenweb.com/#spleetergui) / [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui/)
 
 ​	文件缩小：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 
@@ -95,7 +93,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/) / [XnView](https://www.xnview.com/en/xnview/) / [nomacs](https://nomacs.org/download/) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Image-Viewer-and-Editor](https://www.open-source.tech/JPEGView-Image-Viewer-and-Editor/) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
+​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/) / [XnView](https://www.xnview.com/en/xnview/) / [nomacs](https://nomacs.org/download/) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Static](https://github.com/annh9b/JPEGView-Static) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
 
 ​	素材管理工具：[Billfish](https://www.billfish.cn/download/) / [digiKam](https://www.digikam.org/download/) / [Allusion](https://github.com/allusion-app/Allusion) / [Eagle 1.8.2](https://wwvc.lanzouy.com/iq8oz0iuz34b) / [零泉](https://lingquan.cool/home)
 
@@ -103,7 +101,7 @@ permalink: /applist/
 
 ​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/) / [VoceChat](https://doc.voce.chat/zh-cn/)
 
-​	Tg客户端：[Telegram desktop](https://desktop.telegram.org/) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
+​	Tg客户端：[Telegram desktop](https://github.com/telegramdesktop/tdesktop) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
 
 ​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM)
 
@@ -121,15 +119,15 @@ permalink: /applist/
 
 ​	OCR翻译：[有道词典](https://cidian.youdao.com/index.html#/)
 
-​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder) / [Textractor](https://github.com/Artikash/Textractor)
-
 ​	剪贴板翻译：[CopyTranslator](https://copytranslator.github.io/download/#%E4%B8%8B%E8%BD%BD)
 
-​	Gal提取：[GARbro](https://github.com/morkt/GARbro)
+​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder) / [Textractor](https://github.com/Artikash/Textractor)
+
+​	Gal提取工具：[GARbro](https://github.com/morkt/GARbro)
 
 ​	转区：[Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
 
-​	游戏管理器：[Playnite](https://playnite.link/) / [PlayniteVndb](https://github.com/Mithnar/PlayniteVndb)
+​	游戏管理器：[Playnite](https://playnite.link/) / [PlayniteVndb](https://github.com/Mithnar/PlayniteVndb) / [PotatoVN](https://github.com/GoldenPotato137/PotatoVN)
 
 ​	RSS阅读器：[Fluent Reader](https://github.com/yang991178/fluent-reader) / [Homura](https://github.com/Saul-Mirone/homura) / [Newsflow](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
 
@@ -141,17 +139,15 @@ permalink: /applist/
 
 ​	音效增强：[FxSound](https://www.fxsound.com/)
 
-​	反代Steam： [steamcommunity302](https://www.dogfight360.com/blog/686/)
-
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam工具箱：[Watt Toolkit](https://steampp.net/)
+​	Steam工具：[Watt Toolkit](https://steampp.net/) / [steamcommunity302](https://www.dogfight360.com/blog/686/)
 
 ​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
 
 ​	漫画下载器：[HakuNeko](https://github.com/manga-download/hakuneko)
 
-​	Epic第三方客户端：[Legendary](https://github.com/derrod/legendary) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads) / [Rare](https://github.com/Dummerle/Rare) / [HEIRLOOM](https://github.com/AutumnRivers/heirloom)
+​	Epic第三方客户端：[Legendary](https://github.com/derrod/legendary) / [Heroic Games Launcher](https://heroicgameslauncher.com/downloads) / [Rare](https://github.com/Dummerle/Rare)
 
 ​	Flash：[CleanFlashPlayer](https://github.com/darktohka/clean-flash-builds)
 
@@ -199,7 +195,7 @@ permalink: /applist/
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox/) / [Vivaldi](https://vivaldi.com/) / [TorBrowser](https://www.torproject.org/) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net/) / [Firefox(tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
 
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/)
 
@@ -223,11 +219,9 @@ permalink: /applist/
 
 ​	电脑操控安卓手机：[AnLink](https://cn.anlinksoft.com/) /[Scrcpy](https://github.com/Genymobile/scrcpy)
 
-​	激活工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev/)
+​	系统工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev/) / [云图工具箱](https://wintool.cc/)
 
 ​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
-
-​	MS工具箱：[云图工具箱](https://wintool.cc/)
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
@@ -439,6 +433,8 @@ permalink: /applist/
 
 ​	Excel工具：[ChatExcel](https://chatexcel.com/)
 
+​	人声分离：[Vocal Remover and Isolation](https://vocalremover.org/zh/)
+
 ​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/) / [BgSub](https://bgsub.cn/webapp/)
 
 ​	简历：[超级简历](https://www.wondercv.com/) / [简历下载](https://jianlixiazai.cn/)
@@ -450,6 +446,8 @@ permalink: /applist/
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
+
+​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image)
 
 ​	图片格式转换：[imagesTool](https://imagestool.com/) / [Images Tool v3.0](https://www.imagestool.cn/)
 
@@ -468,8 +466,6 @@ permalink: /applist/
 ​	文本转语音：[Azure](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview=) / [智影](https://zenvideo.qq.com/)
 
 ​	软件替代：[AlternativeTo](https://alternativeto.net/)
-
-​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image)
 
 ​    
 
