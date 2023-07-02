@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-01
+个人整理，长期更新。**最后编辑**：2023-07-02
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -141,7 +141,7 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam工具：[Watt Toolkit](https://steampp.net/) / [steamcommunity302](https://www.dogfight360.com/blog/686/)
+​	Steam工具：[Watt Toolkit](https://steampp.net/) / [steamcommunity302](https://www.dogfight360.com/blog/686/) / [Steam加速器](https://mossbooster.com/)
 
 ​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
 
