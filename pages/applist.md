@@ -73,7 +73,7 @@ permalink: /applist/
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage) / [rimage_gui](https://github.com/Mikachu2333/rimage_gui)
 
-​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl/)
+​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl) / [Final2x](https://github.com/Tohrusky/Final2x)
 
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
