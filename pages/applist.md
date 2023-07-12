@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-11
+个人整理，长期更新。**最后编辑**：2023-07-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -262,6 +262,8 @@ permalink: /applist/
 ​	包管理器：[WingetUI](https://github.com/marticliment/WingetUI)
 
 ​	私人微博：[flomo](https://flomoapp.com/) / [memos](https://github.com/usememos/memos)
+
+​	屏幕局部放大：[Milky Warp](https://github.com/hugoattal/milky-warp)
 
 #### 6. 下载器
 
