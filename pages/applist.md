@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-12
+个人整理，长期更新。**最后编辑**：2023-07-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -158,6 +158,8 @@ permalink: /applist/
 ​	3DS模拟器：[citra](https://citra-emu.org/download/)
 
 ​	NS模拟器：[Ryujinx](https://ryujinx.org/download) / [yuzu](https://yuzu-emu.org/downloads/)
+
+​	免费内网穿透：[cpolar](https://www.cpolar.com/)
 
 ​	局域网联机：[Hamachi](https://vpn.net/) / [Radmin LAN](https://www.radmin-lan.cn/) / [ZeroTier](https://www.zerotier.com/) / [Tailscale](https://tailscale.com/)
 
