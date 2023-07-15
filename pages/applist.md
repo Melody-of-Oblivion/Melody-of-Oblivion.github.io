@@ -245,7 +245,9 @@ permalink: /applist/
 
 ​	复制粘贴中转：[DropPoint](https://github.com/GameGodS3/DropPoint)
 
-​	字体管理：[nexusfont](https://www.xiles.app/)
+​	字体管理工具：[nexusfont](https://www.xiles.app/)
+
+​	字体抽取工具：[fontmin-app](https://github.com/ecomfe/fontmin-app)
 
 ​	背单词：[ToastFish](https://github.com/Uahh/ToastFish)
 
