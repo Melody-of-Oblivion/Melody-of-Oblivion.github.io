@@ -145,7 +145,7 @@ permalink: /applist/
 
 ​	hosts修改：[UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/)
 
-​	Steam工具：[Watt Toolkit](https://steampp.net/) / [steamcommunity302](https://www.dogfight360.com/blog/686/) / [Steam加速器](https://mossbooster.com/)
+​	Steam工具：[Watt Toolkit](https://github.com/BeyondDimension/SteamTools/) / [steamcommunity302](https://www.dogfight360.com/blog/686/) / [Steam加速器](https://mossbooster.com/)
 
 ​	漫画阅读器：[YACReader](https://yacreader.com/downloads) / [MangaMeeya](https://w.atwiki.jp/mangameeya/pages/48.html) / [Comics++](https://apps.microsoft.com/store/detail/comics/9NBLGGGZLSMQ) / [Cover](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7)
 
