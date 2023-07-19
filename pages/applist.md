@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-18
+个人整理，长期更新。**最后编辑**：2023-07-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -259,7 +259,7 @@ permalink: /applist/
 
 ​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch) / [V2rayN](https://github.com/2dust/v2rayN)
 
-​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz) / [Whisper](https://github.com/Const-me/Whisper)
+​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz) / [Whisper](https://github.com/Const-me/Whisper) / [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
 
 ​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts)
 
