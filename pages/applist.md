@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-22
+个人整理，长期更新。**最后编辑**：2023-07-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -41,7 +41,7 @@ permalink: /applist/
 
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
-​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite)
+​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher)
 
 ​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
