@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-19
+个人整理，长期更新。**最后编辑**：2023-07-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -472,6 +472,8 @@ permalink: /applist/
 ​	文本转语音：[Azure](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview=) / [智影](https://zenvideo.qq.com/)
 
 ​	软件替代：[AlternativeTo](https://alternativeto.net/)
+
+​	在线txt阅读器：[易笺](https://txt.xrl.app/)
 
 ​    
 
