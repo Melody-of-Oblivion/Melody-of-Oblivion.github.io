@@ -63,7 +63,7 @@ permalink: /applist/
 
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [OfficePlus](https://www.officeplus.cn/) / [UUOffice工具箱](http://www.uuoffice.net/)
 
-​	Office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) / [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+​	Office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) / [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) / [Office C2R Install](https://files.fm/u/grq7vq6zb#/list/)
 
 ​	制谱软件：[musescore3](https://musescore.org/zh-hans/download)
 
