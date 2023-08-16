@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-07-29
+个人整理，长期更新。**最后编辑**：2023-08-16
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -425,7 +425,7 @@ permalink: /applist/
 
 ​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/) / [一个工具箱](http://www.atoolbox.net/) / [刘明野的工具箱](https://tool.liumingye.cn/) / [即时工具](https://www.67tool.com/) / [在线工具搜索](https://bar.ssstab.com/)
 
-​	局域网传输文件：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/)
+​	文件传输：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/) / [transfer.zip](https://transfer.zip/)
 
 ​	流程图：[ProcessOn](https://www.processon.com/)
 
