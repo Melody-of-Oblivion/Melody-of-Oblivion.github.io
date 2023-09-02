@@ -273,7 +273,7 @@ permalink: /applist/
 
 ​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://www.idmtorrent.com/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [迅雷9精简融合版](https://wwvc.lanzouy.com/i5BmK0qnpbhi) / [Gopeed](https://gopeed.com/zh-CN)
 
-​	视频下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi) / [B23Downloader](https://github.com/vooidzero/B23Downloader) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader)
+​	视频下载器：[JiJiDown](http://client.jijidown.com/) / [BBDown](https://github.com/nilaoda/BBDown) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi) / [B23Downloader](https://github.com/vooidzero/B23Downloader) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) / [bilidown](http://zhouql.vip/bilibili/pc/)
 
 ​	m3u8下载器：[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) / [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
 
