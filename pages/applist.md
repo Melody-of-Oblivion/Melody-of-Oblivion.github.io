@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-09-27
+个人整理，长期更新。**最后编辑**：2023-09-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -299,11 +299,7 @@ permalink: /applist/
 
 ​	磁盘空间分析：[WizTree](https://antibody-software.com/)
 
-​	系统信息查看：[AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b)
-
-​	CPU监控工具：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-
-​	GPU监控工具：[GPU-Z](https://www.techpowerup.com/gpuz/)
+​	硬件检测：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/) / [AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b) / [HWiNFO](https://www.hwinfo.com/download/)
 
 ​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) / [XMeters](https://entropy6.com/xmeters/download/) / [TrayS](https://github.com/cgbsmy/TrayS)
 
