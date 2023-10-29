@@ -301,7 +301,7 @@ permalink: /applist/
 
 ​	磁盘空间分析：[WizTree](https://antibody-software.com/)
 
-​	硬件检测：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/) / [AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b) / [HWiNFO](https://www.hwinfo.com/download/)
+​	硬件检测：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/) / [AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b) / [HWiNFO](https://www.hwinfo.com/download/) / [图吧工具箱](https://www.tbtool.cn/)
 
 ​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) / [XMeters](https://entropy6.com/xmeters/download/) / [TrayS](https://github.com/cgbsmy/TrayS)
 
