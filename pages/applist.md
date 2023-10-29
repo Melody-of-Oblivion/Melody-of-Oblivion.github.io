@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-10-09
+个人整理，长期更新。**最后编辑**：2023-10-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -37,13 +37,15 @@ permalink: /applist/
 
 ​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html)
 
+​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
+
 ​	文件复制：[FastCopy](https://fastcopy.jp/)
+
+​	文件批量重命名：[Ant Renamer](http://www.antp.be/software/renamer/download) / [MiniRenamer](https://abc100.net/106/)
 
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
 ​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher)
-
-​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
 #### 2. 编辑工具
 
@@ -67,7 +69,7 @@ permalink: /applist/
 
 ​	制谱软件：[MuseScore](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/)
+​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.upe.net/) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/) / [WinpeMaker](https://winpemaker.ccpe.net/download.html)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org/)
 
