@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-10-29
+个人整理，长期更新。**最后编辑**：2023-10-31
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -95,7 +95,7 @@ permalink: /applist/
 
 ​	文件转换：[FileConverter](https://github.com/Tichau/FileConverter)
 
-​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker)
+​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker) / [Pipette](https://www.sttmedia.com/pipette-download)
 
 #### 3. 娱乐相关
 
