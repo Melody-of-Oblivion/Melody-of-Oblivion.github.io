@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-10-31
+个人整理，长期更新。**最后编辑**：2023-11-01
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -338,6 +338,8 @@ permalink: /applist/
 ​	手机作电脑摄像头：[DroidCam](https://www.dev47apps.com/)
 
 ​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile) / [LocalSend](https://localsend.org/)
+
+​	键盘输入：[空气键盘](https://xtool.club/app/airkeyboard)
 
 #### 2. 娱乐
 
