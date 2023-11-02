@@ -259,7 +259,7 @@ permalink: /applist/
 
 ​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager)[^2] 
 
-​	代理：[Clash for win](https://github.com/Fndroid/clash_for_windows_pkg) / [Clash for win汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch) / [V2rayN](https://github.com/2dust/v2rayN)
+​	代理：[Clash for Windows v0.20.39](https://wwvc.lanzouv.com/b01xiazeh) (b6qz) / [Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) / [V2rayN](https://github.com/2dust/v2rayN) / [Clash Verge](Clash-for-Windows_Chinese)
 
 ​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz) / [Whisper](https://github.com/Const-me/Whisper) / [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
 
