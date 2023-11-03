@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-02
+个人整理，长期更新。**最后编辑**：2023-11-04
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -53,7 +53,7 @@ permalink: /applist/
 
 ​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/) / [CudaText](https://cudatext.github.io/download.html)
 
 ​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://editor.runjs.cool/)
 
