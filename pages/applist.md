@@ -269,6 +269,8 @@ permalink: /applist/
 
 ​	屏幕局部放大：[Milky Warp](https://github.com/hugoattal/milky-warp)
 
+​	电子邮件：[Foxmail](https://www.foxmail.com/) / [Spark](https://sparkmailapp.com/zh) / [Canary Mail](https://canarymail.io/downloads.html) / [网易邮箱大师](https://dashi.163.com) / [Thunderbird](https://www.thunderbird.net/zh-CN/) / [eM Client](https://www.emclient.com/download) / [Mailspring](https://www.getmailspring.com/)
+
 #### 6. 下载器
 
 ​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [迅雷9精简融合版](https://wwvc.lanzouy.com/i5BmK0qnpbhi) / [Gopeed](https://gopeed.com/zh-CN)
