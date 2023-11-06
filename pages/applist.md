@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-05
+个人整理，长期更新。**最后编辑**：2023-11-06
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -169,7 +169,7 @@ permalink: /applist/
 
 #### 4. 系统清理/美化工具
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla)
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla) / [DoNotSpy11](https://pxc-coding.com/donotspy11/donotspy-11-download/)
 
 ​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
 
