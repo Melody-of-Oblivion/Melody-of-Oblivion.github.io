@@ -54,4 +54,4 @@ Disconnect-SPOService
 
    remote 就是给挂载网盘设定的名称，如 disk 就是 **disk:**，后跟需要清理的文件夹路径，rclone 会自动遍历路径下的所有文件并清理旧版本的文件，这个过程会比较慢。
 
-参考：[Microsoft OneDrive | rclone](https://rclone.org/onedrive/#disabling-versioning)
+参考：[Microsoft OneDrive \| rclone](https://rclone.org/onedrive/#disabling-versioning)
