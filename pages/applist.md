@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-06
+个人整理，长期更新。**最后编辑**：2023-11-07
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -228,6 +228,8 @@ permalink: /applist/
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
 ​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab) / [gImageReader](https://github.com/manisandro/gImageReader) / [dpscreenocr](https://github.com/danpla/dpscreenocr)
+
+​	文字提取：[Textify](https://github.com/Hunlongyu/Textify)
 
 ​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
 
