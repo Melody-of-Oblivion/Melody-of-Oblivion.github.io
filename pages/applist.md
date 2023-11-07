@@ -355,7 +355,7 @@ permalink: /applist/
 
 ​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [MangaReader](https://github.com/youniaogu/MangaReader) / [aniyomi](https://github.com/jmir1/aniyomi)
 
-​	音乐播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/) / [Auxio](https://github.com/OxygenCobalt/Auxio) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://github.com/rRemix/APlayer) / [Eddict Player](https://shanling.com/download/76)
+​	播放器：[Musicolet](https://krosbits.in/musicolet/download/) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download/) / [Auxio](https://github.com/OxygenCobalt/Auxio) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://github.com/rRemix/APlayer) / [Eddict Player](https://shanling.com/download/76) / [Next Player](https://github.com/anilbeesetti/nextplayer)
 
 ​	微博客户端：[Share](https://wwz.lanzouy.com/iWT9Y07mrcji) / [VEPor](https://play.google.com/store/apps/details?id=com.hhbuct.vepor) / [See](https://wwz.lanzouy.com/iqa7U0a61poh) (8e37)
 
