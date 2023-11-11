@@ -333,7 +333,7 @@ permalink: /applist/
 
 ​	手机作电脑摄像头：[DroidCam](https://www.dev47apps.com/)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile) / [LocalSend](https://localsend.org/)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile) / [LocalSend](https://localsend.org/) / [NearShare](https://nearshare.shortdev.de)
 
 ​	键盘输入：[空气键盘](https://xtool.club/app/airkeyboard)
 
