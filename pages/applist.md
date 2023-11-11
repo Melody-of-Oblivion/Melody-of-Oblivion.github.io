@@ -393,7 +393,7 @@ permalink: /applist/
 
 #### 2. 资源
 
-​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/) / [识字体网](https://www.likefont.com/) / [猫啃网](https://www.maoken.com/)
+​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/) / [识字体网](https://www.likefont.com/) / [猫啃网](https://www.maoken.com/) / [Fontshare](https://www.fontshare.com/)
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
