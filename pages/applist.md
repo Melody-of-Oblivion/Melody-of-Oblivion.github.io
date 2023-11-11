@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-10
+个人整理，长期更新。**最后编辑**：2023-11-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -177,17 +177,11 @@ permalink: /applist/
 
 ​	任务栏工具：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [草特码](https://gitee.com/xu-wanbin1/dll) / [RoundedTB](https://github.com/RoundedTB/RoundedTB)
 
-​	动态壁纸软件：[lively](https://github.com/rocksdanister/lively)
+​	个性化桌面：[Rainmeter](https://www.rainmeter.net) / [lively](https://github.com/rocksdanister/lively)
 
-​	个性化桌面：[Rainmeter](https://www.rainmeter.net/)
+​	桌面分框：[Coodesker](https://wwvc.lanzouv.com/iNYm01aaz8xi) / [ModernBoxes](https://gitee.com/MchBlog/modern-box) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
 
-​	桌面分框：[Coodesker](https://github.com/coodesker/coodesker-desktop/releases) / [ModernBoxes](https://gitee.com/MchBlog/modern-box) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
-
-​	Steam客户端美化：[Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku)
-
-​	win10磁贴美化：[TileBeautify](https://github.com/BluePointLilac/TileBeautify)
-
-​	win11透明磨砂：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
+​	win11窗口效果：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts)
 
 ​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
