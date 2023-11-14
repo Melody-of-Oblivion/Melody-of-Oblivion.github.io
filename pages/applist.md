@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-12
+个人整理，长期更新。**最后编辑**：2023-11-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -183,9 +183,9 @@ permalink: /applist/
 
 ​	win11窗口效果：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts)
 
-​	资源管理器多标签：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
+​	多标签资源管理器：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
-​	文件资源管理器：[Files](https://files.community/download)
+​	文件资源管理器：[Files](https://files.community/download) / [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
 ​	窗口隐藏：[Invisiwind](https://github.com/radiantly/Invisiwind) / [WindowSharingHider](https://github.com/shalzuth/WindowSharingHider)
 
@@ -449,7 +449,7 @@ permalink: /applist/
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
 
-​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image)
+​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com)
 
 ​	图片格式转换：[imagesTool](https://imagestool.com/) / [Images Tool v3.0](https://www.imagestool.cn/)
 
