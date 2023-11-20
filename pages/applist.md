@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-14
+个人整理，长期更新。**最后编辑**：2023-11-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -84,6 +84,8 @@ permalink: /applist/
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
 ​	图片拼接：[Batch Image Combiner](https://bggenerator.com/batch_image_combiner.html)
+
+​	视频编码：[HandBrake](https://handbrake.fr/downloads.php)
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
