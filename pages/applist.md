@@ -85,7 +85,7 @@ permalink: /applist/
 
 ​	图片拼接：[Batch Image Combiner](https://bggenerator.com/batch_image_combiner.html)
 
-​	视频编码：[HandBrake](https://handbrake.fr/downloads.php)
+​	视频编码：[HandBrake](https://handbrake.fr/downloads.php) / [Shutter Encoder](https://www.shutterencoder.com)
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
@@ -283,7 +283,7 @@ permalink: /applist/
 
 ​	电脑虚拟机：[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-​	手游模拟器：[NoxPlayer](https://www.bignox.com/) / [蓝叠国际版](https://www.bluestacks.com/download.html)
+​	手游模拟器：[NoxPlayer](https://www.bignox.com/) / [蓝叠国际版](https://www.bluestacks.com/download.html) / [MuMu](https://mumu.163.com/)
 
 ​	Hyper-V检测：[CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/)
 
@@ -341,7 +341,7 @@ permalink: /applist/
 
 #### 2. 娱乐
 
-​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
+​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) / [PANSY](https://github.com/niuhuan/pansy)
 
 ​	EPUB阅读器：[NeatReader](https://www.neat-reader.cn/downloads/android) / [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) / [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader) / [开源阅读](https://gedoor.github.io/)
 
@@ -393,13 +393,15 @@ permalink: /applist/
 
 ​	搜题：[简答题](https://www.jiandati.com/)
 
+​	动态壁纸推荐：[Wallpeper Engine Space](https://www.wallpaperengine.space/collections)
+
 #### 2. 资源
 
 ​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/) / [识字体网](https://www.likefont.com/) / [猫啃网](https://www.maoken.com/) / [Fontshare](https://www.fontshare.com/)
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
-​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/) / [HelloWindows](https://hellowindows.cn/) / [山己几子木](https://msdn.sjjzm.com/) / [OS.click](https://os.click)
+​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/) / [NEXT, ITELLYOU](https://next.itellyou.cn/) / [HelloWindows](https://hellowindows.cn/) / [山己几子木](https://msdn.sjjzm.com/) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com/)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
@@ -459,7 +461,7 @@ permalink: /applist/
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
-​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run/)
+​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run/) / [Fito](https://fito.cc/)
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
