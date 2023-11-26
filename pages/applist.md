@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-22
+个人整理，长期更新。**最后编辑**：2023-11-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -115,7 +115,7 @@ permalink: /applist/
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura) / [Streamlabs](https://streamlabs.com/)
 
-​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch)
+​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch) / [魔力玄](https://medlexo.is-an.app/cn.php)
 
 ​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre/) / [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download) / [Alexandria](https://github.com/btpf/Alexandria)
 
@@ -187,7 +187,7 @@ permalink: /applist/
 
 ​	多标签资源管理器：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
-​	文件资源管理器：[Files](https://files.community/download) / [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+​	文件资源管理器：[Files](https://files.community/download) / [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) / [Spacedrive](https://github.com/spacedriveapp/spacedrive)
 
 ​	窗口隐藏：[Invisiwind](https://github.com/radiantly/Invisiwind) / [WindowSharingHider](https://github.com/shalzuth/WindowSharingHider)
 
