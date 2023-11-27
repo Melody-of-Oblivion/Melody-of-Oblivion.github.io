@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-26
+个人整理，长期更新。**最后编辑**：2023-11-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -167,7 +167,7 @@ permalink: /applist/
 
 ​	免费内网穿透：[cpolar](https://www.cpolar.com/)
 
-​	局域网联机：[Hamachi](https://vpn.net/) / [Radmin LAN](https://www.radmin-lan.cn/) / [ZeroTier](https://www.zerotier.com/) / [Tailscale](https://tailscale.com/)
+​	局域网联机：[Hamachi](https://vpn.net/) / [Radmin LAN](https://www.radmin-lan.cn/) / [ZeroTier](https://www.zerotier.com/) / [Tailscale](https://tailscale.com/) / [Lanemu P2P VPN](https://gitlab.com/Monsterovich/lanemu)
 
 #### 4. 系统清理/美化工具
 
@@ -233,7 +233,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
@@ -335,7 +335,7 @@ permalink: /applist/
 
 ​	手机作电脑摄像头：[DroidCam](https://www.dev47apps.com/)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile) / [LocalSend](https://localsend.org/) / [NearShare](https://nearshare.shortdev.de) / [局域网快传](https://www.coolapk.com/apk/com.fylala.lan_sharing)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile) / [LocalSend](https://localsend.org/) / [NearShare](https://nearshare.shortdev.de) / [局域网快传](https://www.coolapk.com/apk/com.fylala.lan_sharing) / [Speed Share](https://github.com/nightmare-space/speed_share)
 
 ​	键盘输入：[空气键盘](https://xtool.club/app/airkeyboard)
 
@@ -401,7 +401,7 @@ permalink: /applist/
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
-​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/) / [NEXT, ITELLYOU](https://next.itellyou.cn/) / [HelloWindows](https://hellowindows.cn/) / [山己几子木](https://msdn.sjjzm.com/) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com/)
+​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/) / [NEXT, ITELLYOU](https://next.itellyou.cn/) / [HelloWindows](https://hellowindows.cn/) / [山己几子木](https://msdn.sjjzm.com/) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com/) / [极简系统](https://www.sysmini.com/)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
