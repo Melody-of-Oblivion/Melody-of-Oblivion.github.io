@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-11-27
+个人整理，长期更新。**最后编辑**：2023-11-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -89,7 +89,7 @@ permalink: /applist/
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads/)
 
-​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) / [Freeplane](https://docs.freeplane.org/) / [Excalidraw](https://excalidraw.com/) / [Handraw](https://handraw.top/) / [LN思维导图](http://www.lesliexin.com/pc/lne_lnmindmap.html) / [AmyMind](https://amymind.com/)
+​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) / [Freeplane](https://docs.freeplane.org/) / [Excalidraw](https://excalidraw.com/) / [Handraw](https://handraw.top/) / [LN思维导图](http://www.lesliexin.com/pc/lne_lnmindmap.html) / [AmyMind](https://amymind.com/) / [Simple mind map](https://github.com/wanglin2/mind-map)
 
 ​	人声分离：[SpleeterGUI](https://makenweb.com/#spleetergui) / [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui/)
 
@@ -438,6 +438,8 @@ permalink: /applist/
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
 ​	Excel工具：[ChatExcel](https://chatexcel.com/)
+
+​	思维导图：[Simple mind map](https://wanglin2.github.io/mind-map/#/)
 
 ​	人声分离：[Vocal Remover and Isolation](https://vocalremover.org/zh/)
 
