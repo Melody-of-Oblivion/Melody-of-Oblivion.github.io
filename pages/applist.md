@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-03
+个人整理，长期更新。**最后编辑**：2023-12-05
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -45,7 +45,7 @@ permalink: /applist/
 
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
-​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher)
+​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher) / [Lucy快速启动](https://www.yuque.com/lucy/lucy/record)
 
 #### 2. 编辑工具
 
@@ -453,7 +453,7 @@ permalink: /applist/
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/) / [SMART UPSCALER](https://icons8.com/upscaler)
+​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/)
 
 ​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com)
 
