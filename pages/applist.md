@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-05
+个人整理，长期更新。**最后编辑**：2023-12-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -35,7 +35,7 @@ permalink: /applist/
 
 ​	搜索工具：[Everything](https://www.voidtools.com/zh-cn/downloads/) / [EverythingToolbar](https://github.com/srwi/EverythingToolbar/) / [Fluent Search](https://fluentsearch.net/) / [Wox](https://github.com/Wox-launcher/Wox) / [dnGrep](https://github.com/dnGrep/dnGrep)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://1drv.ms/f/s%21Al1Jv9QfhD3Wa1N_CdxT28SdjEY?e=C9bm0f) / [ScreenCapture](https://github.com/xland/ScreenCapture)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com/) / [ScreenCapture](https://github.com/xland/ScreenCapture)
 
 ​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
@@ -423,17 +423,19 @@ permalink: /applist/
 
 #### 3. 工具
 
-​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com/) / [在线工具](https://tool.lu/) / [一个工具箱](http://www.atoolbox.net/) / [刘明野的工具箱](https://tool.liumingye.cn/) / [即时工具](https://www.67tool.com/) / [在线工具搜索](https://bar.ssstab.com/)
+​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com) / [在线工具](https://tool.lu) / [一个工具箱](http://www.atoolbox.net) / [刘明野的工具箱](https://tool.liumingye.cn) / [即时工具](https://www.67tool.com)
 
-​	文件传输：[SnapDrop](https://snapdrop.net/) / [Simple.Savr](https://www.ssavr.com/) / [transfer.zip](https://transfer.zip/)
+​	在线编辑：[Photopea](https://www.photopea.com) / [Vectorpea](https://www.vectorpea.com)
 
-​	流程图：[ProcessOn](https://www.processon.com/)
+​	文件传输：[SnapDrop](https://snapdrop.net) / [Simple.Savr](https://www.ssavr.com) / [transfer.zip](https://transfer.zip)
 
-​	格式转换：[Convertio](https://convertio.co/zh/) / [Online-Convert](https://www.online-convert.com/)
+​	流程图：[ProcessOn](https://www.processon.com)
 
-​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/) / [CleverPDF](https://www.cleverpdf.com/) / [iLovePDF](https://www.ilovepdf.com/)
+​	格式转换：[Convertio](https://convertio.co) / [Online-Convert](https://www.online-convert.com)
 
-​	一站式产品设计工具：[MasterGo](https://mastergo.com/)
+​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/) / [CleverPDF](https://www.cleverpdf.com/) / [iLovePDF](https://www.ilovepdf.com)
+
+​	一站式产品设计工具：[MasterGo](https://mastergo.com)
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
@@ -455,11 +457,9 @@ permalink: /applist/
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/)
 
-​	图片压缩：[Squoosh](https://squoosh.app/) / [TinyPNG](https://tinypng.com/) / [鸭力巨大](https://www.yalijuda.com/) / [急速压缩图片](https://tiny.jijian.link/) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com)
+​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com)
 
-​	图片格式转换：[imagesTool](https://imagestool.com/) / [Images Tool v3.0](https://www.imagestool.cn/)
-
-​	weiboRSS订阅：[Weibo to RSS](https://rssfeed.today/weibo/)
+​	图片格式转换：[imagesTool](https://imagestool.com) / [Images Tool v3.0](https://www.imagestool.cn)
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
@@ -467,15 +467,13 @@ permalink: /applist/
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
-​	Epub阅读：[Polar](https://getpolarized.io/) / [Neat Reader](https://www.neat-reader.cn/webapp)
+​	Epub阅读：[Polar](https://getpolarized.io) / [Neat Reader](https://www.neat-reader.cn/webapp)
 
-​	魔法橡皮擦：[Magiceraser](https://www.magiceraser.io/)
+​	魔法橡皮擦：[Magiceraser](https://www.magiceraser.io)
 
-​	文本转语音：[Azure](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview=) / [智影](https://zenvideo.qq.com/)
+​	软件替代：[AlternativeTo](https://alternativeto.net)
 
-​	软件替代：[AlternativeTo](https://alternativeto.net/)
-
-​	在线txt阅读器：[易笺](https://txt.xrl.app/)
+​	在线txt阅读器：[易笺](https://txt.xrl.app)
 
 ​    
 
