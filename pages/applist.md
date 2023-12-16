@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-16
+个人整理，长期更新。**最后编辑**：2023-12-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -109,7 +109,7 @@ permalink: /applist/
 
 ​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/) / [VoceChat](https://doc.voce.chat/zh-cn/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net_CM](https://github.com/hooke007/mpv.net_CM) / [ScreenBox](https://apps.microsoft.com/detail/screenbox-media-player/9NTSNMSVCB5L)
+​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) / [ScreenBox](https://apps.microsoft.com/detail/screenbox-media-player/9NTSNMSVCB5L) / [MPV_lazy](https://github.com/hooke007/MPV_lazy) / [ImPlay](https://github.com/tsl0922/ImPlay) / [Awesome mpv](https://github.com/stax76/awesome-mpv)
 
 ​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/) / [Dopamine](https://github.com/digimezzo/dopamine-windows) / [简繁音乐](https://csm.sayqz.com/)
 
