@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-17
+个人整理，长期更新。**最后编辑**：2023-12-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -173,7 +173,7 @@ permalink: /applist/
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla) / [DoNotSpy11](https://pxc-coding.com/donotspy11/donotspy-11-download/)
 
-​	内存清理：[MemReduct](https://www.henrypp.org/product/memreduct/#download)
+​	内存清理：[MemReduct](hhttps://github.com/henrypp/memreduct)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/)
 
@@ -423,7 +423,7 @@ permalink: /applist/
 
 #### 3. 工具
 
-​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com) / [在线工具](https://tool.lu) / [一个工具箱](http://www.atoolbox.net) / [刘明野的工具箱](https://tool.liumingye.cn) / [即时工具](https://www.67tool.com)
+​	在线工具集：[MikuTools](https://tools.miku.ac?aff=5f92f31f7d4c3d70cd275de7&ref=aff) / [123Apps](https://123apps.com) / [在线工具](https://tool.lu) / [一个工具箱](http://www.atoolbox.net) / [刘明野的工具箱](https://tool.liumingye.cn) / [即时工具](https://www.67tool.com) / [SINQI](https://sinqi.tools)
 
 ​	在线编辑：[Photopea](https://www.photopea.com) / [Vectorpea](https://www.vectorpea.com)
 
