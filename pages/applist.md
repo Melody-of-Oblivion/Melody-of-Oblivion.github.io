@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-18
+个人整理，长期更新。**最后编辑**：2023-12-19
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -177,7 +177,7 @@ permalink: /applist/
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/)
 
-​	任务栏工具：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [草特码](https://gitee.com/xu-wanbin1/dll) / [RoundedTB](https://github.com/RoundedTB/RoundedTB)
+​	任务栏工具：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [草特码](https://www.123pan.com/s/0YkAjv-zANEd.html) / [RoundedTB](https://github.com/RoundedTB/RoundedTB)
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net) / [lively](https://github.com/rocksdanister/lively)
 
