@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-19
+个人整理，长期更新。**最后编辑**：2023-12-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -35,7 +35,7 @@ permalink: /applist/
 
 ​	搜索工具：[Everything](https://www.voidtools.com/zh-cn/downloads/) / [EverythingToolbar](https://github.com/srwi/EverythingToolbar/) / [Fluent Search](https://fluentsearch.net/) / [Wox](https://github.com/Wox-launcher/Wox) / [dnGrep](https://github.com/dnGrep/dnGrep)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com/) / [ScreenCapture](https://github.com/xland/ScreenCapture)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com/) / [ScreenCapture](https://github.com/xland/ScreenCapture) / [pear-rec](https://github.com/027xiguapi/pear-rec)
 
 ​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
