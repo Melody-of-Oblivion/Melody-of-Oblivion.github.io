@@ -71,7 +71,7 @@ permalink: /applist/
 
 ​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/) / [WinpeMaker](https://winpemaker.ccpe.net/download.html)
 
-​	字幕软件：[Aegisub](http://www.aegisub.org/)
+​	字幕软件：[Aegisub](http://www.aegisub.org) / [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil) / [kaf-cli](https://github.com/ystyle/kaf-cli)
 
