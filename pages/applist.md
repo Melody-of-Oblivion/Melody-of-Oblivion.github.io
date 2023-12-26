@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-24
+个人整理，长期更新。**最后编辑**：2023-12-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -401,7 +401,7 @@ permalink: /applist/
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
-​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn/) / [NEXT, ITELLYOU](https://next.itellyou.cn/) / [HelloWindows](https://hellowindows.cn/) / [山己几子木](https://msdn.sjjzm.com/) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com/) / [极简系统](https://www.sysmini.com/)
+​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn) / [NEXT, ITELLYOU](https://next.itellyou.cn) / [HelloWindows](https://hellowindows.cn) / [山己几子木](https://msdn.sjjzm.com) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com) / [极简系统](https://www.sysmini.com) / [Windows X-Lite](https://windowsxlite.com)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
