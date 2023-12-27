@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2023-12-26
+个人整理，长期更新。**最后编辑**：2023-12-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -77,7 +77,7 @@ permalink: /applist/
 
 ​	流程图：[drawio-desktop](https://github.com/jgraph/drawio-desktop)
 
-​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](https://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage)
+​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](http://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage)
 
 ​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl) / [Final2x](https://github.com/Tohrusky/Final2x)
 
@@ -101,7 +101,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	图片查看器：[qimgv](https://github.com/easymodo/qimgv/) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com/) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg/) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download/) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview/) / [XnView](https://www.xnview.com/en/xnview/) / [nomacs](https://nomacs.org/download/) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Static](https://github.com/annh9b/JPEGView-Static) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
+​	图片查看器：[qimgv](https://github.com/easymodo/qimgv) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview) / [XnView](https://www.xnview.com/en/xnview) / [nomacs](https://github.com/nomacs/nomacs) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Static](https://github.com/annh9b/JPEGView-Static) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
 
 ​	素材管理：[Billfish](https://www.billfish.cn/download/) / [digiKam](https://www.digikam.org/download/) / [Allusion](https://github.com/allusion-app/Allusion) / [Eagle 1.8.2](https://wwvc.lanzouy.com/iq8oz0iuz34b) / [零泉](https://lingquan.cool/home) / [mCollection](https://github.com/hunmer/mCollection)
 
@@ -109,9 +109,9 @@ permalink: /applist/
 
 ​	聊天软件：[Discord](https://discord.onl/download/) / [LINE](https://line.me/) / [VoceChat](https://doc.voce.chat/zh-cn/) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
 
-​	视频播放器：[Potplayer](https://potplayer.daum.net/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) / [ScreenBox](https://apps.microsoft.com/detail/screenbox-media-player/9NTSNMSVCB5L) / [MPV_lazy](https://github.com/hooke007/MPV_lazy) / [ImPlay](https://github.com/tsl0922/ImPlay) / [Awesome mpv](https://github.com/stax76/awesome-mpv)
+​	视频播放器：[Potplayer](https://potplayer.tv/?lang=zh_CN) / [mpv](https://mpv.io/installation/) / [弹弹Play](http://www.dandanplay.com/) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) / [VLC](https://www.videolan.org/vlc/) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) / [ScreenBox](https://apps.microsoft.com/detail/screenbox-media-player/9NTSNMSVCB5L) / [MPV_lazy](https://github.com/hooke007/MPV_lazy) / [ImPlay](https://github.com/tsl0922/ImPlay) / [Awesome mpv](https://github.com/stax76/awesome-mpv)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic) / [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/) / [Dopamine](https://github.com/digimezzo/dopamine-windows) / [简繁音乐](https://csm.sayqz.com/)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) / [AIMP](http://www.aimp.ru/) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads/) / [Harmonoid](https://harmonoid.com/downloads/) / [Dopamine](https://github.com/digimezzo/dopamine-windows) / [简繁音乐](https://csm.sayqz.com/)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura) / [Streamlabs](https://streamlabs.com/)
 
