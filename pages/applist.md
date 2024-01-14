@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-12
+个人整理，长期更新。**最后编辑**：2024-01-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -101,7 +101,7 @@ permalink: /applist/
 
 #### 3. 娱乐相关
 
-​	图片查看器：[qimgv](https://github.com/easymodo/qimgv) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview) / [XnView](https://www.xnview.com/en/xnview) / [nomacs](https://github.com/nomacs/nomacs) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Static](https://github.com/annh9b/JPEGView-Static) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590) / [FocusOn Image Viewer](https://www.pintosoft.com/en/foni)
+​	图片查看器：[qimgv](https://github.com/easymodo/qimgv) / [PicView](https://github.com/Ruben2776/PicView) / [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) / [IrfanView](https://www.irfanview.com) / [ImageGlass](https://github.com/d2phap/ImageGlass) / [VJPEG](http://stereopsis.com/vjpeg) / [jpegview](https://github.com/sylikc/jpegview) / [qView](https://interversehq.com/qview/download) / [Vieas](https://www.vieas.com/en/soft.html) / [Honeyview](https://www.bandisoft.com/honeyview) / [XnView](https://www.xnview.com/en/xnview) / [nomacs](https://github.com/nomacs/nomacs) / [MassiGra](http://www.massigra.net/#download-massigra) / [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) / [Pineapple Pictures](https://github.com/BLumia/pineapple-pictures) / [JPEGView-Static](https://github.com/annh9b/JPEGView-Static) / [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590) / [FocusOn Image Viewer](https://www.pintosoft.com/en/foni) / [Waterfall_picture_viewer](https://github.com/Edge-coordinates/Waterfall_picture_viewer)
 
 ​	素材管理：[Billfish](https://www.billfish.cn/download/) / [digiKam](https://www.digikam.org/download/) / [Allusion](https://github.com/allusion-app/Allusion) / [Eagle 1.8.2](https://wwvc.lanzouy.com/iq8oz0iuz34b) / [零泉](https://lingquan.cool/home) / [mCollection](https://github.com/hunmer/mCollection)
 
@@ -433,7 +433,7 @@ permalink: /applist/
 
 ​	格式转换：[Convertio](https://convertio.co) / [Online-Convert](https://www.online-convert.com)
 
-​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/) / [CleverPDF](https://www.cleverpdf.com/) / [iLovePDF](https://www.ilovepdf.com)
+​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/) / [CleverPDF](https://www.cleverpdf.com/) / [iLovePDF](https://www.ilovepdf.com) / [超级PDF](https://xpdf.cn)
 
 ​	一站式产品设计工具：[MasterGo](https://mastergo.com)
 
