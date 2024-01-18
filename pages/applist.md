@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-16
+个人整理，长期更新。**最后编辑**：2024-01-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -93,7 +93,7 @@ permalink: /applist/
 
 ​	人声分离：[SpleeterGUI](https://makenweb.com/#spleetergui) / [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
-​	文件缩小：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
+​	文件压缩：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) / [Hummingbird](https://github.com/leibnizli/hummingbird)
 
 ​	文件转换：[FileConverter](https://github.com/Tichau/FileConverter)
 
@@ -336,6 +336,8 @@ permalink: /applist/
 ​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [文件闪传](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer) / [Nocab Mobile](https://github.com/nocab-transfer/nocab-mobile) / [LocalSend](https://localsend.org/) / [NearShare](https://nearshare.shortdev.de) / [局域网快传](https://www.coolapk.com/apk/com.fylala.lan_sharing) / [Speed Share](https://github.com/nightmare-space/speed_share)
 
 ​	键盘输入：[空气键盘](https://xtool.club/app/airkeyboard)
+
+​	解压缩：[ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 
 #### 2. 娱乐
 
