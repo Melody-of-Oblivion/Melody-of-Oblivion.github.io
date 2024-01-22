@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-18
+个人整理，长期更新。**最后编辑**：2024-01-21
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -69,7 +69,7 @@ permalink: /applist/
 
 ​	制谱软件：[MuseScore](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie/) / [UNetbootin](https://unetbootin.github.io/) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top/) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn/) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top/) / [DawnPE](https://dawnpe.com/) / [WinpeMaker](https://winpemaker.ccpe.net/download.html)
+​	启动盘制作工具：[Rufus](http://rufus.ie) / [UNetbootin](https://unetbootin.github.io) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top) / [DawnPE](https://dawnpe.com) / [WinpeMaker](https://winpemaker.ccpe.net/download.html) / [ComPE](https://win-compe.top)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org) / [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 
@@ -171,7 +171,7 @@ permalink: /applist/
 
 ​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla) / [DoNotSpy11](https://pxc-coding.com/donotspy11/donotspy-11-download/)
 
-​	内存清理：[MemReduct](hhttps://github.com/henrypp/memreduct)
+​	内存清理：[MemReduct](hhttps://github.com/henrypp/memreduct) / [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
 
 ​	屏幕色温调节：[f.lux](https://justgetflux.com/)
 
