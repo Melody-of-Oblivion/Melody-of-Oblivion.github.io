@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-21
+个人整理，长期更新。**最后编辑**：2024-01-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -35,7 +35,7 @@ permalink: /applist/
 
 ​	搜索工具：[Everything](https://www.voidtools.com/zh-cn/downloads/) / [EverythingToolbar](https://github.com/srwi/EverythingToolbar/) / [Fluent Search](https://fluentsearch.net/) / [Wox](https://github.com/Wox-launcher/Wox) / [dnGrep](https://github.com/dnGrep/dnGrep)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com/) / [ScreenCapture](https://github.com/xland/ScreenCapture) / [pear-rec](https://github.com/027xiguapi/pear-rec)
+​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com/) / [ScreenCapture](https://github.com/xland/ScreenCapture) / [pear-rec](https://github.com/027xiguapi/pear-rec) / [Sunny](https://github.com/XMuli/SunnyPages)
 
 ​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
@@ -111,7 +111,7 @@ permalink: /applist/
 
 ​	视频播放器：[Potplayer](https://potplayer.tv/?lang=zh_CN) / [mpv](https://mpv.io/installation) / [弹弹Play](http://www.dandanplay.com) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) / [VLC](https://www.videolan.org/vlc) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) / [ScreenBox](https://apps.microsoft.com/detail/screenbox-media-player/9NTSNMSVCB5L) / [MPV_lazy](https://github.com/hooke007/MPV_lazy) / [ImPlay](https://github.com/tsl0922/ImPlay) / [Awesome mpv](https://github.com/stax76/awesome-mpv) / [MPC-QT](https://github.com/mpc-qt/mpc-qt)
 
-​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) / [AIMP](http://www.aimp.ru) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads) / [Harmonoid](https://harmonoid.com/downloads) / [Dopamine](https://github.com/digimezzo/dopamine-windows) / [简繁音乐](https://csm.sayqz.com)
+​	音乐播放器：[Listen1](https://github.com/listen1/listen1_desktop) / [YesPlayMusic](https://github.com/qier222/YesPlayMusic) / [foobar2000](https://www.foobar2000.org/download) / [foobox](https://github.com/dream7180/foobox-cn) / [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) / [AIMP](http://www.aimp.ru) / [BetterNCM](https://microblock.cc/betterncm) / [MusicBee](https://getmusicbee.com/downloads) / [Harmonoid](https://harmonoid.com/downloads) / [Dopamine](https://github.com/digimezzo/dopamine-windows) / [简繁音乐](https://csm.sayqz.com) / [nuclear](https://github.com/nukeop/nuclear)
 
 ​	录屏软件：[OBS](https://obsproject.com/download) / [Captura](https://github.com/MathewSachin/Captura) / [Streamlabs](https://streamlabs.com)
 
