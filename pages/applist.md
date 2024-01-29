@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-24
+个人整理，长期更新。**最后编辑**：2024-01-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -75,7 +75,7 @@ permalink: /applist/
 
 ​	Epub制作：[Sigil](https://github.com/Sigil-Ebook/Sigil) / [kaf-cli](https://github.com/ystyle/kaf-cli)
 
-​	流程图：[drawio-desktop](https://github.com/jgraph/drawio-desktop)
+​	流程图：[drawio-desktop](https://github.com/jgraph/drawio-desktop) / [Excalidraw](https://github.com/excalidraw/excalidraw)
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](http://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage)
 
@@ -85,7 +85,7 @@ permalink: /applist/
 
 ​	图片拼接：[Batch Image Combiner](https://bggenerator.com/batch_image_combiner.html)
 
-​	视频编码：[HandBrake](https://handbrake.fr/downloads.php) / [Shutter Encoder](https://www.shutterencoder.com)
+​	视频编码：[HandBrake](https://handbrake.fr/downloads.php) / [Shutter Encoder](https://www.shutterencoder.com) / [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes)
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads)
 
@@ -231,7 +231,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share) / [闪电藤](https://lightningvine.zishu.life/download.html)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
