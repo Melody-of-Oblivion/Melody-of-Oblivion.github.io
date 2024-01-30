@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-29
+个人整理，长期更新。**最后编辑**：2024-01-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -55,7 +55,7 @@ permalink: /applist/
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/) / [CudaText](https://cudatext.github.io/download.html)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor)
+​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor) / [纯纯写作](https://writer.drakeet.com/desktop)
 
 ​	笔记软件：[Obsidian](https://obsidian.md/) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus)
 
@@ -79,7 +79,7 @@ permalink: /applist/
 
 ​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](http://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage)
 
-​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl) / [Final2x](https://github.com/Tohrusky/Final2x)
+​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl) / [Final2x](https://github.com/Tohrusky/Final2x) / [ManaPixel](https://github.com/isNineSun/ManaPixel)
 
 ​	图片处理：[Batch AI Photo Sharpener](https://bggenerator.com/batch_ai_photo_sharpener.html)
 
