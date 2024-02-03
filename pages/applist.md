@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-01-30
+个人整理，长期更新。**最后编辑**：2024-02-03
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -197,7 +197,7 @@ permalink: /applist/
 
 ​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox) / [Vivaldi](https://vivaldi.com) / [TorBrowser](https://www.torproject.org) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net) / [Firefox (tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
 
-​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip) / [Peazip](https://peazip.github.io) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip)
+​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip) / [Bandizip 6.29](https://www.bandisoft.com/bandizip/dl.php?old) / [Peazip](https://peazip.github.io) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip)
 
 ​	卸载工具：[Geek Uninstaller](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com) / [Hibit Uninstaller](https://hibitsoft.ir/Uninstaller.html) / [UninstallView](https://www.nirsoft.net/utils/uninstall_view.html)
 
@@ -235,7 +235,7 @@ permalink: /applist/
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
-​	服务器SSH终端：[Electerm](https://github.com/electerm/electerm) / [NxShell](https://github.com/nxshell/nxshell) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
+​	SSH终端：[Electerm](https://github.com/electerm/electerm) / [NxShell](https://github.com/nxshell/nxshell) / [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
 ​	文件服务器：[miniserve](https://github.com/svenstaro/miniserve) / [hfs](https://github.com/rejetto/hfs) / [chfs](http://iscute.cn/chfs)
 
@@ -250,6 +250,8 @@ permalink: /applist/
 ​	获取窗口句柄：[Spy++](https://wwz.lanzouy.com/i9Dbo0bobx5a)
 
 ​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
+
+​	防火墙：[Fort Firewall](https://github.com/tnodir/fort)
 
 ​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager)[^2] 
 
