@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-02-07
+个人整理，长期更新。**最后编辑**：2024-02-13
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -46,6 +46,8 @@ permalink: /applist/
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
 ​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher) / [Lucy快速启动](https://www.yuque.com/lucy/lucy/record) / [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher)
+
+​	语音输入：[CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
 
 #### 2. 编辑工具
 
@@ -255,8 +257,6 @@ permalink: /applist/
 
 ​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager)[^2] 
 
-​	代理：[Clash for Windows v0.20.39](https://wwvc.lanzouv.com/b01xiazeh) (b6qz) / [Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) / [V2rayN](https://github.com/2dust/v2rayN) / [Clash Verge](Clash-for-Windows_Chinese)
-
 ​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz) / [Whisper](https://github.com/Const-me/Whisper) / [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
 
 ​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts)
@@ -328,8 +328,6 @@ permalink: /applist/
 ​	毒盘秒传转存：[狐悠](https://madonnalily.lanzoux.com/b093rxw4j)
 
 ​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer) / [质感文件](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/) / [MiXplorer](https://mixplorer.com/#intro)
-
-​	代理：[V2rayNG](https://github.com/2dust/v2rayNG) / [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
 ​	手机作电脑麦克风：[WO Mic](https://wolicheng.com/womic/)
 
