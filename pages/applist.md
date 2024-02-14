@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-02-13
+个人整理，长期更新。**最后编辑**：2024-02-14
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -99,7 +99,9 @@ permalink: /applist/
 
 ​	文件转换：[FileConverter](https://github.com/Tichau/FileConverter)
 
-​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker) / [Pipette](https://www.sttmedia.com/pipette-download) / [ColorPicker Max](https://github.com/Leo-Corporation/ColorPicker) / [Just Color Picker](https://annystudio.com/software/colorpicker) 
+​	取色器：[Colorpicker](https://github.com/Toinane/colorpicker) / [Pipette](https://www.sttmedia.com/pipette-download) / [ColorPicker Max](https://github.com/Leo-Corporation/ColorPicker) / [Just Color Picker](https://annystudio.com/software/colorpicker)
+
+​	输入法：[Rime](https://rime.im/download) / [fcitx5](https://github.com/fcitx/fcitx5)
 
 #### 3. 娱乐相关
 
@@ -397,7 +399,7 @@ permalink: /applist/
 
 #### 2. 资源
 
-​	字体：[字由](http://www.hellofont.cn/) / [100font](https://www.100font.com/) / [FREE FONTS](https://www.freefonts.io/) / [FONTSrepo](https://fontsrepo.com/) / [识字体网](https://www.likefont.com/) / [猫啃网](https://www.maoken.com/) / [Fontshare](https://www.fontshare.com/)
+​	字体：[字由](http://www.hellofont.cn) / [100font](https://www.100font.com) / [FREE FONTS](https://www.freefonts.io) / [FONTSrepo](https://fontsrepo.com) / [识字体网](https://www.likefont.com) / [猫啃网](https://www.maoken.com) / [Fontshare](https://www.fontshare.com) / [字体天下](https://www.fonts.net.cn)
 
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
