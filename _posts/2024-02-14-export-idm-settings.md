@@ -1,3 +1,7 @@
+---
+title: 导出Internet Download Manager设置
+---
+
 IDM设置的注册表保存路径为 `计算机\HKEY_CURRENT_USER\Software\DownloadManager`
 
 用bat导出idm注册表参考：
