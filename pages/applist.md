@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-02-14
+个人整理，长期更新。**最后编辑**：2024-02-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -185,7 +185,7 @@ permalink: /applist/
 
 ​	桌面分框：[Coodesker](https://wwvc.lanzouv.com/iNYm01aaz8xi) / [ModernBoxes](https://gitee.com/MchBlog/modern-box) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
 
-​	win11窗口效果：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts)
+​	win11窗口效果：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
 
 ​	多标签资源管理器：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
