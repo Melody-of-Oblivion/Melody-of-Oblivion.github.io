@@ -45,7 +45,7 @@ permalink: /applist/
 
 ​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
 
-​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher) / [Lucy快速启动](https://www.yuque.com/lucy/lucy/record) / [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher)
+​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher) / [Lucy快速启动](https://www.yuque.com/lucy/lucy/record) / [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) / [Rolan](https://wwz.lanzouj.com/b01xvqsgb) (9kto)
 
 ​	语音输入：[CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
 
@@ -315,11 +315,13 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense/)
 
-​	记账：[expenses](https://github.com/nominalista/expenses) / [鲨鱼记账](http://www.shayujizhang.com/) / [Timi记账](https://www.coolapk.com/apk/13621)
+​	记账：[expenses](https://github.com/nominalista/expenses) / [鲨鱼记账](http://www.shayujizhang.com/) / [Timi记账](https://www.coolapk.com/apk/13621) / [钱迹](https://www.qianjiapp.com) / [Oinkoin](https://github.com/emavgl/oinkoin)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
-​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps)
+​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download) / [SketchBook](https://www.sketchbook.com/apps)
+
+​	图像处理：[Image Toolbox](https://github.com/T8RIN/ImageToolbox)
 
 ​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 
