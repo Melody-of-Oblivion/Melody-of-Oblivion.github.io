@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-02-17
+个人整理，长期更新。**最后编辑**：2024-02-22
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -55,7 +55,7 @@ permalink: /applist/
 
 ​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/) / [CudaText](https://cudatext.github.io/download.html)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/) / [CudaText](https://cudatext.github.io/download.html) / [Lapce](https://github.com/lapce/lapce)
 
 ​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor) / [纯纯写作](https://writer.drakeet.com/desktop)
 
@@ -199,7 +199,7 @@ permalink: /applist/
 
 #### 5. 实用软件
 
-​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox) / [Vivaldi](https://vivaldi.com) / [TorBrowser](https://www.torproject.org) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net) / [Firefox (tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL)
+​	浏览器：[Edge](https://www.microsoft.com/zh-cn/edge) / [Chrome](https://www.google.com/chrome) / [Firefox](https://www.mozilla.org/zh-CN/firefox) / [Vivaldi](https://vivaldi.com) / [TorBrowser](https://www.torproject.org) / [FlashBrowser](https://github.com/radubirsan/FlashBrowser) / [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) / [Waterfox](https://www.waterfox.net) / [Firefox (tete009)](http://www1.plala.or.jp/tete009/en-US/software.html#FFDL) / [Catsxp](https://www.catsxp.com) / [Floorp](https://github.com/floorp-Projects/floorp)
 
 ​	解压缩：[Bandizip](https://www.bandisoft.com/bandizip) / [Bandizip 6.29](https://www.bandisoft.com/bandizip/dl.php?old) / [Peazip](https://peazip.github.io) / [7-Zip](https://www.7-zip.org/download.html) / [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd) / [NanaZip](https://github.com/M2Team/NanaZip) / [UZip](https://wws.lanzoui.com/b01zto9xc) (545h) / [SmartZip](https://github.com/vvyoko/SmartZip)
 
@@ -259,7 +259,7 @@ permalink: /applist/
 
 ​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager)[^2] 
 
-​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz) / [Whisper](https://github.com/Const-me/Whisper) / [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
+​	语音转文字：[Buzz](https://github.com/chidiwilliams/buzz) / [Whisper](https://github.com/Const-me/Whisper) / [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) / [faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI)
 
 ​	hosts管理：[SwitchHosts](https://github.com/oldj/SwitchHosts)
 
@@ -403,9 +403,11 @@ permalink: /applist/
 
 ​	字体：[字由](http://www.hellofont.cn) / [100font](https://www.100font.com) / [FREE FONTS](https://www.freefonts.io) / [FONTSrepo](https://fontsrepo.com) / [识字体网](https://www.likefont.com) / [猫啃网](https://www.maoken.com) / [Fontshare](https://www.fontshare.com) / [字体天下](https://www.fonts.net.cn)
 
+​	PPT模板：[爱PPT](https://www.2ppt.com) / [PPT宝藏](https://www.pptbz.com) / [PPT超级市场](https://www.pptsupermarket.com) / [优品PPT](https://www.ypppt.com)
+
 ​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
 
-​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn) / [NEXT, ITELLYOU](https://next.itellyou.cn) / [HelloWindows](https://hellowindows.cn) / [山己几子木](https://msdn.sjjzm.com) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com) / [极简系统](https://www.sysmini.com) / [Windows X-Lite](https://windowsxlite.com)
+​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn) / [NEXT, ITELLYOU](https://next.itellyou.cn) / [HelloWindows](https://hellowindows.cn) / [山己几子木](https://msdn.sjjzm.com) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com) / [极简系统](https://www.sysmini.com) / [Windows X-Lite](https://windowsxlite.com) / [UUP dump](https://uupdump.net) / [UUP dump中文站](https://www.uupdump.cn)
 
 ​	渐变颜色背景：[WebGradients](https://webgradients.com/)
 
