@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-02-22
+个人整理，长期更新。**最后编辑**：2024-02-26
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -71,7 +71,7 @@ permalink: /applist/
 
 ​	制谱软件：[MuseScore](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie) / [UNetbootin](https://unetbootin.github.io) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top) / [DawnPE](https://dawnpe.com) / [WinpeMaker](https://winpemaker.ccpe.net/download.html) / [ComPE](https://win-compe.top)
+​	启动盘制作工具：[Rufus](http://rufus.ie) / [UNetbootin](https://unetbootin.github.io) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top) / [DawnPE](https://dawnpe.com) / [WinpeMaker](https://winpemaker.ccpe.net/download.html) / [ComPE](https://win-compe.top) / [PanDa PE](https://www.pandadatech.cn/archives/pandape)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org) / [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 
@@ -304,6 +304,8 @@ permalink: /applist/
 ​	硬件检测：[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/) / [AIDA64](https://ldqk.lanzoux.com/ipJQTjew42b) / [HWiNFO](https://www.hwinfo.com/download/) / [图吧工具箱](https://www.tbtool.cn/)
 
 ​	任务栏信息显示：[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) / [XMeters](https://entropy6.com/xmeters/download/) / [TrayS](https://github.com/cgbsmy/TrayS)
+
+​	媒体信息查看：[MediaInfo](https://mediaarea.net/en/MediaInfo)
 
 ---
 
