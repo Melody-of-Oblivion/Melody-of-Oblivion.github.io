@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-02-26
+个人整理，长期更新。**最后编辑**：2024-02-28
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -121,7 +121,7 @@ permalink: /applist/
 
 ​	FFmpeg：[FFmpeg](https://ffmpeg.org/download.html) / [ffmpeg_batch](https://github.com/eibol/ffmpeg_batch) / [魔力玄](https://medlexo.is-an.app/cn.php)
 
-​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre) / [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download) / [Alexandria](https://github.com/btpf/Alexandria)
+​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre) / [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download) / [Alexandria](https://github.com/btpf/Alexandria) / [Jane Reader](https://janereader.com)
 
 ​	PDF阅读器：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com)
 
