@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-04
+个人整理，长期更新。**最后编辑**：2024-03-11
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -163,9 +163,7 @@ permalink: /applist/
 
 ​	虚拟光驱：[Daemon Tool](https://wwz.lanzouy.com/b01vzoqha) (2pxj)
 
-​	3DS模拟器：[citra](https://citra-emu.org/download)
-
-​	NS模拟器：[Ryujinx](https://ryujinx.org/download) / [yuzu](https://yuzu-emu.org/downloads)
+​	NS模拟器：[Ryujinx](https://ryujinx.org/download)
 
 ​	免费内网穿透：[cpolar](https://www.cpolar.com)
 
@@ -330,8 +328,6 @@ permalink: /applist/
 ​	浏览器：[Top浏览器](https://www.topc1.com/) / [X浏览器](https://www.xbext.com/) / [Via浏览器](https://viayoo.com/) / [Kiwi Browser](https://kiwibrowser.com/) / [雨见浏览器](https://www.yjllq.com/) / [狐猴浏览器](https://lemurbrowser.com/app/zh/index.html) / [可拓浏览器](https://www.coolapk.com/apk/com.yjllq.kito)
 
 ​	扫描：[Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) / [布丁扫描](https://www.huposcanner.com/)
-
-​	毒盘秒传转存：[狐悠](https://madonnalily.lanzoux.com/b093rxw4j)
 
 ​	文件管理器：[流舟文件](https://www.coolapk.com/apk/com.liuzho.file.explorer) / [质感文件](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/) / [MiXplorer](https://mixplorer.com/#intro)
 
