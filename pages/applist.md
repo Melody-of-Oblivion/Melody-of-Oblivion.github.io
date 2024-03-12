@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-11
+个人整理，长期更新。**最后编辑**：2024-03-12
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -443,31 +443,31 @@ permalink: /applist/
 
 ​	生成图表：[ChartsFactory](https://chartsfactory.com/)
 
-​	Excel工具：[ChatExcel](https://chatexcel.com/)
+​	Excel工具：[ChatExcel](https://chatexcel.com)
 
 ​	思维导图：[Simple mind map](https://wanglin2.github.io/mind-map/#/)
 
 ​	人声分离：[Vocal Remover and Isolation](https://vocalremover.org/zh/)
 
-​	在线抠图：[PhotoKit](https://photokit.com/) / [佐糖](https://picwish.cn/) / [BgSub](https://bgsub.cn/webapp/)
+​	在线抠图：[PhotoKit](https://photokit.com) / [佐糖](https://picwish.cn) / [BgSub](https://bgsub.cn/webapp)
 
-​	简历：[超级简历](https://www.wondercv.com/) / [简历下载](https://jianlixiazai.cn/)
+​	简历：[超级简历](https://www.wondercv.com) / [简历下载](https://jianlixiazai.cn)
 
-​	生成/解码二维码：[草料二维码](https://cli.im/)
+​	生成/解码二维码：[草料二维码](https://cli.im)
 
-​	日语辞书：[Weblio](https://www.weblio.jp/)
+​	日语辞书：[Weblio](https://www.weblio.jp)
 
 ​	方格纸生成：[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 
-​	智能图片放大：[Bigjpg](https://bigjpg.com/) / [AI Image Enlarger](https://imglarger.com/)
+​	智能图片放大：[Bigjpg](https://bigjpg.com) / [AI Image Enlarger](https://imglarger.com)
 
-​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com)
+​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com) / [图片极致压缩工具](https://imgtool.v1.mk)
 
 ​	图片格式转换：[imagesTool](https://imagestool.com) / [Images Tool v3.0](https://www.imagestool.cn)
 
 ​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
 
-​	短网址生成：[TinyURL](https://tinyurl.com/) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run/) / [Fito](https://fito.cc/)
+​	短网址生成：[TinyURL](https://tinyurl.com) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run/) / [Fito](https://fito.cc)
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
