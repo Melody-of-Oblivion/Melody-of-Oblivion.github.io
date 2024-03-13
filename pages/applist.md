@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-12
+个人整理，长期更新。**最后编辑**：2024-03-13
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -33,17 +33,17 @@ permalink: /applist/
 
 ​	快捷键：[Capslock+  v3.x](https://capslox.com/capslock-plus/)
 
-​	搜索工具：[Everything](https://www.voidtools.com/zh-cn/downloads/) / [EverythingToolbar](https://github.com/srwi/EverythingToolbar/) / [Fluent Search](https://fluentsearch.net/) / [Wox](https://github.com/Wox-launcher/Wox) / [dnGrep](https://github.com/dnGrep/dnGrep)
+​	搜索工具：[Everything](https://www.voidtools.com/zh-cn/downloads) / [EverythingToolbar](https://github.com/srwi/EverythingToolbar) / [Fluent Search](https://fluentsearch.net) / [Wox](https://github.com/Wox-launcher/Wox) / [dnGrep](https://github.com/dnGrep/dnGrep)
 
-​	截屏：[Snipaste](https://zh.snipaste.com/) / [ShareX](https://getsharex.com/) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com/) / [ScreenCapture](https://github.com/xland/ScreenCapture) / [pear-rec](https://github.com/027xiguapi/pear-rec) / [Sunny](https://github.com/XMuli/SunnyPages)
+​	截屏：[Snipaste](https://zh.snipaste.com) / [ShareX](https://getsharex.com) / [eSearch](https://github.com/xushengfeng/eSearch) / [VeryCapture](https://verycapture.com/cn/download.html) / [QQ截图提取版](https://bbs.pediy.com/thread-271225.htm) / [X-Snip](http://xsnip.cn/index.html) / [PixPin](https://pixpinapp.com) / [ScreenCapture](https://github.com/xland/ScreenCapture) / [pear-rec](https://github.com/027xiguapi/pear-rec) / [Sunny](https://github.com/XMuli/SunnyPages)
 
 ​	文件预览：[QuickLook](https://github.com/QL-Win/QuickLook)
 
-​	文件复制：[FastCopy](https://fastcopy.jp/)
+​	文件复制：[FastCopy](https://fastcopy.jp)
 
-​	文件批量重命名：[Ant Renamer](http://www.antp.be/software/renamer/download) / [MiniRenamer](https://abc100.net/106/)
+​	文件批量重命名：[Ant Renamer](http://www.antp.be/software/renamer/download) / [MiniRenamer](https://abc100.net/106)
 
-​	自动化脚本语言：[AHK](https://www.autohotkey.com/)
+​	自动化脚本语言：[AHK](https://www.autohotkey.com)
 
 ​	启动器：[Maye](https://github.com/25H/Maya) / [MayeLite](https://github.com/25H/MayeLite) / [DawnLauncher](https://github.com/fanchenio/DawnLauncher) / [Lucy快速启动](https://www.yuque.com/lucy/lucy/record) / [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) / [Rolan](https://wwz.lanzouj.com/b01xvqsgb) (9kto)
 
@@ -51,21 +51,21 @@ permalink: /applist/
 
 #### 2. 编辑工具
 
-​	图像处理：[GIMP](https://www.gimp.org/downloads/) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download/) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh/) / [PhotoDemon](https://photodemon.org/)
+​	图像处理：[GIMP](https://www.gimp.org/downloads) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org/zh/download-zh/krita-desktop-zh) / [PhotoDemon](https://photodemon.org)
 
 ​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 
-​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com/) / [CudaText](https://cudatext.github.io/download.html) / [Lapce](https://github.com/lapce/lapce)
+​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com) / [CudaText](https://cudatext.github.io/download.html) / [Lapce](https://github.com/lapce/lapce)
 
-​	Markdown编辑器：[Typora](https://www.typora.io/) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor) / [纯纯写作](https://writer.drakeet.com/desktop)
+​	Markdown编辑器：[Typora](https://www.typora.io) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor) / [纯纯写作](https://writer.drakeet.com/desktop)
 
-​	笔记软件：[Obsidian](https://obsidian.md/) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus)
+​	笔记软件：[Obsidian](https://obsidian.md) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus)
 
-​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp/) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download/)
+​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download)
 
-​	Office：[FreeOffice](https://www.freeoffice.com/) / [LibreOffice](https://zh-cn.libreoffice.org/) / [OnlyOffice](https://www.onlyoffice.com/zh/download-docs.aspx?from=default)
+​	Office：[FreeOffice](https://www.freeoffice.com) / [LibreOffice](https://zh-cn.libreoffice.org) / [OnlyOffice](https://www.onlyoffice.com/zh/download-docs.aspx?from=default)
 
-​	Office辅助：[iSlide](https://www.islide.cc/download) / [UUOffice工具箱](http://www.uuoffice.net/)
+​	Office辅助：[iSlide](https://www.islide.cc/download) / [UUOffice工具箱](http://www.uuoffice.net) / [ASAP Utilities](https://www.asap-utilities.com/download-asap-utilities.php)
 
 ​	Office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) / [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
@@ -79,7 +79,7 @@ permalink: /applist/
 
 ​	流程图：[drawio-desktop](https://github.com/jgraph/drawio-desktop) / [Excalidraw](https://github.com/excalidraw/excalidraw)
 
-​	图像压缩：[Riot](https://riot-optimizer.com/download/) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](http://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech/) / [Rimage](https://github.com/SalOne22/rimage)
+​	图像压缩：[Riot](https://riot-optimizer.com/download) / [Imagine](https://github.com/meowtec/Imagine) / [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) / [Jpg-C](http://zzy.my/blog/post/Jpg-C) / [squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) / [图压](https://tuya.xinxiao.tech) / [Rimage](https://github.com/SalOne22/rimage)
 
 ​	图像超分辨率：[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) / [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [Waifu2x-GUI](https://github.com/Tenpi/Waifu2x-GUI) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [Real-CUGAN](https://github.com/nihui/realcugan-ncnn-vulkan) / [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) / [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) / [Upscayl](https://github.com/upscayl/upscayl) / [Final2x](https://github.com/Tohrusky/Final2x) / [ManaPixel](https://github.com/isNineSun/ManaPixel) / [MoeSR](https://github.com/TeamMoeAI/MoeSR)
 
@@ -91,7 +91,7 @@ permalink: /applist/
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads)
 
-​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) / [Freeplane](https://docs.freeplane.org/) / [Excalidraw](https://excalidraw.com/) / [Handraw](https://handraw.top/) / [LN思维导图](http://www.lesliexin.com/pc/lne_lnmindmap.html) / [AmyMind](https://amymind.com/) / [Simple mind map](https://github.com/wanglin2/mind-map)
+​	思维导图：[幕布](https://mubu.com/apps) / [知犀](https://www.zhixi.com/download) / [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) / [Freeplane](https://docs.freeplane.org) / [Excalidraw](https://excalidraw.com) / [Handraw](https://handraw.top) / [LN思维导图](http://www.lesliexin.com/pc/lne_lnmindmap.html) / [AmyMind](https://amymind.com) / [Simple mind map](https://github.com/wanglin2/mind-map)
 
 ​	人声分离：[SpleeterGUI](https://makenweb.com/#spleetergui) / [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
 
@@ -111,7 +111,7 @@ permalink: /applist/
 
 ​	解码器：[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic) / [来自设备制造商的 HEVC 视频扩展](https://apps.microsoft.com/detail/9N4WGH0Z6VHQ?hl=zh-cn&gl=US)
 
-​	聊天软件：[Discord](https://discord.onl/download) / [LINE](https://line.me) / [VoceChat](https://doc.voce.chat/zh-cn) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
+​	聊天软件：[Discord](https://discord.onl/download) / [VoceChat](https://doc.voce.chat/zh-cn) / [Telegram desktop](https://github.com/telegramdesktop/tdesktop) / [64Gram](https://github.com/TDesktop-x64/tdesktop)
 
 ​	视频播放器：[Potplayer](https://potplayer.tv/?lang=zh_CN) / [mpv](https://mpv.io/installation) / [弹弹Play](http://www.dandanplay.com) / [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) / [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) / [VLC](https://www.videolan.org/vlc) / [mpv.net](https://github.com/stax76/mpv.net) / [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) / [ScreenBox](https://apps.microsoft.com/detail/screenbox-media-player/9NTSNMSVCB5L) / [MPV_lazy](https://github.com/hooke007/MPV_lazy) / [ImPlay](https://github.com/tsl0922/ImPlay) / [Awesome mpv](https://github.com/stax76/awesome-mpv) / [MPC-QT](https://github.com/mpc-qt/mpc-qt)
 
