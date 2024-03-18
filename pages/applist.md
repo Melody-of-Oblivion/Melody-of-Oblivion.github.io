@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-13
+个人整理，长期更新。**最后编辑**：2024-03-18
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -127,7 +127,7 @@ permalink: /applist/
 
 ​	Gal翻译器：[YUKI](https://github.com/project-yuki/YUKI) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
 
-​	翻译工具：[有道词典](https://cidian.youdao.com) / [CopyTranslator](https://copytranslator.github.io/download) / [STranslate](https://github.com/zggsong/stranslate)
+​	翻译工具：[有道词典](https://cidian.youdao.com) / [CopyTranslator](https://copytranslator.github.io/download) / [STranslate](https://github.com/ZGGSONG/STranslate)
 
 ​	Gal特殊码获取：[MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder) / [Textractor](https://github.com/Artikash/Textractor)
 
@@ -215,19 +215,19 @@ permalink: /applist/
 
 ​	远程协助/串流：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en) / [Parsec](https://parsec.app/downloads) / [Rustdesk](https://github.com/rustdesk/rustdesk) / [Moonlight](https://moonlight-stream.org) / [SteamLink](https://store.steampowered.com/remoteplay)
 
-​	手机投屏：[AnLink](https://cn.anlinksoft.com) / [Scrcpy](https://github.com/Genymobile/scrcpy) / [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+​	手机投屏：[AnLink](https://cn.anlinksoft.com) / [Scrcpy](https://github.com/Genymobile/scrcpy) / [QtScrcpy](https://github.com/barry-ran/QtScrcpy) / [FreeControl](https://github.com/pdone/FreeControl)
 
-​	系统工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev/) / [云图工具箱](https://wintool.cc/)
+​	系统工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev) / [云图工具箱](https://wintool.cc)
 
-​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd/index.html)
+​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd)
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
-​	OCR：[OCR助手](https://ocr.oldfish.cn/) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab) / [gImageReader](https://github.com/manisandro/gImageReader) / [dpscreenocr](https://github.com/danpla/dpscreenocr)
+​	OCR：[OCR助手](https://ocr.oldfish.cn) / [天若OCR个人维护版](https://gitee.com/wanglifree/tianruoocr-cl) ([wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)) / [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) / [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) / [Text-Grab](https://github.com/TheJoeFin/Text-Grab) / [gImageReader](https://github.com/manisandro/gImageReader) / [dpscreenocr](https://github.com/danpla/dpscreenocr)
 
 ​	文字提取：[Textify](https://github.com/Hunlongyu/Textify)
 
-​	Git：[Github Desktop](https://desktop.github.com/) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com/)
+​	Git：[Github Desktop](https://desktop.github.com) / [Git](https://git-scm.com/downloads) / [Sourcetree](https://www.sourcetreeapp.com)
 
 ​	Gist：[Lepton](https://github.com/hackjutsu/Lepton)
 
@@ -243,7 +243,7 @@ permalink: /applist/
 
 ​	复制粘贴中转：[DropPoint](https://github.com/GameGodS3/DropPoint)
 
-​	字体管理工具：[nexusfont](https://www.xiles.app/)
+​	字体管理工具：[nexusfont](https://www.xiles.app)
 
 ​	字体抽取工具：[fontmin-app](https://github.com/ecomfe/fontmin-app)
 
@@ -263,7 +263,7 @@ permalink: /applist/
 
 ​	包管理器：[WingetUI](https://github.com/marticliment/WingetUI)
 
-​	私人微博：[flomo](https://flomoapp.com/) / [memos](https://github.com/usememos/memos)
+​	私人微博：[flomo](https://flomoapp.com) / [memos](https://github.com/usememos/memos)
 
 ​	屏幕局部放大：[Milky Warp](https://github.com/hugoattal/milky-warp)
 
@@ -309,7 +309,7 @@ permalink: /applist/
 
 ## ▌<span id="2">手机应用</span>
 
-####	1. 工具类
+####	1. 工具
 
 ​	动态壁纸：[星空壁纸引擎](https://a.app.qq.com/o/simple.jsp?pkgname=yyc.xk)
 
@@ -341,6 +341,8 @@ permalink: /applist/
 
 ​	解压缩：[ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 
+​	天气：[Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+
 #### 2. 娱乐
 
 ​	P站相关：[PXVR](https://pxvr.xyz) / [pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android/) / [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) / [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) / [PANSY](https://github.com/niuhuan/pansy)
@@ -365,35 +367,35 @@ permalink: /applist/
 
 #### 1. 服务
 
-​	学点编程的网站：[菜鸟教程](https://www.runoob.com/)
+​	学点编程的网站：[菜鸟教程](https://www.runoob.com)
 
-​	新番表：[YuC's AnimeList](https://yuc.wiki/) / [ACG Secrets.HK](https://acgsecrets.hk/bangumi/)
+​	新番表：[YuC's AnimeList](https://yuc.wiki) / [ACG Secrets.HK](https://acgsecrets.hk/bangumi)
 
-​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com/)
+​	英语作文打分：[微软爱写作](https://aimwriting.mtutor.engkoo.com)
 
-​	英语句子分析：[Enpuz](http://enpuz.com/)
+​	英语句子分析：[Enpuz](http://enpuz.com)
 
-​	打字练习：[Qwerty Learner](https://qwerty.kaiyi.cool/)
+​	打字练习：[Qwerty Learner](https://qwerty.kaiyi.cool)
 
-​	看板：[Personal Kanban](https://personalkanban.js.org/) / [Trello](https://trello.com/home)
+​	看板：[Personal Kanban](https://personalkanban.js.org) / [Trello](https://trello.com/home)
 
-​	文字识别：[PearOCR](https://pearocr.com/) / [CatOCR](https://catocr.com/#/) / [OLOCR](https://olocr.com/zh-CN) / [OCRSpace](https://ocr.space/)
+​	文字识别：[PearOCR](https://pearocr.com) / [CatOCR](https://catocr.com/#/) / [OLOCR](https://olocr.com/zh-CN) / [OCRSpace](https://ocr.space)
 
-​	云汉化平台：[ParaTranz](https://paratranz.cn/)
+​	云汉化平台：[ParaTranz](https://paratranz.cn)
 
-​	磁链转种子：[magnet2torrent](http://magnet2torrent.com/) / [TorrentKitty](https://www.torrentkitty.tv/)
+​	磁链转种子：[magnet2torrent](http://magnet2torrent.com) / [TorrentKitty](https://www.torrentkitty.tv)
 
-​	编程字体选择：[CodingFont](https://www.codingfont.com/)
+​	编程字体选择：[CodingFont](https://www.codingfont.com)
 
-​	个人碎片知识库：[Cubox](https://cubox.pro/)
+​	个人碎片知识库：[Cubox](https://cubox.pro)
 
-​	在线LaTeX公式编辑器：[LaTeX公式编辑器](https://www.latexlive.com/)
+​	在线LaTeX公式编辑器：[LaTeX公式编辑器](https://www.latexlive.com)
 
-​	浏览器跑分：[BASEMARK](https://web.basemark.com/)
+​	浏览器跑分：[BASEMARK](https://web.basemark.com)
 
-​	在线md简历制作：[木及简历](https://www.mujicv.com/index.html)
+​	在线md简历制作：[木及简历](https://www.mujicv.com)
 
-​	搜题：[简答题](https://www.jiandati.com/)
+​	搜题：[简答题](https://www.jiandati.com)
 
 ​	动态壁纸推荐：[Wallpeper Engine Space](https://www.wallpaperengine.space/collections)
 
@@ -403,27 +405,27 @@ permalink: /applist/
 
 ​	PPT模板：[爱PPT](https://www.2ppt.com) / [PPT宝藏](https://www.pptbz.com) / [PPT超级市场](https://www.pptsupermarket.com) / [优品PPT](https://www.ypppt.com)
 
-​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn/)
+​	颜色代码：[Encycolorpedia](https://encycolorpedia.cn)
 
 ​	MS镜像资源：[MSDN,我告诉你](https://msdn.itellyou.cn) / [NEXT, ITELLYOU](https://next.itellyou.cn) / [HelloWindows](https://hellowindows.cn) / [山己几子木](https://msdn.sjjzm.com) / [OS.click](https://os.click) / [MSDN系统库](https://www.xitongku.com) / [极简系统](https://www.sysmini.com) / [Windows X-Lite](https://windowsxlite.com) / [UUP dump](https://uupdump.net) / [UUP dump中文站](https://www.uupdump.cn)
 
-​	渐变颜色背景：[WebGradients](https://webgradients.com/)
+​	渐变颜色背景：[WebGradients](https://webgradients.com)
 
-​	背景生成：[CoolBackgrounds](https://coolbackgrounds.io/)
+​	背景生成：[CoolBackgrounds](https://coolbackgrounds.io)
 
 ​	天梯图：[PC显卡](https://www.mydrivers.com/zhuanti/tianti/gpu/index.html) / [PC处理器](https://www.mydrivers.com/zhuanti/tianti/cpu/index.html) / [手机处理器](https://www.mydrivers.com/zhuanti/tianti/01/index.html)
 
-​	代码图片生成：[Codeimg](https://codeimg.io/) / [Ray.so](https://ray.so/)
+​	代码图片生成：[Codeimg](https://codeimg.io) / [Ray.so](https://ray.so)
 
-​	选择开源许可：[choosealicense.com](https://choosealicense.com/)
+​	选择开源许可：[choosealicense.com](https://choosealicense.com)
 
-​	声音素材库：[Mixkit](https://mixkit.co/)
+​	声音素材库：[Mixkit](https://mixkit.co)
 
-​	中华古籍资源库：[中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
+​	中华古籍资源库：[中华古籍资源库](http://www.nlc.cn/pcab/zy/zhgj_zyk)
 
-​	Sci-Hub：[ru](https://sci-hub.ru/) / [se](https://sci-hub.se/) / [st](https://sci-hub.st/) / [ren](https://sci-hub.ren/)
+​	中国诗词：[AsPoem](https://aspoem.com)
 
-​	美化素材：[致美化](https://zhutix.com/) / [枫の主题社](https://winmoes.com/) / [DP社区](https://www.dp712.com/) / [萌研社](http://www.pcmoe.net/)
+​	美化素材：[致美化](https://zhutix.com) / [枫の主题社](https://winmoes.com) / [DP社区](https://www.dp712.com) / [萌研社](http://www.pcmoe.net)
 
 #### 3. 工具
 
@@ -437,17 +439,17 @@ permalink: /applist/
 
 ​	格式转换：[Convertio](https://convertio.co) / [Online-Convert](https://www.online-convert.com)
 
-​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh/) / [SpeedPDF](https://speedpdf.com/zh-cn/) / [PDF24 Tools](https://tools.pdf24.org/) / [docsmall](https://docsmall.com/) / [CleverPDF](https://www.cleverpdf.com/) / [iLovePDF](https://www.ilovepdf.com) / [超级PDF](https://xpdf.cn)
+​	PDF工具：[Smallpdf](https://smallpdf.com/cn/pdf-tools) / [LightPDF](https://lightpdf.com/zh) / [SpeedPDF](https://speedpdf.com/zh-cn) / [PDF24 Tools](https://tools.pdf24.org) / [docsmall](https://docsmall.com) / [CleverPDF](https://www.cleverpdf.com) / [iLovePDF](https://www.ilovepdf.com) / [超级PDF](https://xpdf.cn)
 
 ​	一站式产品设计工具：[MasterGo](https://mastergo.com)
 
-​	生成图表：[ChartsFactory](https://chartsfactory.com/)
+​	生成图表：[ChartsFactory](https://chartsfactory.com)
 
 ​	Excel工具：[ChatExcel](https://chatexcel.com)
 
 ​	思维导图：[Simple mind map](https://wanglin2.github.io/mind-map/#/)
 
-​	人声分离：[Vocal Remover and Isolation](https://vocalremover.org/zh/)
+​	人声分离：[Vocal Remover and Isolation](https://vocalremover.org/zh)
 
 ​	在线抠图：[PhotoKit](https://photokit.com) / [佐糖](https://picwish.cn) / [BgSub](https://bgsub.cn/webapp)
 
