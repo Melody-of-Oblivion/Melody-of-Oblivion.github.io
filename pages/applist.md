@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-18
+个人整理，长期更新。**最后编辑**：2024-03-20
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -433,6 +433,8 @@ permalink: /applist/
 
 ​	在线编辑：[Photopea](https://www.photopea.com) / [Vectorpea](https://www.vectorpea.com)
 
+​	在线markdown编辑器：[StackEdit](https://stackedit.io/app#)
+
 ​	文件传输：[SnapDrop](https://snapdrop.net) / [Simple.Savr](https://www.ssavr.com) / [transfer.zip](https://transfer.zip)
 
 ​	流程图：[ProcessOn](https://www.processon.com)
@@ -480,6 +482,8 @@ permalink: /applist/
 ​	软件替代：[AlternativeTo](https://alternativeto.net)
 
 ​	在线txt阅读器：[易笺](https://txt.xrl.app)
+
+​	沙箱：[大圣云沙箱](https://mac-cloud.riskivy.com/detect) / [微步云沙箱](https://s.threatbook.cn) / [VirusTotal](https://www.virustotal.com)
 
 ​    
 
