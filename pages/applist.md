@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-22
+个人整理，长期更新。**最后编辑**：2024-03-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -123,7 +123,7 @@ permalink: /applist/
 
 ​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre) / [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download) / [Alexandria](https://github.com/btpf/Alexandria) / [Jane Reader](https://janereader.com)
 
-​	PDF阅读器：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com)
+​	PDF工具：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com) / [PDFgear](https://www.pdfgear.com) / [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ​	Gal翻译器：[YUKI](https://github.com/project-yuki/YUKI) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
 
@@ -163,7 +163,7 @@ permalink: /applist/
 
 ​	虚拟光驱：[Daemon Tool](https://wwz.lanzouy.com/b01vzoqha) (2pxj)
 
-​	NS模拟器：[Ryujinx](https://ryujinx.org/download)
+​	主机模拟器：[Ryujinx](https://ryujinx.org/download) / [Xenia](https://github.com/xenia-project/xenia)
 
 ​	免费内网穿透：[cpolar](https://www.cpolar.com)
 
@@ -215,7 +215,7 @@ permalink: /applist/
 
 ​	远程协助/串流：[ToDesk](https://www.todesk.com/download.html) / [TRUSTVIEWER](http://trustviewer.com/en) / [Parsec](https://parsec.app/downloads) / [Rustdesk](https://github.com/rustdesk/rustdesk) / [Moonlight](https://moonlight-stream.org) / [SteamLink](https://store.steampowered.com/remoteplay)
 
-​	手机投屏：[AnLink](https://cn.anlinksoft.com) / [Scrcpy](https://github.com/Genymobile/scrcpy) / [QtScrcpy](https://github.com/barry-ran/QtScrcpy) / [FreeControl](https://github.com/pdone/FreeControl)
+​	手机投屏：[AnLink](https://cn.anlinksoft.com) / [Scrcpy](https://github.com/Genymobile/scrcpy) / [QtScrcpy](https://github.com/barry-ran/QtScrcpy) / [FreeControl](https://github.com/pdone/FreeControl) / [Escrcpy](https://github.com/viarotel-org/escrcpy)
 
 ​	系统工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev) / [云图工具箱](https://wintool.cc)
 
