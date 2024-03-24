@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-23
+个人整理，长期更新。**最后编辑**：2024-03-24
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -123,7 +123,7 @@ permalink: /applist/
 
 ​	EPUB阅读器：[Calibre](https://github.com/kovidgoyal/calibre) / [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) / [Neat Reader](https://www.neat-reader.cn/downloads/windows) / [Koodo Reader](https://github.com/troyeguo/koodo-reader) / [Awaken](https://github.com/dtysky/Awaken) / [Kavita](https://www.kavitareader.com/#download) / [Alexandria](https://github.com/btpf/Alexandria) / [Jane Reader](https://janereader.com)
 
-​	PDF工具：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com) / [PDFgear](https://www.pdfgear.com) / [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+​	PDF工具：[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) / [知之阅读](http://www.zhizhireader.com) / [PDFgear](https://www.pdfgear.com) / [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) / [PDF-Guru](https://ybu95w493r.feishu.cn/docx/Xu3NdUub9ojwA7xrI5NcqdApnQb) (密码: 4C%5$9t;)
 
 ​	Gal翻译器：[YUKI](https://github.com/project-yuki/YUKI) / [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) / [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) / [TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator) / [LunaTranslator](https://github.com/HIllya51/LunaTranslator) / [VNREX](https://github.com/DDWSdwqdq/VNREX)
 
